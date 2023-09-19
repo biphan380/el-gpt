@@ -77,25 +77,34 @@ with open('text_chunks.txt', 'w') as chunk_file:
 
 print(doc_idxs)
 
-# '''
-# We convert each chunk into a TextNode object, a low-level data abstraction in LlamaIndex 
-# that stores content but also allows defining metadata + relationships with other Nodes.
+'''
+We convert each chunk into a TextNode object, a low-level data abstraction in LlamaIndex 
+that stores content but also allows defining metadata + relationships with other Nodes.
 
-# We inject metadata from the document into each node.
-# This essentially replicates logic in our SimpleNodePraser
-# '''
+We inject metadata from the document into each node.
+This essentially replicates logic in our SimpleNodePraser
+'''
 
-# from llama_index.schema import TextNode
+from llama_index.schema import TextNode
 
-# nodes = [] 
+nodes = [] 
 
-# for idx, text_chunk in enumerate(text_chunks):
-#     node = TextNode(
-#         text=text_chunk,
-#     )
-#     src_doc = documents[doc_idxs[idx]]
-#     node.metadata = src_doc.metadata
-#     nodes.append(node)
+for idx, text_chunk in enumerate(text_chunks):
+    node = TextNode(
+        text=text_chunk,
+    )
+    src_doc = documents[doc_idxs[idx]] # We can see why doc_idxs is structured the way it is, to ensure
+    node.metadata = src_doc.metadata   # That the node will always find which src_doc it came from.  
+    nodes.append(node)                 # Only thing is, I don't think the src_doc has any metadata right now
+                                       # Look at documents.txt and you will see the Metadata output is blank 
 
-# # print a sample node
-# print(nodes[0].get_metadata_str())
+# print a sample node
+with open('sample_node.txt', 'w') as node_file:
+    for node in nodes:
+        node_file.write(str(node))
+        node_file.write("seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_ends")
+
+print(len(nodes))
+
+# WARNING for Kent. At this point, I've deleted all the .txt files and re run the program many times, so 
+# the txt files you're seeing may be different than what's shown in the previous commit 

@@ -1,0 +1,119 @@
+Node ID: d6e495fc-9fc9-43f3-a587-5a5e61978c65
+Text: <!DOCTYPE html>         <html lang="en">                 <head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>Captcha | CanLII</title>                              <meta
+name="google-site-verification"
+content="b9XXMP1TAMRAqDZyMRVBYSkrf1PIb1SxrfIBiE2klc4" /> <!--
+canlii.org -->                         <meta name="google-site-
+verification" content="HKhxINdGOLSt8h_j8SdpXbmS9VDJ_WFxO...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: bf99f7be-7d73-425c-ab97-71e2c447d9bc
+Text: 2.1-web/css/v5-font-
+face.min-1cb7f16555da63aecd2828d3d3130d85.css" />
+<link rel="stylesheet" type="text/css" href="/css/canlii-
+global-9d77627668ac1e42f1ea1f5f7570070b.css" />                 <link
+rel="stylesheet" type="text/css"
+href="/css/social-66db81a10fd9a455594a0f8ae55cb3a0.css" />
+<link rel="stylesheet" type="text/css" href="/css/errorPages-63a0...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: ecfd876d-a423-4bad-87ff-bd1478847cd4
+Text: js"></script>
+</head>                 <body class="bootstrap">
+<div id="wrap">         <div id="canliiHeader" class="bootstrap"
+role="banner">                 <div id="headerContent"
+class="canliiContent">                         <div id="canliiLogo">
+<a class="canlii" href="/en/" aria-label="Home">
+<!--[if lte IE 9 ]><img src="/images/canliiLogo.png" alt="CanLII Logo"
+/><![...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 9577e46c-8969-470f-87d0-0fa2333d9154
+Text: </p>         <p>                 Happy Searching!         </p>
+</div>  <div style="padding-top: 10px;" id="captchaForm">
+<form name="captchaForm" action="/captcha/eval.do"
+onsubmit="document.captchaForm.hash.value=window.location.hash;">
+<img id="captchaTag" src="/captcha/captcha.do?id=70.27.132.118"
+alt="Captcha"/>                 <audio id="audioCaptchaTag"
+style="display: none;" p...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 31bbeecc-71f0-4058-bff8-0c701a20be43
+Text: html">What is CanLII</a>
+</div>                                 </div>
+<div class="row py-1">                                         <div
+class="col">                                                 <a
+class="canlii" href="/en/info/board.html">Board of Directors</a>
+</div>                                 </div>
+<div class="row py-1">                                         <div
+class="col">                                                 <a
+class="canlii" href="/en/info/contact.html">Contact Us</a>
+</div>                                 </div>
+</div>         ...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 412d7a13-8651-4b3d-94b8-464181de1153
+Text: canlii.org/">myCanLII</a>
+</div>                                 </div>
+</div>                                                  <div
+class="col-6 col-md-3">                                 <div
+class="row footer-column-header">
+<div class="col">                                                 HELP
+</div>                                 </div>
+<div class="row py-1">                                         <div
+class="col">                                                 <a
+class="canlii" href="/en/info/faq.html">Frequently Asked Questions</a>
+</div>                                 </div>...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 06d8f1c4-a9a8-458c-a304-3e30eae9c063
+Text: facebook.com/CanLII.org/"><i id="facebookTooltip"
+title="Facebook" aria-hidden="true" class="fab fa-facebook-f canlii-
+icon"></i></a>                                 <a class="px-2 icons"
+aria-label="Instagram"
+href="https://www.instagram.com/canlii_legal/"><i
+id="instagramTooltip" title="Instagram" aria-hidden="true" class="fab
+fa-instagram canlii-icon"></i></a>                                 <a
+cla...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: cdfe2a39-b9f4-42a6-a95b-dd3c2d403c4c
+Text: <!DOCTYPE html>         <html lang="en">                 <head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>Captcha | CanLII</title>                              <meta
+name="google-site-verification"
+content="b9XXMP1TAMRAqDZyMRVBYSkrf1PIb1SxrfIBiE2klc4" /> <!--
+canlii.org -->                         <meta name="google-site-
+verification" content="HKhxINdGOLSt8h_j8SdpXbmS9VDJ_WFxO...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 54f27dda-cd7b-430f-a2a6-d2197fa0d5a5
+Text: 2.1-web/css/v5-font-
+face.min-1cb7f16555da63aecd2828d3d3130d85.css" />
+<link rel="stylesheet" type="text/css" href="/css/canlii-
+global-9d77627668ac1e42f1ea1f5f7570070b.css" />                 <link
+rel="stylesheet" type="text/css"
+href="/css/social-66db81a10fd9a455594a0f8ae55cb3a0.css" />
+<link rel="stylesheet" type="text/css" href="/css/errorPages-63a0...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: d508bd96-945f-47e8-9f30-e1bde46a16e8
+Text: js"></script>
+</head>                 <body class="bootstrap">
+<div id="wrap">         <div id="canliiHeader" class="bootstrap"
+role="banner">                 <div id="headerContent"
+class="canliiContent">                         <div id="canliiLogo">
+<a class="canlii" href="/en/" aria-label="Home">
+<!--[if lte IE 9 ]><img src="/images/canliiLogo.png" alt="CanLII Logo"
+/><![...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 708b5764-c0c9-4b32-835a-849823b7f319
+Text: </p>         <p>                 Happy Searching!         </p>
+</div>  <div style="padding-top: 10px;" id="captchaForm">
+<form name="captchaForm" action="/captcha/eval.do"
+onsubmit="document.captchaForm.hash.value=window.location.hash;">
+<img id="captchaTag" src="/captcha/captcha.do?id=70.27.132.118"
+alt="Captcha"/>                 <audio id="audioCaptchaTag"
+style="display: none;" p...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 7399ec47-37bc-4cb1-a2b2-df4cef8ae814
+Text: html">What is CanLII</a>
+</div>                                 </div>
+<div class="row py-1">                                         <div
+class="col">                                                 <a
+class="canlii" href="/en/info/board.html">Board of Directors</a>
+</div>                                 </div>
+<div class="row py-1">                                         <div
+class="col">                                                 <a
+class="canlii" href="/en/info/contact.html">Contact Us</a>
+</div>                                 </div>
+</div>         ...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: dd31e8bd-114f-4c9f-84d8-3c26948597d3
+Text: canlii.org/">myCanLII</a>
+</div>                                 </div>
+</div>                                                  <div
+class="col-6 col-md-3">                                 <div
+class="row footer-column-header">
+<div class="col">                                                 HELP
+</div>                                 </div>
+<div class="row py-1">                                         <div
+class="col">                                                 <a
+class="canlii" href="/en/info/faq.html">Frequently Asked Questions</a>
+</div>                                 </div>...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 47b618d8-4d65-4177-ba79-4f8307dfee50
+Text: facebook.com/CanLII.org/"><i id="facebookTooltip"
+title="Facebook" aria-hidden="true" class="fab fa-facebook-f canlii-
+icon"></i></a>                                 <a class="px-2 icons"
+aria-label="Instagram"
+href="https://www.instagram.com/canlii_legal/"><i
+id="instagramTooltip" title="Instagram" aria-hidden="true" class="fab
+fa-instagram canlii-icon"></i></a>                                 <a
+cla...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_ends
