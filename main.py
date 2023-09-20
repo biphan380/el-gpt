@@ -148,9 +148,9 @@ import chromadb
 # create client and a new collection
 
 import chromadb
-chroma_client = chromadb.Client()
+db = chromadb.PersistentClient(path="./chroma_db")
 
-collection = chroma_client.create_collection(name="my_collection")
+collection = db.get_or_create_collection(name="my_collection")
 
 vector_store = ChromaVectorStore(chroma_collection=collection)
 vector_store.add(nodes=nodes)
