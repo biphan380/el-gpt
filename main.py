@@ -140,15 +140,24 @@ for node in nodes:
     )
     node.embedding = node_embedding
 
-from llama_index.vector_stores import SimpleVectorStore
+# Create ChromaVectorStore
 
-vector_store = SimpleVectorStore()
+from llama_index.vector_stores import ChromaVectorStore
+import chromadb
+
+# create client and a new collection
+
+import chromadb
+chroma_client = chromadb.Client()
+
+collection = chroma_client.create_collection(name="my_collection")
+
+vector_store = ChromaVectorStore(chroma_collection=collection)
 vector_store.add(nodes=nodes)
-
-from llama_index import VectorStoreIndex
-from llama_index.storage import StorageContext
 
 index = VectorStoreIndex.from_vector_store(vector_store)
 
-print(vector_store.stores_text)
-
+# Query Data
+query_engine = index.as_query_engine()
+response = query_engine.query("Give me a summary of the Human Rights Tribunal Case between Ronald Phipps and the Toronto Police Services Board")
+print(response)
