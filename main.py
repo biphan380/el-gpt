@@ -108,3 +108,25 @@ print(len(nodes))
 
 # WARNING for Kent. At this point, I've deleted all the .txt files and re run the program many times, so 
 # the txt files you're seeing may be different than what's shown in the previous commit 
+
+# Let's extract metadata from the body of each node and attach it as metadata
+
+from llama_index.node_parser.extractors import (
+    MetadataExtractor,
+    QuestionsAnsweredExtractor,
+    TitleExtractor,
+)
+from llama_index.llms import OpenAI
+
+llm = OpenAI(model="gpt-3.5-turbo")
+
+metadata_extractor = MetadataExtractor(
+    extractors=[
+        TitleExtractor(nodes=5, llm=llm),
+        QuestionsAnsweredExtractor(questions=3, llm=llm),
+    ],
+    in_place=False,
+)
+
+nodes = metadata_extractor.process_nodes(nodes)
+
