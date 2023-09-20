@@ -130,3 +130,13 @@ metadata_extractor = MetadataExtractor(
 
 nodes = metadata_extractor.process_nodes(nodes)
 
+from llama_index.embeddings import OpenAIEmbedding
+
+embed_model = OpenAIEmbedding()
+
+for node in nodes:
+    node_embedding = embed_model.get_text_embedding(
+        node.get_content(metadata_mode="all")
+    )
+    node.embedding = node_embedding
+
