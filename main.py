@@ -118,7 +118,7 @@ from llama_index.node_parser.extractors import (
 )
 from llama_index.llms import OpenAI
 
-llm = OpenAI(model="gpt-3.5-turbo")
+llm = OpenAI(model="gpt-4.0")
 
 metadata_extractor = MetadataExtractor(
     extractors=[
@@ -142,7 +142,7 @@ for node in nodes:
 
 # Create ChromaVectorStore
 
-from llama_index.vector_stores import ChromaVectorStore
+from llama_index.vector_stores import ChromaVectorStore, VectorStoreQuery, VectorStoreQueryResult
 import chromadb
 
 # create client and a new collection
@@ -158,6 +158,14 @@ vector_store.add(nodes=nodes)
 index = VectorStoreIndex.from_vector_store(vector_store)
 
 # Query Data
-query_engine = index.as_query_engine()
-response = query_engine.query("Give me a summary of the Human Rights Tribunal Case between Ronald Phipps and the Toronto Police Services Board")
-print(response)
+# query_engine = index.as_query_engine()
+# response = query_engine.query("Give me a summary of the Human Rights Tribunal Case between Ronald Phipps and the Toronto Police Services Board")
+# print(response)
+
+from dataclasses import fields
+
+field_info = {f.name: f.type for f in fields(VectorStoreQuery)}
+print(field_info)
+
+field_info_result = {f.name: f.type for f in fields(VectorStoreQueryResult)}
+print(field_info_result)
