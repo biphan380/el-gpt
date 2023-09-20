@@ -128,7 +128,7 @@ metadata_extractor = MetadataExtractor(
     in_place=False,
 )
 
-nodes = metadata_extractor.process_nodes(nodes)
+# nodes = metadata_extractor.process_nodes(nodes)
 
 from llama_index.embeddings import OpenAIEmbedding
 
@@ -139,4 +139,16 @@ for node in nodes:
         node.get_content(metadata_mode="all")
     )
     node.embedding = node_embedding
+
+from llama_index.vector_stores import SimpleVectorStore
+
+vector_store = SimpleVectorStore()
+vector_store.add(nodes=nodes)
+
+from llama_index import VectorStoreIndex
+from llama_index.storage import StorageContext
+
+index = VectorStoreIndex.from_vector_store(vector_store)
+
+print(vector_store.stores_text)
 
