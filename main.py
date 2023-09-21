@@ -162,10 +162,28 @@ index = VectorStoreIndex.from_vector_store(vector_store)
 # response = query_engine.query("Give me a summary of the Human Rights Tribunal Case between Ronald Phipps and the Toronto Police Services Board")
 # print(response)
 
-from dataclasses import fields
+# from dataclasses import fields
 
-field_info = {f.name: f.type for f in fields(VectorStoreQuery)}
-print(field_info)
+# field_info = {f.name: f.type for f in fields(VectorStoreQuery)}
+# print(field_info)
 
-field_info_result = {f.name: f.type for f in fields(VectorStoreQueryResult)}
-print(field_info_result)
+# field_info_result = {f.name: f.type for f in fields(VectorStoreQueryResult)}
+# print(field_info_result)
+
+test_node = TextNode(id_="id1", text="hello world")
+test_node2 = TextNode(id_="id2", text="foo bar")
+test_nodes = [test_node, test_node2]
+
+from vector_store import VectorStore2
+
+vector_store = VectorStore2()
+
+vector_store.add(test_nodes)
+
+node0 = vector_store.get("id1")
+node1 = vector_store.get("id2")
+
+print(str(node0))
+print(str(node1))
+
+

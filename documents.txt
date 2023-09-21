@@ -102,7 +102,7 @@ Page Content:
 <div style="padding-top: 10px;" id="captchaForm">
 	<form name="captchaForm" action="/captcha/eval.do" onsubmit="document.captchaForm.hash.value=window.location.hash;">
 		<img id="captchaTag" src="/captcha/captcha.do?id=70.27.132.118" alt="Captcha"/>
-		<audio id="audioCaptchaTag" style="display: none;" preload="auto" onplay="$('#captchaResponse').focus();" controls src="/captcha/audioCaptcha.do?id=70.27.132.118&lang=en&cacheBuster=34e19c1812ca0fa5796fad1c2de3f321c" type="audio/wav"></audio>
+		<audio id="audioCaptchaTag" style="display: none;" preload="auto" onplay="$('#captchaResponse').focus();" controls src="/captcha/audioCaptcha.do?id=70.27.132.118&lang=en&cacheBuster=30ea3f5ad33244c0c444ac32e15581ab0" type="audio/wav"></audio>
 		<button id="toggleAudio" title="Access the audible captcha" type="button"><i aria-hidden="true" class="fas fa-headphones"></i><span class="sr-only">Access the audible captcha</span></button>
 		<input autocomplete="off" aria-label="Captcha answer" autocapitalize="none" id="captchaResponse" style="margin: 0;" type="text" name="jcaptcha" value="" autofocus />
 		<input type="hidden" name="path" value="/en/on/onhrt/doc/2009/2009hrto877/2009hrto877.html" />
@@ -383,7 +383,7 @@ Page Content:
 <div style="padding-top: 10px;" id="captchaForm">
 	<form name="captchaForm" action="/captcha/eval.do" onsubmit="document.captchaForm.hash.value=window.location.hash;">
 		<img id="captchaTag" src="/captcha/captcha.do?id=70.27.132.118" alt="Captcha"/>
-		<audio id="audioCaptchaTag" style="display: none;" preload="auto" onplay="$('#captchaResponse').focus();" controls src="/captcha/audioCaptcha.do?id=70.27.132.118&lang=en&cacheBuster=13c335c3a6be4cc4840dade73d4e4fe28" type="audio/wav"></audio>
+		<audio id="audioCaptchaTag" style="display: none;" preload="auto" onplay="$('#captchaResponse').focus();" controls src="/captcha/audioCaptcha.do?id=70.27.132.118&lang=en&cacheBuster=49c521655f17e4854b12b6dcce12ba11" type="audio/wav"></audio>
 		<button id="toggleAudio" title="Access the audible captcha" type="button"><i aria-hidden="true" class="fas fa-headphones"></i><span class="sr-only">Access the audible captcha</span></button>
 		<input autocomplete="off" aria-label="Captcha answer" autocapitalize="none" id="captchaResponse" style="margin: 0;" type="text" name="jcaptcha" value="" autofocus />
 		<input type="hidden" name="path" value="/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html" />
