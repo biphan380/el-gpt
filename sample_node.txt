@@ -1,541 +1,119 @@
-Node ID: e9321ec0-8b96-4718-9648-108d3c67e171
-Text: <!DOCTYPE html> <html lang="en">         <head>
+Node ID: 69fdb7f8-982b-4b00-8081-c17a6420827f
+Text: <!DOCTYPE html>         <html lang="en">                 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<!-- sync date: July 15, 2023 at 12:17:38 AM EDT -->         <!--
-update date: June 23, 2009 at 12:00:00 AM EDT -->         <!-- cc2 id:
-730452 -->                 <title>2009 HRTO 877 (CanLII) | Phipps v.
-Toronto Police Services Board | CanLII</title...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 247bf1d3-97de-4d9b-8efe-518dff0c14a7
-Text: css" />                 <link rel="stylesheet" type="text/css"
-href="/fontawesome-
-pro-6.2.1-web/css/thin.min-f44cae780bf8a7287221c340cbe4d815.css" />
-<link rel="stylesheet" type="text/css" href="/fontawesome-
-pro-6.2.1-web/css/brands.min-40960f6969b87896c9889de920787ae8.css" />
-<link rel="stylesheet" type="text/css" href="/fontawesome-
-pro-6.2.1-web/css/v5-...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 289f11be-4568-4c69-8862-bfeb52dc9ff6
-Text: js"></script>                 <script src="/bootstrap-4.5.3-
-dist/js/bootstrap.min-f20fa8b102f205141295cdefd6ffe449.js"></script>
-<script src="/javascript/libs/bootstrap-
-notify-3.1.5-feca36f25cc2e8a3e8d92a8c5c5ca7ee.js"></script>
-<script src="/javascript/libs/tipped4/tipped-
-2ac1af269cabd824be5489769d281b84.js"></script>                 <script
-src="/javascript/scripts/T...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: cf33d482-e627-4a8d-b631-5d7087b5730b
-Text: js"></script>                 <script
-src="/javascript/libs/smoothscroll-polyfill-
-bc2f896cd67fffeab17c5b9b668c4044.js"></script>                 <script
-src="/javascript/libs/truncate-
-e1fa94ed8cd05d7f16357f583867d91e.js"></script>
-<script src="/solex/js/doc-highlighter.min.js?v=6.0.3"></script>
-<link rel="import" href="/lexbox_include/canlii_include/lexum" cr...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 0ae13828-c92c-40a6-b6e2-27b65a174f9e
-Text: svg" alt="CanLII Logo" id="canliiLogoImg" class="sticky"/>
-</a>                         </div>
-<div id="breadcrumbs" class="d-none d-md-inline-block d-print-none"
-itemscope itemtype="http://schema.org/BreadcrumbList">
-<span itemprop="itemListElement" itemscope
-itemtype="http://schema.org/ListItem">
-<span class="nowrap" itemprop="name" tit...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: d69aa938-b032-49ef-9449-5838d4d5a819
-Text: <span id="history-count"><i id="history-spinner" class="fas fa-
-spinner fa-spin"></i></span></a></li>
-<li class="nav-item"><a id="cited-tab" class="nav-link" data-
-toggle="tab" data-target="#citedContent" data-secondary="#cited2"
-role="tab" href="#cited" aria-controls="citedContent" aria-
-selected="false">Cited documents&nbsp;<span id="cited-...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 3f82d91b-fa91-41b9-bbbe-7d639821e86a
-Text: Toronto Police Services Board, 2009 HRTO 877 (CanLII), &lt;<a
-class='documentStaticUrl'
-href='https://canlii.ca/t/242pq'>https://canlii.ca/t/242pq</a>&gt;
-retrieved on 2023-09-21</div>         </div>         <div
-id="recentTreatmentContent" class="row py-1">          </div> </div>
-<div id="lexboxHook"></div> </div>
-</div>
-<div class="tab-pane fade...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 961bb2b4-9b0f-4bbb-b13d-8b852a0acb39
-Text: "> <svg xmlns="http://www.w3.org/2000/svg" height="22"
-width="30" class="expand-img">         <rect x="3" y="2" width="24"
-height="8" rx="1" ry="1"/>         <rect x="3" y="12" width="24"
-height="8" rx="1" ry="1"/> </svg>
-<span>Expanded</span>                         </a>
-<a class="dropdown-item" onclick="compactDensity(event);"> <svg
-xmlns="http://www.w3.org/2000/svg" hei...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 35fff47f-7995-4a6c-8c5b-3b300f7b0aca
-Text: </SPAN></P>  <P class="MsoNormal"><SPAN style="font-
-family:Arial">&nbsp;</SPAN></P>  <P class="InsertText2"><SPAN
-style="font-family:Arial">B E T W E E N:&nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp; </SPAN></P>  <P class="InsertText2"><SPAN style="font-
-family:Arial">&nbsp;</SPAN></P>  <P class="InsertText3" style="margin-
-bottom:0cm;margin-bottom:.0001pt"><S...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 6827d150-eadf-46a2-98af-62501a358550
-Text: &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; June 18, 2009</SPAN></P>
-<P class="InsertText6"><SPAN style="font-
-family:Arial">&nbsp;</SPAN></P>  <P class="InsertText6"><B><SPAN
-style="font-family:Arial">File Number:</SPAN></B><SPAN style="font-
-family:Arial">&nbsp;&nbsp; &nbsp;&nbsp; &nb...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 73eaff70-9be3-44f0-8791-6742fafa095d
-Text: &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; )&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; </SPAN></P>  <P class="MsoNormal"><SPAN style="font-
-family:Arial">Ronald Phipps, Applicant&nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nb...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 7ff0cdb8-2390-48a2-a61e-63824fec6118
-Text: &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; )&nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; </SPAN></P>  <P
-class="MsoNormal"><SPAN style="font-family:Arial">Toronto</SPAN><SPAN
-style="font-family:Arial">...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 60b488d3-d91b-410b-881e-090089155168
-Text: &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; )&nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; </SPAN></P>  <P class="MsoNormal"
-style="margin-left:278.25pt;text-indent:-278.25pt"><SPAN style="font-
-family:Arial">Michael Shaw and William Blair, Respondents&nbsp;&nbsp;
-&nbsp;&nbsp; &nbs...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: a80ccc19-467a-4951-9783-ed2e0ea3a2f7
-Text: text-indent:0cm"><SPAN style="line-height:150%;font-
-family:Arial">[1]<SPAN style="font:7.0pt &quot;Times New
-Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; </SPAN></SPAN><SPAN style="font-family:Arial">This is the
-Decision with respect to an Application filed </SPAN><SPAN
-style="font-family: Arial">under s. 53(3) o...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: ca26a490-7bdf-44de-9b4c-83c1a8640da5
-Text: &nbsp;The other named respondents are the Toronto Police
-Services Board (&ldquo;TPSB&rdquo;) and William Blair, Chief of
-Police.</SPAN></H1>  <H1 style="margin-left:0cm;text-indent:0cm"><SPAN
-style="line-height: 150%;font-family:Arial">[4]<SPAN style="font:7.0pt
-&quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nb...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 76ce191c-8dcf-4551-a37b-95a82d79a965
-Text: &nbsp;It was his second day delivering mail on that route. He
-was wearing the Canada Post coat, carrying a mail satchel, and
-delivering regular mail and flyers.&nbsp; He did not stop at every
-house as there was no mail for some houses and other houses had a
-&ldquo;no flyer&rdquo; notation.&nbsp; </SPAN></H1>  <H1
-style="margin-left:0cm;text-inde...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 6f911843-e863-4106-8a92-7a2982a74b0d
-Text: &nbsp;It was the applicant although at that distance Constables
-Shaw and Noto assert that they were unable to discern the gender or
-the skin colour of the person. &nbsp;As the applicant approached, they
-could discern that he was an African Canadian male, wearing a Canada
-Post jacket and carrying material in his hand.&nbsp; Constable Shaw
-asserts...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 11232e21-9263-4b25-8598-f1320686f211
-Text: Finlay about the letter carrier in the </SPAN><SPAN style="font-
-family:Arial">Vernham Avenue</SPAN><SPAN style="font-family:Arial">
-area.&nbsp; Mr. Finlay stated that he was a male, White about 35 years
-of age.&nbsp; Constable Shaw inquired about other potential letter
-carriers in the area and Mr. Finlay stated that there was a temporary
-carrier...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: f3c88766-5113-49c9-a45e-14a11f2c1729
-Text: &nbsp;None of them had been. &nbsp;This is not disputed by the
-respondents. &nbsp;The applicant also met up with Mr. Finlay that
-morning and learned that the police had questioned him (Finlay) about
-the letter carriers in the area.</SPAN></H1>  <H1 style="margin-
-top:0cm;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-0cm"><B><SPAN style="font...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 67a1d47e-59cd-4413-95de-a6729c9e20c6
-Text: (No. 3)</SPAN></I><SPAN style="font-family:Arial"> </SPAN><SPAN
-style="font-family:Arial">(2005), </SPAN><SPAN style="font-
-family:Arial">52 C.H.R.R. D/430</SPAN><SPAN style="font-
-family:Arial">, </SPAN><A class="reflex3-caselaw"
-href="/en/bc/bchrt/doc/2005/2005bchrt302/2005bchrt302.html"><SPAN
-style="font-family:Arial">2005 BCHRT 302</SPAN></A><...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 555ebc88-243d-4be4-96c5-42423d651f0e
-Text: The respondent must offer an explanation which is credible on
-all the evidence.</SPAN></H1>  <H1 style="margin-top:0cm;margin-
-right:36.0pt;margin-bottom:18.0pt;margin-left: 36.0pt;line-
-height:normal"><SPAN style="font-family:Arial">3)&nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; A complainant is not required to establish
-that the respondent&rsquo;s act...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 2a8cc9d3-3dfd-45f0-8c9b-7ea6cff11cb9
-Text: &nbsp;In <I>R. v. Brown</I>&nbsp;(2003) 64 O.R. (3) 161
-(</SPAN><SPAN style="font-family:Arial">Ont.</SPAN><SPAN style="font-
-family:Arial"> </SPAN><SPAN style="font-family:Arial">CA</SPAN><SPAN
-style="font-family: Arial">) at para. 9, Morden J. A. stated that the
-Crown&rsquo;s concession that the phenomenon of racial profiling
-existed was &ldquo...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 12a25c99-8ed1-4b09-a627-772005f88b02
-Text: &nbsp;However, after conducting a police check and asking the
-applicant some questions, Constable Shaw testified that he was
-completely satisfied that the applicant was a legitimate letter
-carrier.&nbsp; Constable Shaw testified that his further inquiries of
-Mr.&nbsp;Finlay at the relay box about letter carriers in the area was
-in the nature of ...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 876dc0e5-0431-4b84-8913-a16c270a5fbe
-Text: </SPAN></H1>  <H1 style="margin-left:0cm;text-indent:0cm"><SPAN
-style="line-height: 150%;font-family:Arial">[26]<SPAN
-style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </SPAN></SPAN><SPAN style="font-
-family:Arial">Third, it is not in keeping with the preponderance of
-probabilities that the applicant was...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: cb760625-f7e0-4412-a546-7daa72507b6c
-Text: The fact that it was an African Canadian male without a vehicle
-that attracted Constable Shaw&rsquo;s attention is what is
-unusual.&nbsp; I am further reinforced in my conclusions by Constable
-Shaw&rsquo;s continued actions, described below. </SPAN></H1>  <H1
-style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
-150%;font-family:Aria...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: cd01ab9e-fbd2-4338-bc57-535f3fe93e15
-Text: </SPAN></H1>  <H1 style="margin-left:0cm;text-indent:0cm"><SPAN
-style="line-height: 150%;font-family:Arial">[31]<SPAN
-style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </SPAN></SPAN><SPAN style="font-
-family:Arial">Accordingly, I conclude that the applicant&rsquo;s
-colour was a factor in Constable Shaw&r...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 51b7d19c-ea74-4f90-9ce3-467fad6dce82
-Text: &nbsp;I find that it is necessary to make some findings on these
-matters as they may affect the remedial aspect of the case.&nbsp; The
-applicant asserted that the officers drove abruptly into a driveway
-that he was about to cross and approached him in an intimidating
-manner. The first word Constable Shaw uttered, in a disrespectful
-manner, was &...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 9c3b7e71-158d-4a59-948d-b81b128552d9
-Text: </SPAN></H1>  <H1 style="margin-left:0cm;text-indent:0cm"><SPAN
-style="line-height: 150%;font-family:Arial">[38]<SPAN
-style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </SPAN></SPAN><SPAN style="font-
-family:Arial">The applicant did not give any detailed testimony about
-the second meeting after he hailed...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: a970ea84-1b1f-49c3-bca2-925ae1b48240
-Text: </DIV> <DIV ID="judgmentLinks" STYLE="display: none;"> <UL> <LI
-data-path="/en/bc/bchrt/doc/2005/2005bchrt302/2005bchrt302.html"> <LI
-data-path="/en/on/onhrt/doc/2007/2007hrto14/2007hrto14.html"> </UL>
-</DIV>
-</div> <!-- /originalDocument -->
-<!-- /content -->
-</div>                                                 </div>
-<div class="tab-pan...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 4cf681e3-144c-45ee-86b7-1598aaed6379
-Text: addClass("disabled");                 }         })
-.fail(function(jqXHR) {                 console.error(jqXHR);
-$("#relatedContent").html("<p>An error occured while loading this
-tab.</p>");         })         .always(function() {
-$("#history-spinner").hide("fast");         }); }  function
-getCitedTabContent() {         let judgmentLinks = [];
-$("#judgmentLinks").find("li").each(function() {
-judgmen...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 7a1ebc42-c36f-488c-a15b-72b9974a8c88
-Text: trigger : 'hover',                         html: true,
-container: $("#treatment-peppers").closest('.bootstrap')
-});                  if (data.citedByCount == 0) {
-$("#treatment-tab").addClass("disabled");                 }
-$("#cited-by-item").show();                  $("#citedBy-
-count").html("(" + data.citedByCount + ")");
-$("#treatment-count").html("(" + data.citedByCount + ")");
-$("#cited-...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: a42be9be-8640-4fcb-a7c2-00aa10e9a698
-Text: $("#treatment-tab-
-content").addClass("TreatmentSearchResultsLoading");
-$.get(url, function(data) {
-$("#citingContent").html(data.content);                  if
-(data.count == 0) {                         $("#treatment-
-tab").addClass("disabled");                 }         })
-.fail(function(jqXHR) {                 console.error(jqXHR);
-$("#citingContent").html("<p>An error occured while loading this
-tab.</p>"...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 3f722f78-9a06-4970-8e71-4e260e21c390
-Text: }); }  function enableTreatmentTabTooltips() {
-$("#treatment-tab-content .fa-pepper-hot").tooltip({
-placement : 'bottom',                 trigger : 'hover',
-html: true,                 container: $("#treatment-tab-
-content").closest('.bootstrap')         });          $(".topics
-span.name").tooltip({                 placement : 'bottom',
-trigger : 'hover',                 html: true,
-container: $("li.result...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 118d6069-003a-4090-8e2f-3983fffd46c8
-Text: html">Terms of Use</a>
-</div>                                 </div>
-<div class="row py-1">                                         <div
-class="first col">                                                 <a
-class="canlii" href="/en/info/privacy.html">Privacy Policy</a>
+<title>Captcha | CanLII</title>                              <meta
+name="google-site-verification"
+content="b9XXMP1TAMRAqDZyMRVBYSkrf1PIb1SxrfIBiE2klc4" /> <!--
+canlii.org -->                         <meta name="google-site-
+verification" content="HKhxINdGOLSt8h_j8SdpXbmS9VDJ_WFxO...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: ff80b32b-2c91-4b86-bfee-22a46a36b91c
+Text: 2.1-web/css/v5-font-
+face.min-1cb7f16555da63aecd2828d3d3130d85.css" />
+<link rel="stylesheet" type="text/css" href="/css/canlii-
+global-9d77627668ac1e42f1ea1f5f7570070b.css" />                 <link
+rel="stylesheet" type="text/css"
+href="/css/social-66db81a10fd9a455594a0f8ae55cb3a0.css" />
+<link rel="stylesheet" type="text/css" href="/css/errorPages-63a0...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 2869ba03-b657-46db-8e1f-53a832f7e455
+Text: js"></script>
+</head>                 <body class="bootstrap">
+<div id="wrap">         <div id="canliiHeader" class="bootstrap"
+role="banner">                 <div id="headerContent"
+class="canliiContent">                         <div id="canliiLogo">
+<a class="canlii" href="/en/" aria-label="Home">
+<!--[if lte IE 9 ]><img src="/images/canliiLogo.png" alt="CanLII Logo"
+/><![...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 9cb934bc-0795-4f5e-8ef7-428def1abca6
+Text: </p>         <p>                 Happy Searching!         </p>
+</div>  <div style="padding-top: 10px;" id="captchaForm">
+<form name="captchaForm" action="/captcha/eval.do"
+onsubmit="document.captchaForm.hash.value=window.location.hash;">
+<img id="captchaTag" src="/captcha/captcha.do?id=70.27.132.118"
+alt="Captcha"/>                 <audio id="audioCaptchaTag"
+style="display: none;" p...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: a8a8a1f6-52c8-4072-a115-55c096514a48
+Text: html">What is CanLII</a>
 </div>                                 </div>
 <div class="row py-1">                                         <div
 class="col">                                                 <a
-class="canlii" href="/en/databases.html">Primary Law Databases</a>
-</div>                                 </div>         ...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 82a5000f-24a2-4fd9-a559-df94a3788393
-Text: html">RefLex Citator</a>
+class="canlii" href="/en/info/board.html">Board of Directors</a>
 </div>                                 </div>
 <div class="row py-1">                                         <div
 class="col">                                                 <a
-class="canlii" href="/en/info/legislation.html">Legislation Help</a>
+class="canlii" href="/en/info/contact.html">Contact Us</a>
+</div>                                 </div>
+</div>         ...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 660da1af-58e8-48d3-ab21-9aea0502c48d
+Text: canlii.org/">myCanLII</a>
+</div>                                 </div>
+</div>                                                  <div
+class="col-6 col-md-3">                                 <div
+class="row footer-column-header">
+<div class="col">                                                 HELP
 </div>                                 </div>
 <div class="row py-1">                                         <div
 class="col">                                                 <a
-class="canlii" href="/en/info/CanLIIGuides.html">CanLII Guides</a>
-</div>                                 </div>...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 543520a3-192a-42d0-82b4-c06e7e760693
-Text: </strong></label>                                 </div>
-</div>                         <div class="col-6 col-md-3 my-auto
-py-1">
-<strong><span>By</span></strong>                                 <a
-class="canlii" href="http://www.lexum.com/en/index.html"
-title="Lexum">                                         <!--[if lte IE
-9 ]><img src="/images/lexum-logo.png" alt="Lexum Logo" /><![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
-<img src="/image...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: f40b9823-dee6-443f-8cb2-381e73fa0d47
-Text: <!DOCTYPE html> <html lang="en">         <head>
+class="canlii" href="/en/info/faq.html">Frequently Asked Questions</a>
+</div>                                 </div>...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: e1bf14dd-2150-4ade-a2dd-56fedcabaab7
+Text: facebook.com/CanLII.org/"><i id="facebookTooltip"
+title="Facebook" aria-hidden="true" class="fab fa-facebook-f canlii-
+icon"></i></a>                                 <a class="px-2 icons"
+aria-label="Instagram"
+href="https://www.instagram.com/canlii_legal/"><i
+id="instagramTooltip" title="Instagram" aria-hidden="true" class="fab
+fa-instagram canlii-icon"></i></a>                                 <a
+cla...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: a1bc8e63-dfdc-4be8-ad5f-497e2272587f
+Text: <!DOCTYPE html>         <html lang="en">                 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<!-- sync date: July 26, 2023 at 6:44:14 AM EDT -->         <!--
-update date: July 24, 2023 at 12:00:00 AM EDT -->         <!-- cc2 id:
-3751396 -->                 <title>2023 HRTO 1081 (CanLII) | Hunter v.
-HMKRO (Ministry of the Attorney General) | C...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 5b3765b6-5073-4133-b4cd-5ebcbf1f8ae3
-Text: css" />                 <link rel="stylesheet" type="text/css"
-href="/fontawesome-
-pro-6.2.1-web/css/thin.min-f44cae780bf8a7287221c340cbe4d815.css" />
-<link rel="stylesheet" type="text/css" href="/fontawesome-
-pro-6.2.1-web/css/brands.min-40960f6969b87896c9889de920787ae8.css" />
-<link rel="stylesheet" type="text/css" href="/fontawesome-
-pro-6.2.1-web/css/v5-...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 1e734351-4565-49d4-929f-9a6767d5ad7d
-Text: js"></script>                 <script src="/bootstrap-4.5.3-
-dist/js/bootstrap.min-f20fa8b102f205141295cdefd6ffe449.js"></script>
-<script src="/javascript/libs/bootstrap-
-notify-3.1.5-feca36f25cc2e8a3e8d92a8c5c5ca7ee.js"></script>
-<script src="/javascript/libs/tipped4/tipped-
-2ac1af269cabd824be5489769d281b84.js"></script>                 <script
-src="/javascript/scripts/T...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 6c3d809d-e85e-4541-9733-4db72dc065ab
-Text: js"></script>                 <script
-src="/javascript/libs/smoothscroll-polyfill-
-bc2f896cd67fffeab17c5b9b668c4044.js"></script>                 <script
-src="/javascript/libs/truncate-
-e1fa94ed8cd05d7f16357f583867d91e.js"></script>
-<script src="/solex/js/doc-highlighter.min.js?v=6.0.3"></script>
-<link rel="import" href="/lexbox_include/canlii_include/lexum" cr...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 2a53ebe7-336b-4fc9-afae-dbb8b82bf771
-Text: svg" alt="CanLII Logo" id="canliiLogoImg" class="sticky"/>
-</a>                         </div>
-<div id="breadcrumbs" class="d-none d-md-inline-block d-print-none"
-itemscope itemtype="http://schema.org/BreadcrumbList">
-<span itemprop="itemListElement" itemscope
-itemtype="http://schema.org/ListItem">
-<span class="nowrap" itemprop="name" tit...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: e86009e4-a9fa-44d2-8771-f69a65150472
-Text: <span id="history-count"><i id="history-spinner" class="fas fa-
-spinner fa-spin"></i></span></a></li>
-<li class="nav-item"><a id="cited-tab" class="nav-link" data-
-toggle="tab" data-target="#citedContent" data-secondary="#cited2"
-role="tab" href="#cited" aria-controls="citedContent" aria-
-selected="false">Cited documents&nbsp;<span id="cited-...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 2406be24-098c-467b-869b-852037f2a0df
-Text: HMKRO (Ministry of the Attorney General), 2023 HRTO 1081
-(CanLII), &lt;<a class='documentStaticUrl'
-href='https://canlii.ca/t/jz99v'>https://canlii.ca/t/jz99v</a>&gt;
-retrieved on 2023-09-21</div>         </div>         <div
-id="recentTreatmentContent" class="row py-1">          </div> </div>
-<div id="lexboxHook"></div> </div>
-</div>
-<div class="t...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 9a8cff24-d879-40c7-9a34-c2e88845e03c
-Text: w3.org/2000/svg" height="22" width="30" class="expand-img">
-<rect x="3" y="2" width="24" height="8" rx="1" ry="1"/>         <rect
-x="3" y="12" width="24" height="8" rx="1" ry="1"/> </svg> </span><span
-class="compactWrapper d-none"><svg xmlns="http://www.w3.org/2000/svg"
-height="22" width="30" class="compact-img">         <rect x="3" y="2"
-width="24" height="...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 6f9706ab-2bb6-49ca-976d-bfd8e723ed61
-Text: "> <svg xmlns="http://www.w3.org/2000/svg" height="22"
-width="30" class="expand-img">         <rect x="3" y="2" width="24"
-height="8" rx="1" ry="1"/>         <rect x="3" y="12" width="24"
-height="8" rx="1" ry="1"/> </svg>
-<span>Expanded</span>                         </a>
-<a class="dropdown-item" onclick="compactDensity(event);"> <svg
-xmlns="http://www.w3.org/2000/svg" hei...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 4172660c-d95d-4534-86ce-22e45fdb3f43
-Text: margin-bottom:.0001pt; text-align:center"><SPAN
-class="Style7"><SPAN style="font-family:&quot;Arial&quot;sans-
-serif">Christopher Hunter</SPAN></SPAN></P>  <P class="Unformatted"
-align="center" style="margin-bottom:0in;margin-bottom:.0001pt; text-
-align:center"><SPAN class="Style7"><SPAN style="font-
-family:&quot;Arial&quot;sans-serif">&nbsp;</SPAN...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 260b7ab9-464b-4361-86cb-53d6bd4e1847
-Text: &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; July 21, 2023</SPAN> </P>  <P
-class="InsertText6">&nbsp;</P>  <P class="InsertText6">File
-Number:<SPAN style="font-weight:normal">&nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; </SPAN><SPAN style="font-
-weight:normal">2018-32179-I</SPAN> </P>  <P clas...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: d429d465-bb81-47c6-819f-196372fb34a9
-Text: &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>  <P
-class="Unformatted" style="margin-top:0in;margin-right:0in;margin-
-bottom:0in; margin-left:...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: f9ec8c92-971c-4391-851d-953c6bfcba4e
-Text: 5in;padding:0in 5.4pt 0in 5.4pt">   <P class="Unformatted"
-style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>   </TD>
-</TR>  <TR>   <TD width="316" valign="top"
-style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">   <P
-class="Unformatted" style="margin-bottom:0in;margin-
-bottom:.0001pt">&nbsp;</P>   </TD>   <TD width="20" valign="top"
-sty...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: d7b882be-046f-4ebb-b568-8006f5b67511
-Text: 0001pt">)</P>   </TD>   <TD width="41" valign="top"
-style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">   <P
-class="Unformatted" style="margin-bottom:0in;margin-
-bottom:.0001pt">&nbsp;</P>   </TD>   <TD width="247" valign="top"
-style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">   <P
-class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001p...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: e3ffc268-1ce8-4817-9919-a55f4233f435
-Text: 25pt;padding:0in 5.4pt 0in 5.4pt">   <P class="Unformatted"
-style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>   </TD>
-<TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in
-5.4pt">   <P class="Unformatted" style="margin-bottom:0in;margin-
-bottom:.0001pt">)</P>   </TD>   <TD width="41" valign="top"
-style="width:30.7pt;pad...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 1fca9162-a199-46fc-b631-f73dbb7f8972
-Text: padding:0in 5.4pt 0in 5.4pt">   <P class="Unformatted"
-style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>   </TD>
-<TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt
-0in 5.4pt">   <P class="Unformatted" style="margin-bottom:0in;margin-
-bottom:.0001pt">&nbsp;</P>   </TD>  </TR>  <TR>   <TD width="316"
-valign="top" style=...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 5c48bfb5-66e9-4333-8ca3-3cd6f251fe0a
-Text: </P>   </TD>   <TD width="20" valign="top"
-style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">   <P
-class="Unformatted" style="margin-bottom:0in;margin-
-bottom:.0001pt">&nbsp;</P>   </TD>   <TD width="41" valign="top"
-style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">   <P
-class="Unformatted" style="margin-bottom:0in;margin-
-bottom:.0001pt">&nbsp;</P...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 77f71380-0567-4f20-9f37-bcde7913c402
-Text: margin-bottom:.0001pt">&nbsp;</P>   </TD>  </TR>
-</TBODY></TABLE>  <P class="Unformatted" style="margin-top:0in;margin-
-right:0in;margin-bottom:0in; margin-left:5.4pt;margin-
-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &n...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 9c30d141-18ab-435f-852c-4802177d9e3c
-Text: &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp; </P>  <P class="Unformatted" style="margin-top:0in;margin-
-right:0in;margin-bottom:0in; margin-left:5.4pt;margin-
-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbs...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: cb87f57f-9d10-4fb5-a9f9-caeb90ed8e0d
-Text: &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &n...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 71d033e3-9620-460c-b0fc-f1ecc3207c9c
-Text: &nbsp; </P>  <P class="Unformatted" style="margin-
-top:0in;margin-right:0in;margin-bottom:0in; margin-left:5.4pt;margin-
-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbs...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 86e66900-d6a4-4e3d-9d83-67672daa6f7e
-Text: html">Human Rights Code</A></I><A class="reflex2-link"
-concatenated-id="202-current-1"
-href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">,
-R.S.O. 1990 c. H. 19</A>, as amended (the &ldquo;<I><A
-class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws
-/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I>&rdquo...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 7456444c-92c1-4592-8b66-ba77242e7d9b
-Text: Even if I accept all the facts alleged by the applicant as true,
-the applicant has not been able to point to any evidence beyond his
-own suspicions that the respondent was treating him differently based
-on <I><A class="reflex2-link" concatenated-id="202-current-1" href="/e
-n/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I>
-gro...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 8cf33931-3732-4ce5-813a-ce096938e365
-Text: The Tribunal&rsquo;s jurisdiction is limited to claims of
-discrimination that are linked to the protections set out in the <I><A
-class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws
-/stat/rso-1990-c-h19/latest/rso-1990-c-
-h19.html">Code</A></I>.</P></div>  <div class="paragWrapper" data-lbh-
-p-number="6" data-lbh-p-anchor="par6" d...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 61f53875-0404-41fd-823e-0275e099f987
-Text: The purpose of the summary hearing is to determine whether the
-applicant can point to any information which tends to support his
-belief that he has experienced discrimination under the <I><A
-class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws
-/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I>. The
-question that the T...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 596b0b65-6891-45fa-93b1-54c071459914
-Text: html&linkedNoteup=&section1=9"><div class="bootstrap
-unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="9"
-title="Paragraph tools"><div class="dropdown dropleft"><i data-
-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div
-class="dropdown-menu lbh-p-tools-menu"></div></div></div><P
-class="Parawquoteorlist" style="margin-top:...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 60416c3a-b717-4c52-8e66-af58cf648f84
-Text: margin-bottom: .25in;margin-left:0in;text-indent:0in" data-
-viibes-parag="10" data-viibes-start="9" data-viibes-end="8">[<A
-class="reflex-paragAnchor" name="par10">10</A>]<SPAN style="font:7.0pt
-&quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>The
-applicant worked as a court reporter with the Ministry of the Attorney
-General at the ...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 5b45a7b2-b48c-41b7-8357-fca4fe2514ea
-Text: and had an informal arrangement for the 2016-2017 school year to
-start work at 9.30 a.m. for a 10 a.m. court proceeding. </P></div>
-<div class="paragWrapper" data-lbh-p-number="13" data-lbh-p-
-anchor="par13" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhr
-t/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=13"><
-div class="boo...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 5bc49ef7-79fb-4b17-b52c-4ce3df097c48
-Text: 0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;
-</SPAN>The applicant alleges that he was scheduled for 9.00 a m on
-March 14,2018 but did not report to work and on March 29,2018,
-reported late and did not work that day.</P></div>  <div
-class="paragWrapper" data-lbh-p-number="15" data-lbh-p-anchor="par15"
-data-lbh-p-noteup-link="/en/#s...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 601c1aa7-f2b9-4a53-8b41-750b941a5fba
-Text: margin-right:0in;margin-bottom: .25in;margin-left:0in;text-
-indent:0in" data-viibes-parag="16" data-viibes-start="15" data-viibes-
-end="14">[<A class="reflex-paragAnchor" name="par16">16</A>]<SPAN
-style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;
-&nbsp;&nbsp;  </SPAN>The applicant clearly disagrees with the
-treatment by the respondent in...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: f4adc61a-559d-4df8-9637-40c93726ea29
-Text: margin-right:0in;margin-bottom: .25in;margin-left:0in;text-
-indent:0in" data-viibes-parag="18" data-viibes-start="17" data-viibes-
-end="16">[<A class="reflex-paragAnchor" name="par18">18</A>]<SPAN
-style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;
-&nbsp;&nbsp;  </SPAN>Despite being given the opportunity during the
-summary hearing to infor...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 5c1990c7-65ee-41a2-a628-f08428eec0cc
-Text: </I> <A class="reflex3-caselaw"
-href="/en/on/onscdc/doc/2014/2014onsc2858/2014onsc2858.html">2014 ONSC
-2858</A>: <I>Bello v. Toronto Transit Commission</I>, <A
-class="reflex3-caselaw"
-href="/en/on/onscdc/doc/2014/2014onsc5535/2014onsc5535.html">2014 ONSC
-5535</A>. To fall within the Tribunal&rsquo;s jurisdiction, &ldquo;an
-Application must provi...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 5842f768-5dc8-4209-8209-788aa511ea2d
-Text: Ct.), which upheld the Tribunal&rsquo;s dismissal of an
-Application for lack of jurisdiction on the basis that the applicant
-failed to establish a basis &ldquo;beyond mere speculation and
-accusations&rdquo; that the respondent&rsquo;s conduct was
-discriminatorily linked to an enumerated ground.</P></div>  <div
-class="paragWrapper" data-lbh-p-num...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: f8380614-8bc8-404d-bb40-46054db87fbf
-Text: The Tribunal has repeatedly said that an applicant&rsquo;s
-belief, no matter how strongly held, is not evidence upon which the
-Tribunal might find that discrimination has occurred. See for example
-<I>Leong v. Ontario (Attorney General)</I>, <A class="reflex3-caselaw"
-href="/en/on/onhrt/doc/2014/2014hrto311/2014hrto311.html">2014 HRTO
-311</A>. </...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 55373ca8-d8f4-446d-b2c1-a3bf5e0314e4
-Text: &nbsp;These allegations have no reasonable prospect of
-success.</A></P></div>  <P class="Heading1-HRTO" style="page-break-
-after:avoid">order</P>  <div class="paragWrapper" data-lbh-p-
-number="23" data-lbh-p-anchor="par23" data-lbh-p-noteup-link="/en/#sea
-rch/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linke
-dNoteup=&section1=23"><d...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 8a7c6353-d503-4c6d-9881-1f2998e63256
-Text: 1990 c. H. 19"> <LI data-
-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html"
-data-text="Code"> <LI data-
-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html"
-data-text="Code"> <LI data-
-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html"
-data-text="Code"> <LI data-
-path="/en/on/laws/stat/rso-1990-c-h19/lates...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 9ac17bc6-9f1a-4f0e-a457-841cd5785c17
-Text: getHistoryTabContent(); getCitedTabContent();
-getExternalTabContent(); addFootnotesTooltips();  // load noteup
-counts only when the tab is selected var loadedCitedBy = false;
-$('a#cited-tab').on('shown.bs.tab', function (e) {         if
-(loadedCitedBy == false) {
-setReflexRecordNoteupCountText("en", "Cited by", "document",
-"documents");                 loadedCited...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 9b5b3f16-2a9e-4ffe-9ad5-3168d04603ad
-Text: legislationLinks: legislationLinks, doctrineLinks: doctrineLinks
-})         })         .done(function(data) {
-$("#citedContent").html(data.content);                 $("#cited-
-spinner").hide("fast");                 $("#cited-count").html("(" +
-data.count + ")");                 if (data.count == 0) {
-$("#cited-tab").addClass("disabled");                 }         })
-.fail(function(jqXHR) {                 console.error(jqXHR);
-...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 805c0847-d0da-495f-85a5-cda5fc321dc6
-Text: }); }  function getTreatmentTypesCounts() {         let url =
-"/judgmentTabs/counts/?judgmentId=37999480&lang=en";
-$.get(url, function(data) {                 if(data.criticizedBy != 0)
-{                         $("#criticizedBy-count").html("(" +
-data.criticizedBy + ")");                         $("#criticized-by-
-item").show();                         $("#criticized-by-
-item").tooltip({                                 placement : 'bottom',
-trigger :...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 7b09d443-75f1-4488-803f-528ad17231fc
-Text: removeClass("TreatmentSearchResultsLoading");
-tab.show();                 tab.siblings().hide();
-enableTreatmentTabTooltips();         }); }  function
-getCriticizedByTabContent(tab) {         let url =
-"/judgmentTabs/criticizedBy/?judgmentId=37999480&lang=en";
-$("#treatment-tab-content").addClass("TreatmentSearchResultsLoading");
-$.get(url, function(data) {                 $("#cr...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 62f58db2-cbf9-42f5-9ac3-fdbbe53710eb
-Text: $(".keyword").hover(                 function() {
-$(this).find(".ai-icon").css("opacity", "1");                 },
-function() {                 $(this).find(".ai-icon").css("opacity",
-"0");                 }         ); }
-</script>                 </div>                 </div>
-<div class="bootstrap" role="navigation" aria-labelledby="backToTop">
-<button id="backToTop" type="button" class="btn btn-sm btn-
-secondary...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 4b2826e6-fcbf-4cca-aa98-970a1800df47
-Text: html">Privacy Policy</a>
+<title>Captcha | CanLII</title>                              <meta
+name="google-site-verification"
+content="b9XXMP1TAMRAqDZyMRVBYSkrf1PIb1SxrfIBiE2klc4" /> <!--
+canlii.org -->                         <meta name="google-site-
+verification" content="HKhxINdGOLSt8h_j8SdpXbmS9VDJ_WFxO...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 3209611a-dd53-4428-be3f-d17a2fefd280
+Text: 2.1-web/css/v5-font-
+face.min-1cb7f16555da63aecd2828d3d3130d85.css" />
+<link rel="stylesheet" type="text/css" href="/css/canlii-
+global-9d77627668ac1e42f1ea1f5f7570070b.css" />                 <link
+rel="stylesheet" type="text/css"
+href="/css/social-66db81a10fd9a455594a0f8ae55cb3a0.css" />
+<link rel="stylesheet" type="text/css" href="/css/errorPages-63a0...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 72f5ea65-026d-44cd-be84-250cdeac626f
+Text: js"></script>
+</head>                 <body class="bootstrap">
+<div id="wrap">         <div id="canliiHeader" class="bootstrap"
+role="banner">                 <div id="headerContent"
+class="canliiContent">                         <div id="canliiLogo">
+<a class="canlii" href="/en/" aria-label="Home">
+<!--[if lte IE 9 ]><img src="/images/canliiLogo.png" alt="CanLII Logo"
+/><![...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 3d439a8f-5f63-40e5-983a-a5268f0031fa
+Text: </p>         <p>                 Happy Searching!         </p>
+</div>  <div style="padding-top: 10px;" id="captchaForm">
+<form name="captchaForm" action="/captcha/eval.do"
+onsubmit="document.captchaForm.hash.value=window.location.hash;">
+<img id="captchaTag" src="/captcha/captcha.do?id=70.27.132.118"
+alt="Captcha"/>                 <audio id="audioCaptchaTag"
+style="display: none;" p...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: b03fdfb0-49bb-47c3-847d-c72a5353e082
+Text: html">What is CanLII</a>
 </div>                                 </div>
 <div class="row py-1">                                         <div
 class="col">                                                 <a
-class="canlii" href="/en/databases.html">Primary Law Databases</a>
+class="canlii" href="/en/info/board.html">Board of Directors</a>
 </div>                                 </div>
 <div class="row py-1">                                         <div
 class="col">                                                 <a
-class="canlii" href="/en/info/authors.html">CanLII Authors Program</a>
-</div>                                 </di...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 904c66ea-f5d2-4eff-b566-8a0073642f41
-Text: html">RefLex Citator</a>
+class="canlii" href="/en/info/contact.html">Contact Us</a>
+</div>                                 </div>
+</div>         ...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: e2ac6137-70d2-4e8f-9fb2-56f294121006
+Text: canlii.org/">myCanLII</a>
+</div>                                 </div>
+</div>                                                  <div
+class="col-6 col-md-3">                                 <div
+class="row footer-column-header">
+<div class="col">                                                 HELP
 </div>                                 </div>
 <div class="row py-1">                                         <div
 class="col">                                                 <a
-class="canlii" href="/en/info/legislation.html">Legislation Help</a>
-</div>                                 </div>
-<div class="row py-1">                                         <div
-class="col">                                                 <a
-class="canlii" href="/en/info/CanLIIGuides.html">CanLII Guides</a>
-</div>                                 </div>...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 30cc9b61-7655-4cfe-9a2a-c0181d45e192
-Text: </strong></label>                                 </div>
-</div>                         <div class="col-6 col-md-3 my-auto
-py-1">
-<strong><span>By</span></strong>                                 <a
-class="canlii" href="http://www.lexum.com/en/index.html"
-title="Lexum">                                         <!--[if lte IE
-9 ]><img src="/images/lexum-logo.png" alt="Lexum Logo" /><![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
-<img src="/image...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_ends
+class="canlii" href="/en/info/faq.html">Frequently Asked Questions</a>
+</div>                                 </div>...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_endsNode ID: 5b071e0c-adc6-4163-8ab5-8574205f71f8
+Text: facebook.com/CanLII.org/"><i id="facebookTooltip"
+title="Facebook" aria-hidden="true" class="fab fa-facebook-f canlii-
+icon"></i></a>                                 <a class="px-2 icons"
+aria-label="Instagram"
+href="https://www.instagram.com/canlii_legal/"><i
+id="instagramTooltip" title="Instagram" aria-hidden="true" class="fab
+fa-instagram canlii-icon"></i></a>                                 <a
+cla...seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_ends

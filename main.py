@@ -170,7 +170,7 @@ index = VectorStoreIndex.from_vector_store(vector_store)
 # field_info_result = {f.name: f.type for f in fields(VectorStoreQueryResult)}
 # print(field_info_result)
 
-from vector_store_3b import VectorStore3B
+from vector_store.vector_store_3b import VectorStore3B
 vector_store = VectorStore3B()
 # load nodes created from the two cases into the vector stores
 vector_store.add(nodes)
@@ -185,13 +185,13 @@ query_embedding = embed_model.get_query_embedding(query_str)
 
 # query the vector store with dense search.
 
-query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=2)
+# query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=2)
 
-query_result = vector_store.query(query_obj)
-for similarity, node in zip(query_result.similarities, query_result.nodes):
-    print(
-        "\n----------------\n"
-        f"[Node ID {node.node_id}] Similarity: {similarity}\n\n"
-        f"{node.get_content(metadata_mode='all')}"
-        "\n----------------\n\n"
-    )
+# query_result = vector_store.query(query_obj)
+# for similarity, node in zip(query_result.similarities, query_result.nodes):
+#     print(
+#         "\n----------------\n"
+#         f"[Node ID {node.node_id}] Similarity: {similarity}\n\n"
+#         f"{node.get_content(metadata_mode='all')}"
+#         "\n----------------\n\n"
+#     )
