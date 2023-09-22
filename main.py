@@ -157,7 +157,7 @@ vector_store.add(nodes)
 
 query_str = '''
 
-Give me a summary of a human rights tribunal of ontario case that deals with employment discrimination on the basis of family status. Give the background and the findings. '''
+You are an expert on human rights cases brought before the human rights tribunal of ontario. Has there ever been a case that deals with family status? '''
 query_embedding = embed_model.get_query_embedding(query_str)
 
 # query the vector store with dense search.
@@ -176,6 +176,6 @@ query_result = vector_store.query(query_obj)
 from llama_index import VectorStoreIndex
 index = VectorStoreIndex.from_vector_store(vector_store)
 query_engine = index.as_query_engine()
-query_str = '''Give me a summary of a human rights tribunal of ontario case that deals with employment discrimination on the basis of family status. Give the background and the findings. '''
+query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. Has there ever been a case that deals with family status? '''
 response = query_engine.query(query_str)
 print(str(response))
