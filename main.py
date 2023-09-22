@@ -157,25 +157,28 @@ vector_store.add(nodes)
 
 query_str = '''
 
-You are an expert on human rights cases brought before the human rights tribunal of ontario. Has there ever been a case that deals with family status? '''
+You are an expert on human rights cases brought before the human rights tribunal of ontario. Find a case that deals with family status and 
+                give me the name of the case.'''
 query_embedding = embed_model.get_query_embedding(query_str)
 
 # query the vector store with dense search.
 
-query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5)
+query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=1)
 
 query_result = vector_store.query(query_obj)
 # for similarity, node in zip(query_result.similarities, query_result.nodes):
-#     # print(
-#     #     "\n----------------\n"
-#     #     f"[Node ID {node.node_id}] Similarity: {similarity}\n\n"
-#     #     f"{node.get_content(metadata_mode='all')}"
-#     #     "\n----------------\n\n"
-#     # )
+#     print(
+#         "\n----------------\n"
+#         f"[Node ID {node.node_id}] Similarity: {similarity}\n\n"
+#         f"{node.get_content(metadata_mode='all')}"
+#         "\n----------------\n\n"
+#     )
 
 from llama_index import VectorStoreIndex
 index = VectorStoreIndex.from_vector_store(vector_store)
 query_engine = index.as_query_engine()
-query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. Has there ever been a case that deals with family status? '''
+query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. Find a case that deals with family status and 
+                give me the name of the case.
+                '''
 response = query_engine.query(query_str)
 print(str(response))
