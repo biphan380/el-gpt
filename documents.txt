@@ -1,57 +1,122 @@
 Page Content:
-
-	<!DOCTYPE html>
-	<html lang="en">
-		<head>
-			<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-			
-			<title>Captcha | CanLII</title>
-	
-		    <meta name="google-site-verification" content="b9XXMP1TAMRAqDZyMRVBYSkrf1PIb1SxrfIBiE2klc4" /> <!-- canlii.org -->
-			<meta name="google-site-verification" content="HKhxINdGOLSt8h_j8SdpXbmS9VDJ_WFxOxnZSJJ7UmI" /> <!-- canlii.ca -->
-	
-			<!-- https://canlii.org for webmastercanlii@google.ca -->
-			<meta name="google-site-verification" content="FA3tCtCzEnhF5Q46dF8Rk51X2uifrWQ3Ww56gS-TkXk" />
-	
-			<!-- https://canlii.ca for webmastercanlii@google.ca -->
-			<meta name="google-site-verification" content="jGHnT28jw66I6hI2Phr6Ux2XVegzzFi6R8XxLBCncHI" />
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		
+        <!-- sync date: July 15, 2023 at 12:17:38 AM EDT -->
+        <!-- update date: June 23, 2009 at 12:00:00 AM EDT -->
+        <!-- cc2 id: 730452 -->
+		<title>2009 HRTO 877 (CanLII) | Phipps v. Toronto Police Services Board | CanLII</title>
 		
-	
+		<meta name="description" content="Access all information related to judgment Phipps v. Toronto Police Services Board, 2009 HRTO 877 (CanLII) on CanLII.">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="DC.publisher" content="CanLII" />
-		<meta name="DC.title" content="Captcha" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+		<meta name="ROBOTS" content="NOINDEX, NOFOLLOW, NOARCHIVE"/>
+		<meta name="DC.Publisher" content="CanLII"/>
+		<meta name="DC.Title" content="Phipps v. Toronto Police Services Board, 2009 HRTO 877 (CanLII)"/>
+		<meta name="DC.Date" content="2009-06-18T00:00:00-05:00"/>
+		<meta name="DC.Language" content="en"/>
 		
+		
+		
+
 		<!-- STYLES -->
+		<link rel="stylesheet" type="text/css" href="/javascript/libs/jquery-ui-1.10.2-smoothness/css/smoothness/jquery-ui-1.10.2.custom.min-6203f6b232241db5ddb450e8ee140490.css" />
 		<link rel="stylesheet" type="text/css" href="/bootstrap-4.5.3-dist/css/bootstrap-namespaced-aeffd883d0645c92b371ef76dc205a7b.css" />
 		<link rel="stylesheet" type="text/css" href="/css/animate-5fefa95cc2a8e8004790cefc0890838f.css" />
+		<link rel="stylesheet" type="text/css" href="/javascript/libs/tipped4/tipped-77f766fe26ff96053b050251b918ec95.css" />
 		
 		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/fontawesome.min-7f252c83010f3cada47ee6a6f71d1ee8.css" />
 		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/solid.min-f484f18056587df321165f744e9ba571.css" />
 		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/light.min-99d663cdb4567e9c0c000fc52c670fb8.css" />
+		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/thin.min-f44cae780bf8a7287221c340cbe4d815.css" />
 		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/brands.min-40960f6969b87896c9889de920787ae8.css" />
 		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/v5-font-face.min-1cb7f16555da63aecd2828d3d3130d85.css" />
 		
 		<link rel="stylesheet" type="text/css" href="/css/canlii-global-9d77627668ac1e42f1ea1f5f7570070b.css" />
 		<link rel="stylesheet" type="text/css" href="/css/social-66db81a10fd9a455594a0f8ae55cb3a0.css" />
-		<link rel="stylesheet" type="text/css" href="/css/errorPages-63a0b860e7e37136b17cc043b662bbc4.css" />
+		<link rel="stylesheet" type="text/css" href="/select2-3.4.6/select2-c5ad48536cab339f84e7a4feb880c7d7.css" />
+		
+		<link rel="stylesheet" type="text/css" href="/css/judgment/judgment-7ce2e30854f2dd3b09b58d37661bfc04.css" />
+		<link rel="stylesheet" type="text/css" href="/css/search/highlight-ac045e87da84ff12204dbb7a9137775e.css" />
 		
 		
-		<link rel="stylesheet" href="/css/search/print-c40802aa88dd8de4c3bb65cd6fbe06c3.css" type="text/css" media="print" />
+			<link rel="stylesheet" href="/solex/css/doc-highlighter.min.css?v=6.0.3" type="text/css" />
 		
+		
+			<link rel="stylesheet" href="external-css/inline.css" type="text/css" />
+
 		<!-- SCRIPTS -->
 		<script src="/javascript/scripts/canlii-cookies-75ec6a5b81aef45e8b9e76d6890a2409.js"></script>
 		<script src="/javascript/libs/jquery-3.5.1.min-12b69d0ae6c6f0c42942ae6da2896e84.js"></script>
+		<script src="/javascript/libs/jquery-ui-1.10.2-smoothness/js/jquery-ui-1.10.2.custom.min-c2651d4eb2b3d5d523e1f003fc95089e.js"></script>
+		<script src="/javascript/libs/jquery-ui-1.10.2-smoothness/js/jquery-ui-datepicker-fr-792d81b0e28e033f86f11a5602a450cc.js"></script>
+		<script src="/javascript/libs/popper-1.16.1-1db8fd79ce2e5d14918726b61342318e.js"></script>
 		<script src="/bootstrap-4.5.3-dist/js/bootstrap.min-f20fa8b102f205141295cdefd6ffe449.js"></script>
+		<script src="/javascript/libs/bootstrap-notify-3.1.5-feca36f25cc2e8a3e8d92a8c5c5ca7ee.js"></script>
+		<script src="/javascript/libs/tipped4/tipped-2ac1af269cabd824be5489769d281b84.js"></script>
+		<script src="/javascript/scripts/TooltipUtils-ab888649eb899136ee7c6dc9fafd7bb8.js"></script>
+		<script src="/javascript/scripts/replace-element-type-53be9c23e56c112409f81ec50d169629.js"></script>
 		<script src="/javascript/scripts/canlii-global-5c8a8078d512b355d3abdaadf2fac456.js"></script>
 		<script src="/javascript/scripts/global.js"></script>
 		<script src="/javascript/scripts/canlii-onload-b8ea761e59157413f7309a96849c38c9.js"></script>
-	
+		<script src="/javascript/scripts/analytics-aeca0e399642a3e0f50c34aa6addde2c.js" id="analytics-script" data-analytics-base="/analytics"></script>
+		<script src="/select2-3.4.6/select2-canlii-2e8d7895ac2044d71481a6cb011c5a1c.js"></script>
+		<script src="/javascript/libs/underscorejs-1.13.1.min-426e8e61dd81d4c6f9c17f1150ad07ce.js"></script>
+		
+		<script src="/javascript/libs/bytebuffer-3e44dfc7c7b0551ed2e9ce7fdf540e47.js"></script>
+		<script src="/javascript/libs/jquery.viewport-d6e6cf86c8939053c0d590508f09f635.js"></script>
+		<script src="/javascript/libs/jquery.BBQ-36e7a0643283d1af6f02fa4c6b024441.js"></script>
+		<script src="/javascript/libs/jquery.waitForImages-025b47ab3761433aceb4729f5754c921.js"></script>
+		<script src="/javascript/scripts/search/highlight-e20fd10914fbf30b9fac4678791aad7e.js"></script>
+		<script src="/javascript/libs/history-canlii-48b3f9d7a70ac5c36c9d3706ce304292.js"></script>
+		<script src="/javascript/libs/webcomponents-lite-0.7.24.min-13aa06c351974b5fbcd931a096743462.js"></script>
+		<script src="/javascript/scripts/paragNoteups-2d52d20d9b83d9d98b721ee6a54640c4.js"></script>
+		<script src="/javascript/libs/smoothscroll-polyfill-bc2f896cd67fffeab17c5b9b668c4044.js"></script>
+		<script src="/javascript/libs/truncate-e1fa94ed8cd05d7f16357f583867d91e.js"></script>
+		
+			<script src="/solex/js/doc-highlighter.min.js?v=6.0.3"></script>
+		
+		
+		<link rel="import" href="/lexbox_include/canlii_include/lexum" crossorigin="anonymous" id="lexbox-import">
+
+
+		<script>
+			var lang = "en";
+			var highlightbarOf = "of";
+			var highlightbarEditTip = "Change your query for the current document.";
+			var highlightbarPageLabel = "Page:";
 			
-		</head>
-		<body class="bootstrap">
-	    		<div id="wrap">
+			// this will capture hash changes while on the page (CANLIIDYN-1409)
+			$(window).on("hashchange", function () {
+			    offsetAnchor(95);
+			});
+			
+			// runs after the document.ready, so the offsets are set
+			$(window).on("load", function(e) {
+				offsetAnchor(95);
+			});
+		
+			$(document).ready(function() {
+                $("span.reflex2-link").each(tipMultipleReflex2Link);
+                
+                let paragNoteupsUrl = "/noteups/paragNoteups/?concatId=2009onhrt877";
+				createParagTools(
+					paragNoteupsUrl,
+					"2009onhrt877",
+					"/en/on/onhrt/doc/2009/2009hrto877/2009hrto877.html",
+					"",
+					"en",
+					"Phipps v. Toronto Police Services Board, 2009 HRTO 877 (CanLII)",
+					"https://canlii.ca/t/242pq");
+			});
+
+        </script>
+        
+	</head>
+	<body>
+		<div id="wrap">
 	<div id="canliiHeader" class="bootstrap" role="banner">
 		<div id="headerContent" class="canliiContent">
 			<div id="canliiLogo">
@@ -68,62 +133,1109 @@ Page Content:
 			    		<meta itemprop="position" content="1" />
 			    	</span>
 					<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				    		<span class="nowrap" itemprop="name" title="Captcha">Captcha</span>
+				    		<span class="nowrap" itemprop="name" title="Ontario"><a class="canlii" href="/en/on/" itemprop="item">Ontario</a></span> &rsaquo;
 			    		<meta itemprop="position" content="2" />
+			    	</span>
+					<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				    		<span class="nowrap" itemprop="name" title="Human Rights Tribunal of Ontario"><a class="canlii" href="/en/on/onhrt/" itemprop="item">Human Rights Tribunal of Ontario</a></span> &rsaquo;
+			    		<meta itemprop="position" content="3" />
+			    	</span>
+					<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				    		<span class="nowrap" itemprop="name" title="2009 HRTO 877 (CanLII)">2009 HRTO 877 (CanLII)</span>
+			    		<meta itemprop="position" content="4" />
 			    	</span>
 				</div>
 			
 			
 		</div>
 	</div> <!-- /header -->
-	            	
-	            	<div id="main">
-	        			<div id="mainContent" class="canliiContent">
-<div>
-	<p>
-        Dear user,
-	</p>
-	<p>
-        CanLII calls upon users accessing its services a large number of times to ensure that they are people and not programs acting on command. 
-        Indeed, massive downloads are prohibited by CanLII’s Terms of Use. Though your own use may be quite limited, it may have been compiled with that of others 
-        in your organization and in the end, the total volume of access is high. 
-	</p>
-	<p>
-		If you are not a computer, please proceed with our captcha test below. You can then resume your work where you left off.
-	</p>
-	<p>
-		To report any issue, please <a href="mailto:feedback-form@canlii.org">contact us</a>.
-	</p>
-	<p>
-		Happy Searching!
-	</p>
+
+        	<div id="main">
+				<div id="documentContainer" class="canliiContent">
+				
+				<div id="markerLoadingAlert" class="bootstrap">
+					<div class="py-3 text-center"><span class="alert alert-secondary">Loading paragraph markers <i class="fas fa-spinner fa-spin"></i></span></div>
+				</div>
+			
+				<div class="bootstrap">
+					<h2 class="canlii decision solexHlZone mainTitle">Phipps v. Toronto Police Services Board, 2009 HRTO 877 (CanLII)</h2>
+				</div>
+				
+				<div id="judgmentTabs" class="bootstrap">
+					<ul class="nav nav-tabs" role="tablist">
+						<li class="nav-item"><a id="document-tab" class="nav-link active" data-toggle="tab" data-target="#metas" data-secondary="#documentContent" role="tab" href="#document" aria-controls="metas" aria-selected="true">Document</a></li>
+						<li class="nav-item"><a id="related-tab" class="nav-link" data-toggle="tab" data-target="#relatedContent" data-secondary="#related2" role="tab" href="#related" aria-controls="relatedContent" aria-selected="false">History&nbsp;<span id="history-count"><i id="history-spinner" class="fas fa-spinner fa-spin"></i></span></a></li>
+						<li class="nav-item"><a id="cited-tab" class="nav-link" data-toggle="tab" data-target="#citedContent" data-secondary="#cited2" role="tab" href="#cited" aria-controls="citedContent" aria-selected="false">Cited documents&nbsp;<span id="cited-count"><i id="cited-spinner" class="fas fa-spinner fa-spin"></i></span></a></li>
+						<li class="nav-item"><a id="treatment-tab" class="nav-link" data-toggle="tab" data-target="#treatmentContent" data-secondary="#treatment2" role="tab" href="#citing" aria-controls="treatmentContent" aria-selected="false">Treatment<span id="treatment-peppers">&nbsp;<i id="treatment-spinner" class="fas fa-spinner fa-spin"></i></span>&nbsp;<span id="treatment-count"></span></a></li>
+						<li class="nav-item"><a id="external-tab" class="nav-link" data-toggle="tab" data-target="#externalContent" data-secondary="#external2" role="tab" href="#external" aria-controls="externalContent" aria-selected="false">CanLII Connects&nbsp;<span id="external-count"><i id="external-spinner" class="fas fa-spinner fa-spin"></i></span></a></li>
+					</ul>
+				</div>
+				
+				<div class="tab-content bootstrap">
+					<div class="tab-pane fade show active" id="metas" role="tabpanel" aria-labelledby="document-tab">
+<div class="subTab">
+			<div class="row justify-content-end d-print-none pt-1 pr-4">
+			<div class="col-4 col-md-2 text-right">
+				<a href="/en/on/onhrt/doc/2009/2009hrto877/2009hrto877.pdf"><i class="fas fa-print"></i>&nbsp;PDF</a>
+			</div>
+		</div>
 </div>
 
-<div style="padding-top: 10px;" id="captchaForm">
-	<form name="captchaForm" action="/captcha/eval.do" onsubmit="document.captchaForm.hash.value=window.location.hash;">
-		<img id="captchaTag" src="/captcha/captcha.do?id=70.27.132.118" alt="Captcha"/>
-		<audio id="audioCaptchaTag" style="display: none;" preload="auto" onplay="$('#captchaResponse').focus();" controls src="/captcha/audioCaptcha.do?id=70.27.132.118&lang=en&cacheBuster=30ea3f5ad33244c0c444ac32e15581ab0" type="audio/wav"></audio>
-		<button id="toggleAudio" title="Access the audible captcha" type="button"><i aria-hidden="true" class="fas fa-headphones"></i><span class="sr-only">Access the audible captcha</span></button>
-		<input autocomplete="off" aria-label="Captcha answer" autocapitalize="none" id="captchaResponse" style="margin: 0;" type="text" name="jcaptcha" value="" autofocus />
-		<input type="hidden" name="path" value="/en/on/onhrt/doc/2009/2009hrto877/2009hrto877.html" />
-		<input type="hidden" name="queryString" value="" />
-		<input type="hidden" name="hash" value="" />
-		<input type="hidden" name="id" value="70.27.132.118" />
-		<input aria-label="Submit captcha answer" type="submit" value="ok" />
-	</form>
+<div class="container">
+<div id="documentMeta" class="solexHlZone">
+	<div class="row py-1">
+		<div class="col-3 col-md-2 canlii-label">Date:</div>
+		<div class="col-9 col-md-10">2009-06-18</div>
+	</div>
 	
+	<div class="row py-1">
+		<div class="col-3 col-md-2 canlii-label">File number:</div>
+		<div class="col-9 col-md-10">
+			<span class="nowrap">T-0475-08</span>
+		</div>
+	</div>
+
+	<div class="row py-1">
+		<div class="col-3 col-md-2 canlii-label">Other citation:</div>
+		<div class="col-9 col-md-10">
+				<span class="nowrap">[2009] OHRTD No 868</span>
+		</div>
+	</div>
+	<div class="row py-1">
+		<div class="col-3 col-md-2 canlii-label documentMeta-citation">Citation:</div>
+		<div class="col-9 col-md-10">Phipps v. Toronto Police Services Board, 2009 HRTO 877 (CanLII), &lt;<a class='documentStaticUrl' href='https://canlii.ca/t/242pq'>https://canlii.ca/t/242pq</a>&gt;, retrieved on 2023-09-21</div>
+	</div>
+	<div id="recentTreatmentContent" class="row py-1">
+
+	</div>
+</div>
 	
-	<span>*Note that reading the audible captcha requires Edge, <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a> or <a href="https://www.google.com/intl/en_ca/chrome/">Chrome</a>.</span>
+	<div id="lexboxHook"></div>
+</div>
+					</div>
+					
+					<div class="tab-pane fade" id="relatedContent" role="tabpanel" aria-labelledby="related-tab">
+					</div>
+					
+					<div class="tab-pane fade" id="citedContent" role="tabpanel" aria-labelledby="cited-tab">
+					</div>
+					
+					<div class="tab-pane fade" id="treatmentContent" role="tabpanel" aria-labelledby="treatment-tab">
+<div id="treatment" class="subTab">
+    <div class="bootstrap treatment-list">
+        <a data-target="citingContent" style="display: none" href="#citing" class="treatment-item font-weight-bold" id="cited-by-item">Citations&nbsp;<i class="fas fa-pepper-hot basic"></i>&nbsp;<span id="citedBy-count"></span></a>
+        <a data-target="discussingContent" style="display: none" href="#discussing" class="treatment-item" id="discussed-by-item">Discussions&nbsp;<i class="fas fa-pepper-hot"></i>&nbsp;<span id="discussedBy-count"></span></a>
+        <a data-target="criticizingContent" style="display: none" href="#unfavourable" class="treatment-item" id="criticized-by-item">Unfavourable mentions&nbsp;<i class="fas fa-pepper-hot warning"></i>&nbsp;<span id="criticizedBy-count"></span></a>
+    </div>
+    <div class="text-right mt-0 results-display">
+    	<a data-toggle="dropdown" data-flip="false" class="dropdown-toggle nav-link"><span class="expandWrapper"><svg xmlns="http://www.w3.org/2000/svg" height="22" width="30" class="expand-img">
+	<rect x="3" y="2" width="24" height="8" rx="1" ry="1"/>
+	<rect x="3" y="12" width="24" height="8" rx="1" ry="1"/>
+</svg>
+</span><span class="compactWrapper d-none"><svg xmlns="http://www.w3.org/2000/svg" height="22" width="30" class="compact-img">
+	<rect x="3" y="2" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="6" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="10" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="14" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="18" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="22" width="24" height="2" rx="1" ry="1"/>
+</svg>
+</span></a>
+		<div class="dropdown-menu dropdown-menu-right">	
+			<a class="dropdown-item" onclick="expandDensity(event);">
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="30" class="expand-img">
+	<rect x="3" y="2" width="24" height="8" rx="1" ry="1"/>
+	<rect x="3" y="12" width="24" height="8" rx="1" ry="1"/>
+</svg>
+				<span>Expanded</span>
+			</a>
+			<a class="dropdown-item" onclick="compactDensity(event);">
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="30" class="compact-img">
+	<rect x="3" y="2" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="6" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="10" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="14" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="18" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="22" width="24" height="2" rx="1" ry="1"/>
+</svg>
+				<span>Collapsed</span>
+			</a>
+		</div>
+	</div>
 </div>
 
-<script>
-	if (navigator.userAgent.indexOf("MSIE") != -1 || navigator.userAgent.indexOf("Trident") != -1) {
-		$("#toggleAudio").attr("disabled", true);
+<div id="treatment-tab-content" class="tab-content bootstrap">
+    <div id="citingContent"></div>
+    <div id="discussingContent"></div>
+    <div id="criticizingContent"></div>
+</div>					</div>
+			
+					<div class="tab-pane fade" id="externalContent" role="tabpanel" aria-labelledby="external-tab">
+					</div>
+				</div>
+				
+				<div class="tab-content">
+					<div class="tab-pane fade show active" id="documentContent" role="tabpanel" aria-labelledby="document-tab">
+						<div class="row">
+
+						<!-- content -->
+						<div id="originalDocument" class="solexHlZone lbh-document">
+<DIV class="documentcontent">
+
+<DIV class="Section1">
+
+<P class="MsoTitle"><IMG width="58" height="58" src="image001.gif" align="left" hspace="12"><SPAN style="font-family:Arial">HUMAN RIGHTS
+TRIBUNAL OF </SPAN><SPAN style="font-family:Arial">ONTARIO</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">______________________________________________________________________</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="InsertText2"><SPAN style="font-family:Arial">B E T W E E N:&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </SPAN></P>
+
+<P class="InsertText2"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="InsertText3" style="margin-bottom:0cm;margin-bottom:.0001pt"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="InsertText3"><SPAN style="font-family:Arial">Ronald Phipps</SPAN></P>
+
+<P class="InsertText4"><SPAN style="font-family:Arial">Applicant</SPAN></P>
+
+<P class="InsertText3"><SPAN style="font-family:Arial">-and-</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="MsoNormal" align="center" style="text-align:center"><B><SPAN style="font-family:Arial">&nbsp;</SPAN></B></P>
+
+<P class="MsoNormal" align="center" style="margin-bottom:6.0pt;text-align:center"><B><SPAN style="font-family:Arial">Toronto</SPAN></B><B><SPAN style="font-family:Arial"> Police Services Board,<BR>
+Michael Shaw and William Blair</SPAN></B></P>
+
+<P class="InsertText4"><SPAN style="font-family:Arial">Respondents</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">______________________________________________________________________</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="Inserttext5"><SPAN style="font-family:Arial">CASE RESOLUTION
+CONFERENCE DECISION</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">______________________________________________________________________</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="InsertText6"><B><SPAN style="font-family:Arial">Adjudicator:</SPAN></B><SPAN style="font-family:Arial"> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Kaye Joachim</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="InsertText6"><B><SPAN style="font-family:Arial">Date:</SPAN></B><SPAN style="font-family:Arial">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; June 18, 2009</SPAN></P>
+
+<P class="InsertText6"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="InsertText6"><B><SPAN style="font-family:Arial">File Number:</SPAN></B><SPAN style="font-family:Arial">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; T-0475-08</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="InsertText6"><B><SPAN style="font-family:Arial">Citation:</SPAN></B><SPAN style="font-family:Arial">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; 2009 HRTO 877</SPAN></P>
+
+<P class="title2" style="margin-bottom:0cm;margin-bottom:.0001pt">&nbsp;</P>
+
+<P class="title2" style="margin-bottom:0cm;margin-bottom:.0001pt">Indexed as:&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Phipps v. Toronto Police Services Board</P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">______________________________________________________________________</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="InsertText8"><BR>
+<BR>
+</P>
+
+<B><SPAN style="font-size:12.0pt;font-family:Arial;text-transform:
+uppercase"><BR clear="all" style="page-break-before:always">
+</SPAN></B>
+
+<P class="InsertText8">APPEARANCEs BY</P>
+
+<P class="MsoNormal">&nbsp;</P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; )&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; </SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">Ronald Phipps,
+Applicant&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  )&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; On his
+own behalf</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; )&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; </SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; )&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; </SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">Toronto</SPAN><SPAN style="font-family:Arial"> Police Services Board, Respondent&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; )&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Andrea
+Denovan, Counsel</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; )
+</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; )&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; </SPAN></P>
+
+<P class="MsoNormal" style="margin-left:278.25pt;text-indent:-278.25pt"><SPAN style="font-family:Arial">Michael Shaw and William Blair,
+Respondents&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  )&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Naomi E. Calla, Counsel</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; )
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;</SPAN></P>
+
+<P class="MsoNormal">&nbsp;</P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">&nbsp;</SPAN></P>
+
+</DIV>
+
+<SPAN style="font-size:12.0pt;font-family:Arial"><BR clear="all" style="page-break-before:always">
+</SPAN>
+
+<DIV class="Section2">
+
+<P class="Title1">Introduction</P>
+
+<H1 style="margin-top:0cm;margin-right:0cm;margin-bottom:24.0pt;margin-left:
+0cm;text-indent:0cm"><SPAN style="line-height:150%;font-family:Arial">[1]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">This is the Decision
+with respect to an Application filed </SPAN><SPAN style="font-family:
+Arial">under s. 53(3) of the <I>Human Rights Code</I>, R.S.O. 1990, c.H-19, as
+amended (the &ldquo;<I>Code</I>&rdquo;). &nbsp;</SPAN><SPAN style="font-family:Arial">The
+complaint which underlies the current Application was filed with the Ontario
+Human Rights Commission on July 11, 2005 and abandoned upon the filing of the
+present Application with the Tribunal on November 13, 2008.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[2]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN></SPAN><SPAN style="font-family:Arial">A Case Resolution
+Conference (&ldquo;CRC&rdquo;) was held on June 4, 2009 in accordance with the </SPAN><SPAN style="font-family:Arial">expectation, expressed in the <I>Code</I> and
+the Tribunal&rsquo;s Rules, that section 53(3) applications proceed in a highly
+expeditious manner.&nbsp; I heard from the applicant, the respondent Michael Shaw,
+and the respondents&rsquo; witnesses Diane Noto, Bruce Finlay and Hanna Katz (by
+telephone).</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[3]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">The applicant, who
+self-identifies as African Canadian, alleges that the respondent Michael Shaw,
+a police constable, discriminated against him on the basis of race and colour
+when he stopped and questioned the applicant on March 9, 2005. &nbsp;The other named
+respondents are the Toronto Police Services Board (&ldquo;TPSB&rdquo;) and William Blair,
+Chief of Police.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[4]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">I find that Michael
+Shaw did discriminate against the applicant on March 9, 2005 in the provision
+of police services on the basis of colour, contrary to section 1 and 9 of the <I>Code.</I>
+</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[5]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">The parties agreed to
+bifurcate this proceeding.&nbsp; The issue of remedy and the liability of the TPSB
+and William Blair will be heard on the next day of hearing.</SPAN></H1>
+
+<H1 style="margin-left:0cm"><B><SPAN style="font-family:Arial">Chronology
+of Events</SPAN></B></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[6]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">The following events
+are not in dispute, except where I specifically note, by using words such as
+alleged, or asserted, or otherwise indicate a contested point.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[7]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN></SPAN><SPAN style="font-family:Arial">On March 9, 2005, the
+applicant in his capacity of a relief letter carrier employed by Canada Post
+was delivering mail in the area of the Bridle Path, which is a well known
+affluent neighbourhood in </SPAN><SPAN style="font-family:Arial">Toronto</SPAN><SPAN style="font-family:Arial">. &nbsp;It was his second day delivering mail
+on that route. He was wearing the Canada Post coat, carrying a mail satchel,
+and delivering regular mail and flyers.&nbsp; He did not stop at every house as there
+was no mail for some houses and other houses had a &ldquo;no flyer&rdquo; notation.&nbsp; </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[8]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">That day, Michael
+Shaw, a police constable who had served in the area for several years was
+training a new police constable, Diane Noto.&nbsp; At the start of their shift they
+were given a Directed Patrol Assignment, recommending that they patrol the area
+where the applicant was delivering mail between 12 p.m. and 4.00 p.m. &nbsp;The assignment
+details were that phone lines had been cut in the area by suspects described as
+Male, White and East European, who were using a vehicle. &nbsp;&nbsp; </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[9]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Constable Shaw decided
+to patrol the identified area that morning, in accordance with the Directed
+Patrol Assignment. &nbsp;As the police car turned from </SPAN><SPAN style="font-family:Arial">Farrington Drive</SPAN><SPAN style="font-family:Arial"> onto </SPAN><SPAN style="font-family:
+ Arial">Vernham Avenue</SPAN><SPAN style="font-family:Arial">,
+Constable Shaw allegedly immediately pointed out a figure at the other end of </SPAN><SPAN style="font-family:Arial">Vernham Avenue</SPAN><SPAN style="font-family:Arial"> as engaged in potentially unusual activity, walking
+in the middle of the street and then crossing back and forth. &nbsp;It was the
+applicant although at that distance Constables Shaw and Noto assert that they
+were unable to discern the gender or the skin colour of the person. &nbsp;As the
+applicant approached, they could discern that he was an African Canadian male,
+wearing a Canada Post jacket and carrying material in his hand.&nbsp; Constable Shaw
+asserts that he realized that this was not the usual letter carrier and that he
+was not stopping to deliver mail at every house. </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[10]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Constable Noto drove
+the police car at a slow pace along </SPAN><SPAN style="font-family:
+ Arial">Vernham Avenue</SPAN><SPAN style="font-family:Arial">,
+keeping the applicant in view.&nbsp; They followed him to the corner of Vernham
+Avenue and Vernham Court where the applicant went up to a house, knocked on the
+door, and spoke to the woman who answered.&nbsp; They did not see him deliver
+anything, which they thought unusual.&nbsp; Constable Shaw instructed Constable Noto
+to inquire of the resident why the applicant had knocked.&nbsp; Constable Noto spoke
+to the resident, Hanna Katz, who advised that the applicant had stopped to
+advise her that he had misdelivered something. </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[11]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Constable Noto advised
+Constable Shaw of this information.&nbsp; Constable Shaw found this suspicious.&nbsp;
+Accordingly, they drove up </SPAN><SPAN style="font-family:Arial">Vernham
+ Court</SPAN><SPAN style="font-family:Arial"> and stopped the
+applicant.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[12]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">They asked him for
+identification.&nbsp; The applicant willingly and politely provided his driver&rsquo;s
+licence and his Canada Post identification.&nbsp; Constable Noto returned to the
+police vehicle and performed a check which revealed nothing.&nbsp; Constable Noto
+advised of the results and after some conversation, the manner and content of
+which is disputed, the police entered their car and departed to continue
+patrolling the area.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[13]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Shortly after this,
+they encountered another letter carrier Bruce Finlay at a relay box picking up
+mail and Constable Shaw recognized him as the regular carrier on a nearby
+route.&nbsp; Constable Shaw asked Mr. Finlay about the letter carrier in the </SPAN><SPAN style="font-family:Arial">Vernham Avenue</SPAN><SPAN style="font-family:Arial"> area.&nbsp; Mr. Finlay stated that he was a male, White
+about 35 years of age.&nbsp; Constable Shaw inquired about other potential letter
+carriers in the area and Mr. Finlay stated that there was a temporary carrier,
+a &ldquo;Black man&rdquo;, in the area.&nbsp; The police drove on.&nbsp; </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[14]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">The applicant
+subsequently hailed the police officers to inquire why they had stopped him. &nbsp;A
+conversation ensued, the contents of which are disputed.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[15]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">The applicant believed
+that the police officers&rsquo; decision to stop and question him was because of his skin
+colour and he testified that he was upset, dazed and in shock.&nbsp; While continuing
+on his route that day, he noted that a White male delivering water in the area
+was not questioned.&nbsp; He stopped at three construction sites where there were
+White workers and asked them if any of them had been stopped by the police. &nbsp;None
+of them had been. &nbsp;This is not disputed by the respondents. &nbsp;The applicant also
+met up with Mr. Finlay that morning and learned that the police had questioned
+him (Finlay) about the letter carriers in the area.</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:0cm;margin-bottom:12.0pt;margin-left:
+0cm"><B><SPAN style="font-family:Arial">Analysis and Conclusions</SPAN></B></H1>
+
+<H1 style="margin-top:0cm;margin-right:0cm;margin-bottom:12.0pt;margin-left:
+0cm;text-indent:0cm"><SPAN style="line-height:150%;font-family:Arial">[16]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">The relevant
+principles that apply in cases where an allegation of racial discrimination has
+been raised have been usefully summarized as follows:</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;margin-left:
+36.0pt;line-height:normal"><SPAN style="font-family:Arial">(a)&nbsp;&nbsp; &nbsp;&nbsp;  The
+prohibited ground or grounds of discrimination need not be the sole or the
+major factor leading to the discriminatory conduct; it is sufficient if they
+are a factor;</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;margin-left:
+36.0pt;line-height:normal"><SPAN style="font-family:Arial">(b)&nbsp;&nbsp; &nbsp;&nbsp;  There
+is no need to establish an intention or motivation to discriminate; the focus
+of the enquiry is on the effect of the respondent's actions on the complainant;</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;margin-left:
+36.0pt;line-height:normal"><SPAN style="font-family:Arial">(c)&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; The
+prohibited ground or grounds need not be the cause of the respondent's discriminatory
+conduct; it is sufficient if they are a factor or operative element;</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;margin-left:
+36.0pt;line-height:normal"><SPAN style="font-family:Arial">(d)&nbsp;&nbsp; &nbsp;&nbsp;  There
+need be no direct evidence of discrimination; discrimination will more often be
+proven by circumstantial evidence and inference; and</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;margin-left:
+36.0pt;line-height:normal"><SPAN style="font-family:Arial">(e)&nbsp;&nbsp; &nbsp;&nbsp;  Racial
+stereotyping will usually be the result of subtle unconscious beliefs, biases
+and prejudices.</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;margin-left:
+0cm;line-height:normal"><I><SPAN style="font-family:Arial">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Radek
+v. Henderson Development (</SPAN></I><I><SPAN style="font-family:
+ Arial">Canada</SPAN></I><I><SPAN style="font-family:Arial">) Ltd.
+(No. 3)</SPAN></I><SPAN style="font-family:Arial"> </SPAN><SPAN style="font-family:Arial">(2005), </SPAN><SPAN style="font-family:Arial">52
+C.H.R.R. D/430</SPAN><SPAN style="font-family:Arial">, </SPAN><A class="reflex3-caselaw" href="/en/bc/bchrt/doc/2005/2005bchrt302/2005bchrt302.html"><SPAN style="font-family:Arial">2005 BCHRT 302</SPAN></A><SPAN style="font-family:Arial"> at para. </SPAN><A class="reflex-parag" href="/en/bc/bchrt/doc/2005/2005bchrt302/2005bchrt302.html#par482"><SPAN style="font-family:Arial">482</SPAN></A><SPAN style="font-family:Arial">; <I>Pritchard v. Ziedler</I>
+(2007), CHRR Doc. 07-527 (</SPAN><SPAN style="font-family:Arial">Sask.</SPAN><SPAN style="font-family:Arial"> H.R.T.).</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:0cm;margin-bottom:12.0pt;margin-left:
+0cm;text-indent:0cm"><SPAN style="line-height:150%;font-family:Arial">[17]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">In this case, as in
+many cases alleging racial discrimination, there is no direct evidence that
+race was a factor in the officer&rsquo;s decision to take the actions that he did.&nbsp;
+As a result, the issue of whether the officer&rsquo;s actions amount to racial
+discrimination in violation of the <I>Code</I> falls to be determined in
+accordance with the following well-established principles applicable to
+circumstantial evidence cases.</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;margin-left:
+36.0pt;line-height:normal"><SPAN style="font-family:Arial">1)&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Once
+a prima facie case of discrimination has been established, the burden shifts to
+the respondent to provide a rational explanation which is not discriminatory.</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;margin-left:
+36.0pt;line-height:normal"><SPAN style="font-family:Arial">2)&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; It
+is not sufficient to rebut an inference of discrimination that the respondent
+is able to suggest just any rational alternative explanation. The respondent
+must offer an explanation which is credible on all the evidence.</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;margin-left:
+36.0pt;line-height:normal"><SPAN style="font-family:Arial">3)&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; A
+complainant is not required to establish that the respondent&rsquo;s actions lead to
+no other conclusion but that discrimination was the basis for the decision at
+issue in a given case.</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;margin-left:
+36.0pt;line-height:normal"><SPAN style="font-family:Arial">4)&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; There
+is no requirement that the respondents' conduct, to be found discriminatory,
+must be consistent with the allegation of discrimination and inconsistent with
+any other rational explanation.</SPAN></H1>
+
+<H1 style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;margin-left:
+36.0pt;line-height:normal"><SPAN style="font-family:Arial">5)&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; The
+ultimate issue is whether an inference of discrimination is more probable from
+the evidence than the actual explanations offered by the </SPAN><SPAN style="font-family:Arial">respondent.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[18]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">In determining whether
+the inference of racial discrimination is more probable than the explanations
+offered by the respondent officer, I also need to be mindful of the nature of
+racial discrimination as it is understood today and that it will often be the
+product of learned attitudes and biases and often operates on an unconscious
+level: <I>Nassiah v. Peel (</I></SPAN><I><SPAN style="font-family:
+ Arial">Regional</SPAN></I><I><SPAN style="font-family:Arial"> </SPAN></I><I><SPAN style="font-family:Arial">Municipality</SPAN></I><I><SPAN style="font-family:Arial">) Services Board,</SPAN></I><SPAN style="font-family:Arial"> </SPAN><A class="reflex3-caselaw" href="/en/on/onhrt/doc/2007/2007hrto14/2007hrto14.html"><SPAN style="font-family:Arial">2007 HRTO 14 (CanLII)</SPAN></A><SPAN style="font-family:Arial">.</SPAN><SPAN style="font-size:9.0pt;line-height:150%;font-family:Arial">
+</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[19]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Courts in Canada have
+accepted that racial profiling by police occurs in </SPAN><SPAN style="font-family:Arial">Canada</SPAN><SPAN style="font-family:Arial">
+and have indicated their willingness to scrutinize seemingly &ldquo;neutral&rdquo; police
+behaviour to assess whether it falls within the phenomenon of racial profiling.
+&nbsp;In <I>R. v. Brown</I>&nbsp;(2003) 64 O.R. (3) 161 (</SPAN><SPAN style="font-family:Arial">Ont.</SPAN><SPAN style="font-family:Arial"> </SPAN><SPAN style="font-family:Arial">CA</SPAN><SPAN style="font-family:
+Arial">) at para. 9, Morden J. A. stated that the Crown&rsquo;s concession that the
+phenomenon of racial profiling existed was &ldquo;a responsible position to take
+because&hellip;this conclusion is supported by significant social science
+research&rdquo;.&nbsp; In<I> Peart v. Peel Regional Police Service Board</I>, [2206]
+O.J. NO. 4456 (</SPAN><SPAN style="font-family:Arial">Ont</SPAN><SPAN style="font-family:Arial"> CA), Doherty J.A. stated the &ldquo;racial
+profiling occurs and is a day-to-day reality in the lives of those minorities
+affected by it.&rdquo;</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[20]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">There is no dispute
+that Constable Shaw, the senior police constable, directed the day&rsquo;s events. &nbsp;The
+issue for me to determine is whether the applicant&rsquo;s skin colour was a factor
+in Constable Shaw&rsquo;s surveillance of, decision to stop, and subsequent inquiry
+about the applicant. &nbsp;</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[21]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Constables Shaw and
+Noto testified that the applicant&rsquo;s skin colour was not a factor in their
+actions and was not discussed between them.&nbsp; I accept their evidence that the
+applicant&rsquo;s skin colour was not discussed between them.&nbsp; However, I find that
+on a balance of probabilities, the fact that the applicant was an African Canadian
+in an affluent neighbourhood was a factor, a significant factor, and probably
+the predominant factor, whether consciously or unconsciously, in Constable
+Shaw&rsquo;s actions. </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[22]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Constable Shaw
+testified that a number of unusual features, including the applicant&rsquo;s
+behaviour, influenced his actions.&nbsp; The features he asserted were unusual are
+these: the applicant was not the usual letter carrier, the applicant was
+crossing back and forth across the street, and the applicant did not stop at
+every house.&nbsp; These three factors caused Constable Shaw to survey the
+applicant.&nbsp; His suspicion was further fostered by the applicant&rsquo;s knocking on
+the door of a house but not delivering any mail augmented by the excuse, as
+reported by the resident, that he had misdelivered some material. &nbsp;However,
+after conducting a police check and asking the applicant some questions, Constable
+Shaw testified that he was completely satisfied that the applicant was a
+legitimate letter carrier.&nbsp; Constable Shaw testified that his further inquiries
+of Mr.&nbsp;Finlay at the relay box about letter carriers in the area was in
+the nature of a training exercise for Constable Noto to teach her that there
+were various ways to obtain confirming information.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[23]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">In my view, the above
+chronology, as described by the respondent Shaw is more consistent with a
+finding that the applicant&rsquo;s skin colour played a role in his actions than the
+applicant&rsquo;s alleged unusual activity.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[24]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">First, the fact that
+the applicant was not the usual letter White male letter carrier is surely not
+a suspicious circumstance.&nbsp; Letter carriers take vacation, retire, and/or
+switch routes, so the fact that another letter carrier was delivering the mail
+on that particular day cannot explain Constable Shaw&rsquo;s heightened alertness. &nbsp;I
+find significant that he did not respond in a similar way to an unfamiliar White
+male delivering water in the area.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[25]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Second, Constable Noto
+testified that immediately upon turning onto </SPAN><SPAN style="font-family:Arial">Vernham Avenue</SPAN><SPAN style="font-family:Arial">, Constable Shaw pointed out the applicant as a
+person of note.&nbsp; It is not likely that Constable Shaw had already noticed the
+applicant&rsquo;s alleged crossing back and forth across the street in an unusual
+manner as soon as they turned the corner. &nbsp;Whether or not Constables Shaw and
+Noto noticed a figure in the distance when they turned onto </SPAN><SPAN style="font-family:Arial">Vernham Avenue</SPAN><SPAN style="font-family:Arial">, I do not accept their evidence that the figure was
+crossing back and forth across the street in an unusual manner. </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[26]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Third, it is not in
+keeping with the preponderance of probabilities that the applicant was
+constantly crossing back and forth across the street. &nbsp;The applicant could not
+recall whether or how often he crossed the street that day. &nbsp;However, he testified
+and his evidence is in keeping with the preponderance of probabilities that
+while letter carriers usually deliver their mail on one side of the street and
+then the other, if they make a mistake in preparing their mail they might cross
+the street mid-street, occasionally.&nbsp; Since there is no dispute that the
+applicant was, in fact, a legitimate letter carrier, either he made an unusual
+number of mistakes and crossed the street an extraordinary number of times on
+that day, or in the usual manner of letter carriers, he may have crossed the
+street once or at most twice.&nbsp; I do not accept Constable Shaw&rsquo;s evidence as in
+keeping with the preponderance of probabilities that the applicant was crossing
+the street back and forth in an unusual fashion.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[27]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Fourth, Constable Shaw
+in his original response to the complaint, his will say statement and his
+evidence at the hearing, noted the fact that the applicant did not stop at
+every house as an unusual circumstance.&nbsp; However, the evidence of the applicant
+and Mr. Finlay was that it is not unusual for a letter carrier to skip houses
+if there is no mail to be delivered and the householder has asked not to have
+flyers delivered.&nbsp; Indeed, Constable Shaw conceded in cross examination by the
+applicant that he had in the past seen letter carriers skip houses. &nbsp;In my
+view, it is in keeping with the preponderance of probabilities that Constable
+Shaw was well aware that letter carriers do not stop at every house.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[28]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Accordingly, I
+conclude that it was not unusual behaviour on the applicant&rsquo;s part that caused Constable
+Shaw to decide to place the applicant under surveillance but rather the fact
+that he was an African Canadian male in an affluent neighbourhood.&nbsp; His
+suspicions were not alleviated by the Canada Post uniform, mailbag or mail
+delivery.&nbsp; It is also noteworthy that the Directed Patrol Assignment related to
+suspicious persons in the neighbourhood with entirely different
+characteristics: White, Eastern European, using a vehicle. The fact that it was
+an African Canadian male without a vehicle that attracted Constable Shaw&rsquo;s
+attention is what is unusual.&nbsp; I am further reinforced in my conclusions by Constable
+Shaw&rsquo;s continued actions, described below. </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[29]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Having decided to
+scrutinize the applicant, Constable Shaw found it suspicious that the applicant
+knocked on a resident&rsquo;s door and spoke to a woman but did not deliver any mail
+or flyers. &nbsp;Mr. Finlay testified that it was not unusual to misdeliver mail and
+to go back and try to retrieve it, which is what the applicant did that day.
+Nonetheless, Constable Shaw found this to be suspicious behaviour and asked Constable
+Noto to ask the resident what the applicant had been doing.&nbsp; Constable Noto
+testified Ms. Katz advised her that the applicant said he had misdelivered
+something. </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[30]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Ms. Katz testified
+that she could barely recall the events of that day.&nbsp; However, she did call Canada
+Post that day to report the events and she agreed that the Canada Post report
+was likely accurate and that she was the only source of information on the
+Canada Post report.&nbsp; Her report to Canada Post was that she told the police
+that the applicant had come to retrieve misdelivered mail. &nbsp;Had Constable Noto
+inquired, she would undoubtedly have learned that Ms. Katz had in fact received
+misdelivered mail the previous day, that she had delivered it to the correct
+address, and that she had told the applicant that.&nbsp; Constable Noto apparently
+did not learn this as she immediately returned to Constable Shaw with the
+information that the applicant had said he knocked on the door to inquire about
+a misdelivery.&nbsp; Constable Shaw concluded that this was suspicious behaviour, as
+it was not unknown for criminals to disguise themselves with legitimate uniforms
+and check out houses with false explanations. &nbsp;In my view, but for Constable
+Shaw&rsquo;s improperly heightened suspicion of the applicant, he would not have
+found the applicant&rsquo;s alleged misdelivery suspicious. </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[31]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">Accordingly, I
+conclude that the applicant&rsquo;s colour was a factor in Constable Shaw&rsquo;s continued
+suspicion of the applicant and his decision to stop and question the applicant.
+</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[32]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">After being provided
+with the applicant&rsquo;s driver&rsquo;s license and Canada Post identification and having
+ascertained that the applicant had no police record or other suspicious
+notations on his record, Constable Shaw nonetheless proceeded to question
+another letter carrier, Mr. Finlay, about the letter carriers in the
+neighbourhood.&nbsp; Only after Mr. Finlay identified a &quot;Black man&rdquo; who was
+acting as a temporary letter carrier did Constable Shaw cease his inquiries. &nbsp;I
+reject Constable Shaw&rsquo;s explanation that he was trying to teach Constable Noto
+about alternative ways to complete an investigation and find instead that Constable
+Shaw&rsquo;s heightened scrutiny of the applicant was continuing.</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[33]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">I emphasize that
+although I have rejected each of Constable Shaw&rsquo;s explanations as not
+consistent with the preponderance of probabilities, the combination of his
+actions when viewed together further supports my conclusions. </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[34]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">I conclude that the
+applicant&rsquo;s colour was a factor in Constable Shaw&rsquo;s surveillance, decision to
+stop, and subsequent inquiries about the applicant on March 9, 2005 and that he
+breached the applicant&rsquo;s right to equal treatment without discrimination on the
+basis of colour with respect to services, contrary to sections 1 and 9 of the <I>Code.</I></SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[35]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">I stated earlier that
+there were disputes between the parties with respect to the manner and content
+of the two conversations between the applicant and the officers. &nbsp;I find that
+it is necessary to make some findings on these matters as they may affect the
+remedial aspect of the case.&nbsp; The applicant asserted that the officers drove
+abruptly into a driveway that he was about to cross and approached him in an
+intimidating manner. The first word Constable Shaw uttered, in a disrespectful
+manner, was &ldquo;ID.&rdquo;&nbsp; When he asked why they wanted his identification, Constable
+Shaw answered in an insulting manner, &ldquo;I would ask even if you were the Prime
+Minister of Canada.&rdquo; The police check took a considerable period of time during
+which the applicant asked to continue delivering mail and the police car
+followed him while he was doing so.&nbsp; </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[36]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">This is denied by the
+officers.&nbsp; They testified that they stopped on the curb and did not pull into
+the driveway because of rules against entering unnecessarily upon private
+property.&nbsp; They politely advised the applicant that they were investigating break
+and enters in the area and asked for identification. &nbsp;While Constable Noto
+conducted the police check, Constable Shaw inquired why the applicant had not
+delivered pamphlets to every home.&nbsp; Upon being advised by the applicant that
+not everyone wanted pamphlets, and upon receiving the negative results from the
+police check, Constable Shaw apologized for stopping him. &nbsp;They deny following
+him in the police car while they did the check. </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[37]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">I accept the
+applicant&rsquo;s evidence that he felt intimidated by being approached by two police
+officers, wearing guns, one of whom, Constable Shaw, is a very large man.&nbsp; I
+note that the applicant has a small stature.&nbsp; I also accept that he perceived
+that the officers did not treat him respectfully.&nbsp; However, I am not persuaded
+on a balance of probabilities that Constable Shaw used the police vehicle in an
+intimidating manner, that he approached the applicant in an intimidating manner
+or that he spoke rudely to the applicant. </SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[38]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">The applicant did not
+give any detailed testimony about the second meeting after he hailed the
+officers and asked why they had stopped him, and therefore it is unnecessary to
+make any findings of fact about the manner in which he was treated at that
+time. &nbsp;</SPAN></H1>
+
+<H1 style="margin-left:0cm;text-indent:0cm"><SPAN style="line-height:
+150%;font-family:Arial">[39]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+</SPAN></SPAN><SPAN style="font-family:Arial">This hearing shall
+resume on September 14, 2009 to hear the evidence and argument with respect to
+remedy and liability of William Blair and the TPSB. </SPAN></H1>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">Dated at </SPAN><SPAN style="font-family:Arial">Toronto</SPAN><SPAN style="font-family:Arial">, this 18<SUP>th</SUP> day of June, 2009.</SPAN></P>
+
+<P class="MsoList2" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal"><I><SPAN style="font-family:Arial">&nbsp;</SPAN></I></P>
+
+<P class="MsoList2" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal"><I><SPAN style="font-family:Arial">&nbsp;</SPAN></I></P>
+
+<P class="MsoList2" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal"><I><SPAN style="font-family:Arial">&nbsp;</SPAN></I></P>
+
+<P class="MsoList2" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal"><I><SPAN style="font-family:Arial">&ldquo;Signed by&rdquo;</SPAN></I></P>
+
+<P class="MsoList2" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal"><SPAN style="font-family:Arial">__________________________________</SPAN></P>
+
+<P class="MsoList2" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal"><SPAN style="font-family:Arial">Kaye Joachim</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-family:Arial">Alternate Chair</SPAN></P>
+
+</DIV>
+
+
+
+
+</DIV>
+<DIV ID="judgmentLinks" STYLE="display: none;">
+<UL>
+<LI data-path="/en/bc/bchrt/doc/2005/2005bchrt302/2005bchrt302.html">
+<LI data-path="/en/on/onhrt/doc/2007/2007hrto14/2007hrto14.html">
+</UL>
+</DIV>
+								
+								</div> <!-- /originalDocument -->
+								<!-- /content -->
+	
+							</div>
+						</div>
+						
+						<div class="tab-pane fade" id="related2" role="tabpanel" aria-labelledby="related-tab"></div>
+						<div class="tab-pane fade" id="cited2" role="tabpanel" aria-labelledby="cited-tab"></div>
+						<div class="tab-pane fade" id="treatment2" role="tabpanel" aria-labelledby="treatment-tab"></div>
+						<div class="tab-pane fade" id="external2" role="tabpanel" aria-labelledby="external-tab"></div>
+					</div>
+				</div>
+				
+				<div class="scroll-marker"></div>
+				
+				<script>
+getMostRecentCriticalTreatmentContent();
+getHistoryTabContent();
+getCitedTabContent();
+getExternalTabContent();
+addFootnotesTooltips();
+
+// load noteup counts only when the tab is selected
+var loadedCitedBy = false;
+$('a#cited-tab').on('shown.bs.tab', function (e) {
+	if (loadedCitedBy == false) {
+		setReflexRecordNoteupCountText("en", "Cited by", "document", "documents");
+		loadedCitedBy = true;
 	}
-</script>
-	        			</div>
-	            	</div>
-	    		</div>
+});
+
+CanliiAnalytics.initDocumentEvents();
+
+function getExternalTabContent() {
+	let url = "/judgmentTabs/external/?judgmentId=36586443&lang=en";
+
+	$.get(url, function(data) {
+		$("#externalContent").html(data.content);
+		$("#external-spinner").hide("fast");
+		$("#external-count").html("(" + data.count + ")");
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#externalContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#external-spinner").hide("fast");
+	});
+}
+
+function getHistoryTabContent() {
+	let url = "/judgmentTabs/history/?judgmentId=36586443&lang=en";
+
+	$.get(url, function(data) {
+		$("#relatedContent").html(data.content);
+		$("#history-spinner").hide("fast");
+		$("#history-count").html("(" + data.count + ")");
+		if (data.count == 0) {
+			$("#related-tab").addClass("disabled");
+		}
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#relatedContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#history-spinner").hide("fast");
+	});
+}
+
+function getCitedTabContent() {
+	let judgmentLinks = [];
+	$("#judgmentLinks").find("li").each(function() {
+		judgmentLinks.push($(this).data("path"));
+	});
+	
+	let legislationLinks = [];
+	$("#legislationLinks").find("li").each(function() {
+		legislationLinks.push({path: $(this).data("path"), text: $(this).data("text")});
+	});
+	
+	let doctrineLinks = [];
+	$("#doctrineLinks").find("li").each(function() {
+		doctrineLinks.push({href: $(this).data("path"), concatenatedId: $(this).data("text")});
+	});
+	
+	let url = "/judgmentTabs/cited/?judgmentId=36586443&lang=en";
+	
+	$.ajax({
+	    type: "POST",
+	    url: url,
+	    contentType: "application/json",
+	    dataType: "json",
+	    data: JSON.stringify({ judgmentLinks: judgmentLinks, legislationLinks: legislationLinks, doctrineLinks: doctrineLinks })
+	})
+	.done(function(data) {
+		$("#citedContent").html(data.content);
+		$("#cited-spinner").hide("fast");
+		$("#cited-count").html("(" + data.count + ")");
+		if (data.count == 0) {
+			$("#cited-tab").addClass("disabled");
+		}
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#citedContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#cited-spinner").hide("fast");
+	});
+}
+
+function getMostRecentCriticalTreatmentContent() {
+	let url = "/judgmentTabs/document/recentTreatment/?judgmentId=36586443&lang=en";
+
+	$.get(url, function(data) {
+		$("#recentTreatmentContent").html(data.content);
+		let pepperHtml = "";
+		if(data.isCriticized) {
+			pepperHtml = "&nbsp;<i class=\"fas fa-pepper-hot warning\" title=\"At least one document unfavourably mentions this decision\"></i>";
+		}
+		else if(data.isDiscussed) {
+			pepperHtml = "&nbsp;<i class=\"fas fa-pepper-hot\" title=\"At least one document discusses this decision\"></i>";
+		}
+
+		$("#treatment-peppers").html(pepperHtml);
+		$("#treatment-peppers .fa-pepper-hot").tooltip({
+			placement : 'bottom',
+			trigger : 'hover',
+			html: true,
+			container: $("#treatment-peppers").closest('.bootstrap')
+		});
+
+		if (data.citedByCount == 0) {
+			$("#treatment-tab").addClass("disabled");
+		}
+
+		$("#cited-by-item").show();
+
+		$("#citedBy-count").html("(" + data.citedByCount + ")");
+		$("#treatment-count").html("(" + data.citedByCount + ")");
+
+		$("#cited-by-item").tooltip({
+			placement : 'bottom',
+			trigger : 'hover',
+			html: true,
+			title: 'Documents that cite this decision',
+			container: $("#cited-by-item").closest('.bootstrap')
+		});
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+	})
+	.always(function() {
+		$("#treatment-spinner").hide("fast");
+		$("#recent-treatment-meta-label").tooltip({
+			placement : 'bottom',
+			trigger : 'hover',
+			html: true,
+			title: 'Most recent document that contains unfavourable mentions of this decision',
+			container: $("#recent-treatment-meta-label").closest('.bootstrap')
+		});
+	});
+}
+
+function getTreatmentTypesCounts() {
+	let url = "/judgmentTabs/counts/?judgmentId=36586443&lang=en";
+
+	$.get(url, function(data) {
+		if(data.criticizedBy != 0) {
+			$("#criticizedBy-count").html("(" + data.criticizedBy + ")");
+			$("#criticized-by-item").show();
+			$("#criticized-by-item").tooltip({
+				placement : 'bottom',
+				trigger : 'hover',
+				html: true,
+				title: 'Documents that contain unfavourable mentions of this decision',
+				container: $("#criticized-by-item").closest('.bootstrap')
+			});
+		}
+		if(data.discussedBy != 0) {
+			$("#discussedBy-count").html("(" + data.discussedBy + ")");
+			$("#discussed-by-item").show();
+			$("#discussed-by-item").tooltip({
+				placement : 'bottom',
+				trigger : 'hover',
+				html: true,
+				title: 'Documents that discuss this decision',
+				container: $("#discussed-by-item").closest('.bootstrap')
+			});
+		}
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+	});
+}
+
+function getCitedByTabContent(tab) {
+	let url = "/judgmentTabs/citedBy/?judgmentId=36586443&lang=en";
+	$("#treatment-tab-content").addClass("TreatmentSearchResultsLoading");
+
+	$.get(url, function(data) {
+		$("#citingContent").html(data.content);
+
+		if (data.count == 0) {
+			$("#treatment-tab").addClass("disabled");
+		}
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#citingContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#treatment-tab-content").removeClass("TreatmentSearchResultsLoading");
+		tab.show();
+		tab.siblings().hide();
+		enableTreatmentTabTooltips();
+	});
+}
+
+function getDiscussedByTabContent(tab) {
+	let url = "/judgmentTabs/discussedBy/?judgmentId=36586443&lang=en";
+	$("#treatment-tab-content").addClass("TreatmentSearchResultsLoading");
+
+	$.get(url, function(data) {
+		$("#discussingContent").html(data.content);
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#discussingContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#treatment-tab-content").removeClass("TreatmentSearchResultsLoading");
+		tab.show();
+		tab.siblings().hide();
+		enableTreatmentTabTooltips();
+	});
+}
+
+function getCriticizedByTabContent(tab) {
+	let url = "/judgmentTabs/criticizedBy/?judgmentId=36586443&lang=en";
+	$("#treatment-tab-content").addClass("TreatmentSearchResultsLoading");
+
+	$.get(url, function(data) {
+		$("#criticizingContent").html(data.content);
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#criticizingContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#treatment-tab-content").removeClass("TreatmentSearchResultsLoading");
+		tab.show();
+		tab.siblings().hide();
+		enableTreatmentTabTooltips();
+	});
+}
+
+function getNegatedByTabContent(tab) {
+	let url = "/judgmentTabs/negatedBy/?judgmentId=36586443&lang=en";
+	$("#treatment-tab-content").addClass("TreatmentSearchResultsLoading");
+
+	$.get(url, function(data) {
+		$("#negatingContent").html(data.content);
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#negatingContent").html("<p>An error occured while loading this tab.</p>");
+
+	})
+	.always(function() {
+		$("#treatment-tab-content").removeClass("TreatmentSearchResultsLoading");
+		tab.show();
+		tab.siblings().hide();
+		enableTreatmentTabTooltips();
+	});
+}
+
+function enableTreatmentTabTooltips() {
+	$("#treatment-tab-content .fa-pepper-hot").tooltip({
+		placement : 'bottom',
+		trigger : 'hover',
+		html: true,
+		container: $("#treatment-tab-content").closest('.bootstrap')
+	});
+
+	$(".topics span.name").tooltip({
+		placement : 'bottom',
+		trigger : 'hover',
+		html: true,
+		container: $("li.result").closest('.bootstrap')
+	});
+	
+	$(".ai-icon").tooltip({
+		placement : 'top',
+		trigger : 'hover',
+		html: true,
+		container: $("li.result").closest('.bootstrap'),
+		title: "AI experiment"
+	});
+
+	$(".keyword").hover(
+		function() {
+			$(this).find(".ai-icon").css("opacity", "1");
+		},
+		function() {
+	    	$(this).find(".ai-icon").css("opacity", "0");
+		}
+	);
+}				</script>
+        	</div>
+		</div>
+		
 <div class="bootstrap" role="navigation" aria-labelledby="backToTop">
 	<button id="backToTop" type="button" class="btn btn-sm btn-secondary d-print-none" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast'); return false;" aria-label="Back to top">Back to top</button>
 </div>
@@ -269,10 +1381,46 @@ Page Content:
 	</div><!-- /footerContent -->
 
 <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://piwik.canlii.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://piwik.canlii.org/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 <!-- End Matomo Code -->	
 </footer> <!-- /footer -->
-		</body>
-	</html>
+	</body>
+	
+	
+		<script>
+$(document).ready(function() {
+    $.initHighlightNavigationBar(
+        $('.solexHlZone'), 
+        {
+            "terms":[],
+            "allTermsByTermIndex":[],
+            "pathToResources":"/solex/",
+            "queryHasSyntaxError":false,
+            "queryIsTooLong":false,
+            "navBar":canliiCustomNavBar,
+            "scrollWindow":parent,
+            "hasHeader":true,
+            "pdfMode":false,
+            "pdfFirstPage":1,
+            "pdfTotalPages":0}
+    );
+});
+</script>
+
+</html>
 
 
 Metadata:
@@ -280,59 +1428,124 @@ Metadata:
 --------------------------------------------------
 
 Page Content:
-
-	<!DOCTYPE html>
-	<html lang="en">
-		<head>
-			<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-			
-			<title>Captcha | CanLII</title>
-	
-		    <meta name="google-site-verification" content="b9XXMP1TAMRAqDZyMRVBYSkrf1PIb1SxrfIBiE2klc4" /> <!-- canlii.org -->
-			<meta name="google-site-verification" content="HKhxINdGOLSt8h_j8SdpXbmS9VDJ_WFxOxnZSJJ7UmI" /> <!-- canlii.ca -->
-	
-			<!-- https://canlii.org for webmastercanlii@google.ca -->
-			<meta name="google-site-verification" content="FA3tCtCzEnhF5Q46dF8Rk51X2uifrWQ3Ww56gS-TkXk" />
-	
-			<!-- https://canlii.ca for webmastercanlii@google.ca -->
-			<meta name="google-site-verification" content="jGHnT28jw66I6hI2Phr6Ux2XVegzzFi6R8XxLBCncHI" />
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		
+        <!-- sync date: July 26, 2023 at 6:44:14 AM EDT -->
+        <!-- update date: July 24, 2023 at 12:00:00 AM EDT -->
+        <!-- cc2 id: 3751396 -->
+		<title>2023 HRTO 1081 (CanLII) | Hunter v. HMKRO (Ministry of the Attorney General) | CanLII</title>
 		
-	
+		<meta name="description" content="Access all information related to judgment Hunter v. HMKRO (Ministry of the Attorney General), 2023 HRTO 1081 (CanLII) on CanLII.">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="DC.publisher" content="CanLII" />
-		<meta name="DC.title" content="Captcha" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+		<meta name="ROBOTS" content="NOINDEX, NOFOLLOW, NOARCHIVE"/>
+		<meta name="DC.Publisher" content="CanLII"/>
+		<meta name="DC.Title" content="Hunter v. HMKRO (Ministry of the Attorney General), 2023 HRTO 1081 (CanLII)"/>
+		<meta name="DC.Date" content="2023-07-21T00:00:00-05:00"/>
+		<meta name="DC.Language" content="en"/>
 		
+		
+		
+
 		<!-- STYLES -->
+		<link rel="stylesheet" type="text/css" href="/javascript/libs/jquery-ui-1.10.2-smoothness/css/smoothness/jquery-ui-1.10.2.custom.min-6203f6b232241db5ddb450e8ee140490.css" />
 		<link rel="stylesheet" type="text/css" href="/bootstrap-4.5.3-dist/css/bootstrap-namespaced-aeffd883d0645c92b371ef76dc205a7b.css" />
 		<link rel="stylesheet" type="text/css" href="/css/animate-5fefa95cc2a8e8004790cefc0890838f.css" />
+		<link rel="stylesheet" type="text/css" href="/javascript/libs/tipped4/tipped-77f766fe26ff96053b050251b918ec95.css" />
 		
 		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/fontawesome.min-7f252c83010f3cada47ee6a6f71d1ee8.css" />
 		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/solid.min-f484f18056587df321165f744e9ba571.css" />
 		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/light.min-99d663cdb4567e9c0c000fc52c670fb8.css" />
+		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/thin.min-f44cae780bf8a7287221c340cbe4d815.css" />
 		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/brands.min-40960f6969b87896c9889de920787ae8.css" />
 		<link rel="stylesheet" type="text/css" href="/fontawesome-pro-6.2.1-web/css/v5-font-face.min-1cb7f16555da63aecd2828d3d3130d85.css" />
 		
 		<link rel="stylesheet" type="text/css" href="/css/canlii-global-9d77627668ac1e42f1ea1f5f7570070b.css" />
 		<link rel="stylesheet" type="text/css" href="/css/social-66db81a10fd9a455594a0f8ae55cb3a0.css" />
-		<link rel="stylesheet" type="text/css" href="/css/errorPages-63a0b860e7e37136b17cc043b662bbc4.css" />
+		<link rel="stylesheet" type="text/css" href="/select2-3.4.6/select2-c5ad48536cab339f84e7a4feb880c7d7.css" />
+		
+		<link rel="stylesheet" type="text/css" href="/css/judgment/judgment-7ce2e30854f2dd3b09b58d37661bfc04.css" />
+		<link rel="stylesheet" type="text/css" href="/css/search/highlight-ac045e87da84ff12204dbb7a9137775e.css" />
 		
 		
-		<link rel="stylesheet" href="/css/search/print-c40802aa88dd8de4c3bb65cd6fbe06c3.css" type="text/css" media="print" />
+			<link rel="stylesheet" href="/solex/css/doc-highlighter.min.css?v=6.0.3" type="text/css" />
 		
+		
+			<link rel="stylesheet" href="external-css/inline.css" type="text/css" />
+
 		<!-- SCRIPTS -->
 		<script src="/javascript/scripts/canlii-cookies-75ec6a5b81aef45e8b9e76d6890a2409.js"></script>
 		<script src="/javascript/libs/jquery-3.5.1.min-12b69d0ae6c6f0c42942ae6da2896e84.js"></script>
+		<script src="/javascript/libs/jquery-ui-1.10.2-smoothness/js/jquery-ui-1.10.2.custom.min-c2651d4eb2b3d5d523e1f003fc95089e.js"></script>
+		<script src="/javascript/libs/jquery-ui-1.10.2-smoothness/js/jquery-ui-datepicker-fr-792d81b0e28e033f86f11a5602a450cc.js"></script>
+		<script src="/javascript/libs/popper-1.16.1-1db8fd79ce2e5d14918726b61342318e.js"></script>
 		<script src="/bootstrap-4.5.3-dist/js/bootstrap.min-f20fa8b102f205141295cdefd6ffe449.js"></script>
+		<script src="/javascript/libs/bootstrap-notify-3.1.5-feca36f25cc2e8a3e8d92a8c5c5ca7ee.js"></script>
+		<script src="/javascript/libs/tipped4/tipped-2ac1af269cabd824be5489769d281b84.js"></script>
+		<script src="/javascript/scripts/TooltipUtils-ab888649eb899136ee7c6dc9fafd7bb8.js"></script>
+		<script src="/javascript/scripts/replace-element-type-53be9c23e56c112409f81ec50d169629.js"></script>
 		<script src="/javascript/scripts/canlii-global-5c8a8078d512b355d3abdaadf2fac456.js"></script>
 		<script src="/javascript/scripts/global.js"></script>
 		<script src="/javascript/scripts/canlii-onload-b8ea761e59157413f7309a96849c38c9.js"></script>
-	
+		<script src="/javascript/scripts/analytics-aeca0e399642a3e0f50c34aa6addde2c.js" id="analytics-script" data-analytics-base="/analytics"></script>
+		<script src="/select2-3.4.6/select2-canlii-2e8d7895ac2044d71481a6cb011c5a1c.js"></script>
+		<script src="/javascript/libs/underscorejs-1.13.1.min-426e8e61dd81d4c6f9c17f1150ad07ce.js"></script>
+		
+		<script src="/javascript/libs/bytebuffer-3e44dfc7c7b0551ed2e9ce7fdf540e47.js"></script>
+		<script src="/javascript/libs/jquery.viewport-d6e6cf86c8939053c0d590508f09f635.js"></script>
+		<script src="/javascript/libs/jquery.BBQ-36e7a0643283d1af6f02fa4c6b024441.js"></script>
+		<script src="/javascript/libs/jquery.waitForImages-025b47ab3761433aceb4729f5754c921.js"></script>
+		<script src="/javascript/scripts/search/highlight-e20fd10914fbf30b9fac4678791aad7e.js"></script>
+		<script src="/javascript/libs/history-canlii-48b3f9d7a70ac5c36c9d3706ce304292.js"></script>
+		<script src="/javascript/libs/webcomponents-lite-0.7.24.min-13aa06c351974b5fbcd931a096743462.js"></script>
+		<script src="/javascript/scripts/paragNoteups-2d52d20d9b83d9d98b721ee6a54640c4.js"></script>
+		<script src="/javascript/libs/smoothscroll-polyfill-bc2f896cd67fffeab17c5b9b668c4044.js"></script>
+		<script src="/javascript/libs/truncate-e1fa94ed8cd05d7f16357f583867d91e.js"></script>
+		
+			<script src="/solex/js/doc-highlighter.min.js?v=6.0.3"></script>
+		
+		
+		<link rel="import" href="/lexbox_include/canlii_include/lexum" crossorigin="anonymous" id="lexbox-import">
+
+
+		<script>
+			var lang = "en";
+			var highlightbarOf = "of";
+			var highlightbarEditTip = "Change your query for the current document.";
+			var highlightbarPageLabel = "Page:";
 			
-		</head>
-		<body class="bootstrap">
-	    		<div id="wrap">
+			// this will capture hash changes while on the page (CANLIIDYN-1409)
+			$(window).on("hashchange", function () {
+			    offsetAnchor(95);
+			});
+			
+			// runs after the document.ready, so the offsets are set
+			$(window).on("load", function(e) {
+				offsetAnchor(95);
+			});
+		
+			$(document).ready(function() {
+                $("span.reflex2-link").each(tipMultipleReflex2Link);
+                
+                let paragNoteupsUrl = "/noteups/paragNoteups/?concatId=2023onhrt1081";
+				createParagTools(
+					paragNoteupsUrl,
+					"2023onhrt1081",
+					"/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html",
+					"",
+					"en",
+					"Hunter v. HMKRO (Ministry of the Attorney General), 2023 HRTO 1081 (CanLII)",
+					"https://canlii.ca/t/jz99v");
+			});
+
+        </script>
+        
+	</head>
+	<body>
+		<div id="wrap">
 	<div id="canliiHeader" class="bootstrap" role="banner">
 		<div id="headerContent" class="canliiContent">
 			<div id="canliiLogo">
@@ -349,62 +1562,1012 @@ Page Content:
 			    		<meta itemprop="position" content="1" />
 			    	</span>
 					<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				    		<span class="nowrap" itemprop="name" title="Captcha">Captcha</span>
+				    		<span class="nowrap" itemprop="name" title="Ontario"><a class="canlii" href="/en/on/" itemprop="item">Ontario</a></span> &rsaquo;
 			    		<meta itemprop="position" content="2" />
+			    	</span>
+					<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				    		<span class="nowrap" itemprop="name" title="Human Rights Tribunal of Ontario"><a class="canlii" href="/en/on/onhrt/" itemprop="item">Human Rights Tribunal of Ontario</a></span> &rsaquo;
+			    		<meta itemprop="position" content="3" />
+			    	</span>
+					<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				    		<span class="nowrap" itemprop="name" title="2023 HRTO 1081 (CanLII)">2023 HRTO 1081 (CanLII)</span>
+			    		<meta itemprop="position" content="4" />
 			    	</span>
 				</div>
 			
 			
 		</div>
 	</div> <!-- /header -->
-	            	
-	            	<div id="main">
-	        			<div id="mainContent" class="canliiContent">
-<div>
-	<p>
-        Dear user,
-	</p>
-	<p>
-        CanLII calls upon users accessing its services a large number of times to ensure that they are people and not programs acting on command. 
-        Indeed, massive downloads are prohibited by CanLII’s Terms of Use. Though your own use may be quite limited, it may have been compiled with that of others 
-        in your organization and in the end, the total volume of access is high. 
-	</p>
-	<p>
-		If you are not a computer, please proceed with our captcha test below. You can then resume your work where you left off.
-	</p>
-	<p>
-		To report any issue, please <a href="mailto:feedback-form@canlii.org">contact us</a>.
-	</p>
-	<p>
-		Happy Searching!
-	</p>
+
+        	<div id="main">
+				<div id="documentContainer" class="canliiContent">
+				
+				<div id="markerLoadingAlert" class="bootstrap">
+					<div class="py-3 text-center"><span class="alert alert-secondary">Loading paragraph markers <i class="fas fa-spinner fa-spin"></i></span></div>
+				</div>
+			
+				<div class="bootstrap">
+					<h2 class="canlii decision solexHlZone mainTitle">Hunter v. HMKRO (Ministry of the Attorney General), 2023 HRTO 1081 (CanLII)</h2>
+				</div>
+				
+				<div id="judgmentTabs" class="bootstrap">
+					<ul class="nav nav-tabs" role="tablist">
+						<li class="nav-item"><a id="document-tab" class="nav-link active" data-toggle="tab" data-target="#metas" data-secondary="#documentContent" role="tab" href="#document" aria-controls="metas" aria-selected="true">Document</a></li>
+						<li class="nav-item"><a id="related-tab" class="nav-link" data-toggle="tab" data-target="#relatedContent" data-secondary="#related2" role="tab" href="#related" aria-controls="relatedContent" aria-selected="false">History&nbsp;<span id="history-count"><i id="history-spinner" class="fas fa-spinner fa-spin"></i></span></a></li>
+						<li class="nav-item"><a id="cited-tab" class="nav-link" data-toggle="tab" data-target="#citedContent" data-secondary="#cited2" role="tab" href="#cited" aria-controls="citedContent" aria-selected="false">Cited documents&nbsp;<span id="cited-count"><i id="cited-spinner" class="fas fa-spinner fa-spin"></i></span></a></li>
+						<li class="nav-item"><a id="treatment-tab" class="nav-link" data-toggle="tab" data-target="#treatmentContent" data-secondary="#treatment2" role="tab" href="#citing" aria-controls="treatmentContent" aria-selected="false">Treatment<span id="treatment-peppers">&nbsp;<i id="treatment-spinner" class="fas fa-spinner fa-spin"></i></span>&nbsp;<span id="treatment-count"></span></a></li>
+						<li class="nav-item"><a id="external-tab" class="nav-link" data-toggle="tab" data-target="#externalContent" data-secondary="#external2" role="tab" href="#external" aria-controls="externalContent" aria-selected="false">CanLII Connects&nbsp;<span id="external-count"><i id="external-spinner" class="fas fa-spinner fa-spin"></i></span></a></li>
+					</ul>
+				</div>
+				
+				<div class="tab-content bootstrap">
+					<div class="tab-pane fade show active" id="metas" role="tabpanel" aria-labelledby="document-tab">
+<div class="subTab">
+			<div class="row justify-content-end d-print-none pt-1 pr-4">
+			<div class="col-4 col-md-2 text-right">
+				<a href="/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.pdf"><i class="fas fa-print"></i>&nbsp;PDF</a>
+			</div>
+		</div>
 </div>
 
-<div style="padding-top: 10px;" id="captchaForm">
-	<form name="captchaForm" action="/captcha/eval.do" onsubmit="document.captchaForm.hash.value=window.location.hash;">
-		<img id="captchaTag" src="/captcha/captcha.do?id=70.27.132.118" alt="Captcha"/>
-		<audio id="audioCaptchaTag" style="display: none;" preload="auto" onplay="$('#captchaResponse').focus();" controls src="/captcha/audioCaptcha.do?id=70.27.132.118&lang=en&cacheBuster=49c521655f17e4854b12b6dcce12ba11" type="audio/wav"></audio>
-		<button id="toggleAudio" title="Access the audible captcha" type="button"><i aria-hidden="true" class="fas fa-headphones"></i><span class="sr-only">Access the audible captcha</span></button>
-		<input autocomplete="off" aria-label="Captcha answer" autocapitalize="none" id="captchaResponse" style="margin: 0;" type="text" name="jcaptcha" value="" autofocus />
-		<input type="hidden" name="path" value="/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html" />
-		<input type="hidden" name="queryString" value="" />
-		<input type="hidden" name="hash" value="" />
-		<input type="hidden" name="id" value="70.27.132.118" />
-		<input aria-label="Submit captcha answer" type="submit" value="ok" />
-	</form>
+<div class="container">
+<div id="documentMeta" class="solexHlZone">
+	<div class="row py-1">
+		<div class="col-3 col-md-2 canlii-label">Date:</div>
+		<div class="col-9 col-md-10">2023-07-21</div>
+	</div>
 	
+	<div class="row py-1">
+		<div class="col-3 col-md-2 canlii-label">File number:</div>
+		<div class="col-9 col-md-10">
+			<span class="nowrap">2018-32179-I</span>
+		</div>
+	</div>
+
+	<div class="row py-1">
+		<div class="col-3 col-md-2 canlii-label documentMeta-citation">Citation:</div>
+		<div class="col-9 col-md-10">Hunter v. HMKRO (Ministry of the Attorney General), 2023 HRTO 1081 (CanLII), &lt;<a class='documentStaticUrl' href='https://canlii.ca/t/jz99v'>https://canlii.ca/t/jz99v</a>&gt;, retrieved on 2023-09-21</div>
+	</div>
+	<div id="recentTreatmentContent" class="row py-1">
+
+	</div>
+</div>
 	
-	<span>*Note that reading the audible captcha requires Edge, <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a> or <a href="https://www.google.com/intl/en_ca/chrome/">Chrome</a>.</span>
+	<div id="lexboxHook"></div>
+</div>
+					</div>
+					
+					<div class="tab-pane fade" id="relatedContent" role="tabpanel" aria-labelledby="related-tab">
+					</div>
+					
+					<div class="tab-pane fade" id="citedContent" role="tabpanel" aria-labelledby="cited-tab">
+					</div>
+					
+					<div class="tab-pane fade" id="treatmentContent" role="tabpanel" aria-labelledby="treatment-tab">
+<div id="treatment" class="subTab">
+    <div class="bootstrap treatment-list">
+        <a data-target="citingContent" style="display: none" href="#citing" class="treatment-item font-weight-bold" id="cited-by-item">Citations&nbsp;<i class="fas fa-pepper-hot basic"></i>&nbsp;<span id="citedBy-count"></span></a>
+        <a data-target="discussingContent" style="display: none" href="#discussing" class="treatment-item" id="discussed-by-item">Discussions&nbsp;<i class="fas fa-pepper-hot"></i>&nbsp;<span id="discussedBy-count"></span></a>
+        <a data-target="criticizingContent" style="display: none" href="#unfavourable" class="treatment-item" id="criticized-by-item">Unfavourable mentions&nbsp;<i class="fas fa-pepper-hot warning"></i>&nbsp;<span id="criticizedBy-count"></span></a>
+    </div>
+    <div class="text-right mt-0 results-display">
+    	<a data-toggle="dropdown" data-flip="false" class="dropdown-toggle nav-link"><span class="expandWrapper"><svg xmlns="http://www.w3.org/2000/svg" height="22" width="30" class="expand-img">
+	<rect x="3" y="2" width="24" height="8" rx="1" ry="1"/>
+	<rect x="3" y="12" width="24" height="8" rx="1" ry="1"/>
+</svg>
+</span><span class="compactWrapper d-none"><svg xmlns="http://www.w3.org/2000/svg" height="22" width="30" class="compact-img">
+	<rect x="3" y="2" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="6" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="10" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="14" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="18" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="22" width="24" height="2" rx="1" ry="1"/>
+</svg>
+</span></a>
+		<div class="dropdown-menu dropdown-menu-right">	
+			<a class="dropdown-item" onclick="expandDensity(event);">
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="30" class="expand-img">
+	<rect x="3" y="2" width="24" height="8" rx="1" ry="1"/>
+	<rect x="3" y="12" width="24" height="8" rx="1" ry="1"/>
+</svg>
+				<span>Expanded</span>
+			</a>
+			<a class="dropdown-item" onclick="compactDensity(event);">
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="30" class="compact-img">
+	<rect x="3" y="2" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="6" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="10" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="14" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="18" width="24" height="2" rx="1" ry="1"/>
+	<rect x="3" y="22" width="24" height="2" rx="1" ry="1"/>
+</svg>
+				<span>Collapsed</span>
+			</a>
+		</div>
+	</div>
 </div>
 
-<script>
-	if (navigator.userAgent.indexOf("MSIE") != -1 || navigator.userAgent.indexOf("Trident") != -1) {
-		$("#toggleAudio").attr("disabled", true);
+<div id="treatment-tab-content" class="tab-content bootstrap">
+    <div id="citingContent"></div>
+    <div id="discussingContent"></div>
+    <div id="criticizingContent"></div>
+</div>					</div>
+			
+					<div class="tab-pane fade" id="externalContent" role="tabpanel" aria-labelledby="external-tab">
+					</div>
+				</div>
+				
+				<div class="tab-content">
+					<div class="tab-pane fade show active" id="documentContent" role="tabpanel" aria-labelledby="document-tab">
+						<div class="row">
+
+						<!-- content -->
+						<div id="originalDocument" class="solexHlZone lbh-document">
+<DIV class="documentcontent">
+
+<DIV class="WordSection1">
+
+<P class="MsoTitle"><IMG width="58" height="58" src="image001.gif" align="left" hspace="12">HUMAN RIGHTS TRIBUNAL OF ONTARIO</P>
+
+<P class="MsoNormal">&nbsp;</P>
+
+<P class="MsoNormal"><SPAN style="font-weight:normal">______________________________________________________________________</SPAN></P>
+
+<P class="Unformatted" style="margin-top:6.0pt;margin-right:0in;margin-bottom:
+6.0pt;margin-left:0in"><B>B E T W E E N:</B></P>
+
+<P class="Unformatted" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center"><SPAN class="Style7"><SPAN style="font-family:&quot;Arial&quot;,sans-serif">Christopher
+Hunter</SPAN></SPAN></P>
+
+<P class="Unformatted" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center"><SPAN class="Style7"><SPAN style="font-family:&quot;Arial&quot;,sans-serif">&nbsp;</SPAN></SPAN></P>
+
+<P class="Unformatted" align="right" style="margin-top:6.0pt;margin-right:0in;
+margin-bottom:.25in;margin-left:0in;text-align:right"><B>Applicant</B></P>
+
+<P class="Unformatted" align="center" style="margin-bottom:6.0pt;text-align:center"><B>-</B><B>and-</B></P>
+
+<P class="Unformatted" align="center" style="margin-bottom:6.0pt;text-align:center"><B>&nbsp;</B></P>
+
+<P class="Unformatted" align="center" style="margin-bottom:6.0pt;text-align:center"><B>&nbsp;</B></P>
+
+<P class="Unformatted" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center"><SPAN class="Style7">His Majesty the King in right
+of Ontario as represented by the Ministry of the Attorney General</SPAN></P>
+
+<P class="Unformatted" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center"><SPAN class="Style7">&nbsp;</SPAN></P>
+
+<P class="Unformatted" align="right" style="margin-top:6.0pt;text-align:right"><B><SPAN style="font-family:&quot;Arial Bold&quot;"><SPAN style="font-family:&quot;Arial&quot;,sans-serif">Respondent</SPAN></SPAN></B></P>
+
+<P class="MsoNormal"><SPAN style="font-weight:normal">&nbsp;</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-weight:normal">______________________________________________________________________</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-weight:normal">&nbsp;</SPAN></P>
+
+<P class="Inserttext5"><SPAN style="font-weight:normal">DECISION</SPAN></P>
+
+<P class="MsoNormal"><SPAN style="font-weight:normal">______________________________________________________________________</SPAN></P>
+
+<P class="MsoNormal">&nbsp;</P>
+
+<P class="InsertText6">Adjudicator: &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <SPAN style="font-weight:normal">Joseph Tascona</SPAN> </P>
+
+<P class="MsoNormal">&nbsp;</P>
+
+<P class="InsertText6">Date:<SPAN style="font-weight:normal">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; July 21, 2023</SPAN> </P>
+
+<P class="InsertText6">&nbsp;</P>
+
+<P class="InsertText6">File Number:<SPAN style="font-weight:normal">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; </SPAN><SPAN style="font-weight:normal">2018-32179-I</SPAN> </P>
+
+<P class="MsoNormal">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; </P>
+
+<P class="InsertText6">Citation:&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <SPAN style="font-weight:normal">2023 HRTO 1081</SPAN></P>
+
+<P class="InsertText6">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; </P>
+
+<P class="MsoNormal" align="left" style="margin-left:1.5in;text-align:left;
+text-indent:-1.5in">Indexed as:&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Hunter v. HMKRO
+(Ministry of the Attorney General)</P>
+
+<P class="MsoNormal"><SPAN style="font-weight:normal">______________________________________________________________________</SPAN></P>
+
+<SPAN style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"><BR clear="all" style="page-break-before:always">
+</SPAN>
+
+<P class="Unformatted">&nbsp;</P>
+
+<P class="Unformatted" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:5.4pt;margin-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>
+
+<P class="Unformatted" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:5.4pt;margin-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>
+
+<TABLE class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none">
+ <TBODY><TR>
+  <TD width="624" colspan="4" valign="top" style="width:6.5in;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" align="center" style="margin-bottom:0in;margin-bottom:
+  .0001pt;text-align:center"><SPAN class="Style6">APPEARANCES </SPAN></P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="624" colspan="4" valign="top" style="width:6.5in;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="624" colspan="4" valign="top" style="width:6.5in;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="624" colspan="4" valign="top" style="width:6.5in;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">)</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">Christopher Hunter, Applicant</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">) )</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;Self-represented</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">)</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">)</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">His Majesty the King in right of Ontario as represented by the
+  Ministry of the Attorney General, Respondent</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">) )</P>
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">)</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">Katherine Ayers, Counsel</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">)</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+ <TR>
+  <TD width="316" valign="top" style="width:237.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="20" valign="top" style="width:14.8pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="41" valign="top" style="width:30.7pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+  <TD width="247" valign="top" style="width:185.25pt;padding:0in 5.4pt 0in 5.4pt">
+  <P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;</P>
+  </TD>
+ </TR>
+</TBODY></TABLE>
+
+<P class="Unformatted" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:5.4pt;margin-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>
+
+<P class="Unformatted" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:5.4pt;margin-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>
+
+<P class="Unformatted" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:5.4pt;margin-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>
+
+<P class="Unformatted" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:5.4pt;margin-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>
+
+<P class="Unformatted" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:5.4pt;margin-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>
+
+<P class="Unformatted" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:5.4pt;margin-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>
+
+<P class="Unformatted" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:5.4pt;margin-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>
+
+<P class="Unformatted" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:5.4pt;margin-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>
+
+<P class="Unformatted" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:5.4pt;margin-bottom:.0001pt">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </P>
+
+<SPAN style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"><BR clear="all" style="page-break-before:always">
+</SPAN>
+
+<P class="Unformatted">&nbsp;</P>
+
+<P class="Heading1-HRTO">INTRODUCTION</P>
+
+<div class="paragWrapper" data-lbh-p-number="1" data-lbh-p-anchor="par1" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=1"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="1" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Para-HRTO" style="margin-left:0in;text-indent:0in" data-viibes-parag="1" data-viibes-start="0">[<A class="reflex-paragAnchor" name="par1">1</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN>On April 19, 2018, the applicant filed an
+Application alleging the respondent discriminated against him with respect to
+employment on the basis of family status contrary to the <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Human Rights Code</A></I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">,
+R.S.O. 1990 c. H. 19</A>, as amended (the &ldquo;<I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I>&rdquo;). </P></div>
+
+<div class="paragWrapper" data-lbh-p-number="2" data-lbh-p-anchor="par2" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=2"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="2" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Para-HRTO" style="margin-left:0in;text-indent:0in" data-viibes-parag="2" data-viibes-start="1" data-viibes-end="0">[<A class="reflex-paragAnchor" name="par2">2</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN>&nbsp;By Case Assessment Direction (&ldquo;CAD&rdquo;) dated March
+8, 2023, the Tribunal directed that a summary hearing be held to address
+whether the Application should be dismissed on the basis that there is no
+reasonable prospect that it will succeed pursuant to Rule 19A of the Tribunal&rsquo;s
+Rules of Procedure. </P></div>
+
+<div class="paragWrapper" data-lbh-p-number="3" data-lbh-p-anchor="par3" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=3"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="3" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Para-HRTO" style="margin-left:0in;text-indent:0in" data-viibes-parag="3" data-viibes-start="2" data-viibes-end="1">[<A class="reflex-paragAnchor" name="par3">3</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN>As explained more fully below, I find that the
+Application must be dismissed on the basis that it has no reasonable prospect
+of success under the <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I>. Even if I accept all the facts alleged by the
+applicant as true, the applicant has not been able to point to any evidence
+beyond his own suspicions that the respondent was treating him differently based
+on <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I> grounds.</P></div>
+
+<P class="Heading1-HRTO" style="page-break-after:avoid">SUMMARY
+HEARING PROCESS</P>
+
+<div class="paragWrapper" data-lbh-p-number="4" data-lbh-p-anchor="par4" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=4"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="4" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="4" data-viibes-start="3" data-viibes-end="2">[<A class="reflex-paragAnchor" name="par4">4</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN>The summary hearing process is described in Rule
+19A of the Tribunal&rsquo;s Rules of Procedure (&lsquo;Rules&rdquo;) as well as the Tribunal&rsquo;s
+Practice Direction on Summary Hearing Requests. The purpose of a summary
+hearing is to consider whether an Application should be dismissed in whole or
+in part because there is no reasonable prospect that the Application will
+succeed.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="5" data-lbh-p-anchor="par5" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=5"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="5" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="5" data-viibes-start="4" data-viibes-end="3">[<A class="reflex-paragAnchor" name="par5">5</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN>&nbsp;The Tribunal cannot address allegations of
+unfairness that are unrelated to the <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I>. The Tribunal&rsquo;s jurisdiction
+is limited to claims of discrimination that are linked to the protections set
+out in the <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I>.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="6" data-lbh-p-anchor="par6" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=6"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="6" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="6" data-viibes-start="5" data-viibes-end="4">[<A class="reflex-paragAnchor" name="par6">6</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN>The test that is applied at the summary hearing
+stage is whether an Application has no reasonable prospect of success. At this
+stage, the Tribunal is not determining whether the applicant is telling the
+truth or assessing the impact of the treatment he experienced. The test of no
+reasonable prospect of success is determined by assuming the applicant&rsquo;s
+version of events is true unless there is some clear evidence to the contrary
+or the evidence is not disputed by the applicant.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="7" data-lbh-p-anchor="par7" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=7"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="7" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="7" data-viibes-start="6" data-viibes-end="5">[<A class="reflex-paragAnchor" name="par7">7</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN>However, and significantly, accepting the facts
+alleged by the applicant does not include accepting the applicant&rsquo;s assumptions
+about why he was treated unfairly. The purpose of the summary hearing is to
+determine whether the applicant can point to any information which tends to
+support his belief that he has experienced discrimination under the <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I>.
+The question that the Tribunal must decide at a summary hearing is whether
+there is likely to be any evidence, or any evidence that may be reasonably
+available to the applicant to connect the unfair treatment allegedly
+experienced by the applicant with the <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A>&rsquo;s</I> protections.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="8" data-lbh-p-anchor="par8" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=8"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="8" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="8" data-viibes-start="7" data-viibes-end="6">[<A class="reflex-paragAnchor" name="par8">8</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN>As the Tribunal indicated in <I>Forde v.
+Elementary Teachers&rsquo; Federation of Ontario</I>, <A class="reflex3-caselaw" href="/en/on/onhrt/doc/2011/2011hrto1389/2011hrto1389.html">2011 HRTO 1389</A> (&ldquo;<I>Forde</I>&rdquo;),
+for an Application to continue in the Tribunal&rsquo;s process following a summary
+hearing, there must be a basis beyond mere speculation and accusations to
+believe that an applicant could show a breach of the <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I>.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="9" data-lbh-p-anchor="par9" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=9"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="9" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="9" data-viibes-start="8" data-viibes-end="7">[<A class="reflex-paragAnchor" name="par9">9</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN>Having set out the basic framework for
+determining whether an Application should be dismissed because it has no
+reasonable prospect of success, I now turn to the facts of this particular
+case.</P></div>
+
+<P class="Heading2-HRTO">FACTUAL BACKGROUND</P>
+
+<div class="paragWrapper" data-lbh-p-number="10" data-lbh-p-anchor="par10" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=10"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="10" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="10" data-viibes-start="9" data-viibes-end="8">[<A class="reflex-paragAnchor" name="par10">10</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>The applicant worked as a court reporter with the Ministry of the
+Attorney General at the Brampton Courthouse located at 7755 Hurontario Street
+in Brampton, Ontario. There are 52 courtrooms each with a court reporter who
+are required to come into the courtroom 30 minutes before the start of the
+scheduled proceeding to ensure the equipment is properly set up. </P></div>
+
+<div class="paragWrapper" data-lbh-p-number="11" data-lbh-p-anchor="par11" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=11"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="11" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="11" data-viibes-start="10" data-viibes-end="9">[<A class="reflex-paragAnchor" name="par11">11</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>The standard practice of scheduling court reporters at the Brampton courthouse
+begins at 8.30 a.m., 9.00 a.m. or 9.30 a.m. for court proceedings which start 30
+minutes later respectively.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="12" data-lbh-p-anchor="par12" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=12"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="12" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="12" data-viibes-start="11" data-viibes-end="10">[<A class="reflex-paragAnchor" name="par12">12</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>The applicant states he needed to drop off his children at school
+for 9.20 a.m. and had an informal arrangement for the 2016-2017 school year to
+start work at 9.30 a.m. for a 10 a.m. court proceeding. </P></div>
+
+<div class="paragWrapper" data-lbh-p-number="13" data-lbh-p-anchor="par13" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=13"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="13" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="13" data-viibes-start="12" data-viibes-end="11">[<A class="reflex-paragAnchor" name="par13">13</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>In September/October 2017, the applicant alleges he was asked questions
+about this arrangement by management and directed to submit a formal request
+for accommodation. The applicant&rsquo;s request for accommodation was denied in
+February 2018, following a meeting with management and scheduled for shifts
+beginning at 9.30 a.m. for four weeks in order to make alternative arrangements
+but thereafter no guarantee was given that every shift would start at 9.30 a.m.
+for a court starting time of 10.00 a.m...</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="14" data-lbh-p-anchor="par14" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=14"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="14" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="14" data-viibes-start="13" data-viibes-end="12">[<A class="reflex-paragAnchor" name="par14">14</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>The applicant alleges that he was scheduled for 9.00 a m on March
+14,2018 but did not report to work and on March 29,2018, reported late and did
+not work that day.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="15" data-lbh-p-anchor="par15" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=15"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="15" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="15" data-viibes-start="14" data-viibes-end="13">[<A class="reflex-paragAnchor" name="par15">15</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>&nbsp;The applicant&rsquo;s position is essentially that the respondent&rsquo;s
+conduct evinced an intention to use constructive dismissal as a way to get him to
+accept the scheduling changes or leave their employment which occurred on March
+29, 2018.</P></div>
+
+<P class="Heading1-HRTO">FINDINGS &nbsp;</P>
+
+<div class="paragWrapper" data-lbh-p-number="16" data-lbh-p-anchor="par16" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=16"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="16" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="16" data-viibes-start="15" data-viibes-end="14">[<A class="reflex-paragAnchor" name="par16">16</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>The applicant clearly disagrees with the treatment by the respondent
+involving the allegations about the level of support given and the loss of his
+employment by constructive dismissal. However, the applicant has not pointed to
+any evidence of any link between the respondent and the alleged unfair
+treatment and a <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I> ground.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="17" data-lbh-p-anchor="par17" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=17"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="17" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="17" data-viibes-start="16" data-viibes-end="15">[<A class="reflex-paragAnchor" name="par17">17</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>The applicant believes he had been unfairly treated and for the applicant
+this was an issue. However, there is no evidence the applicant has or can point
+to that the applicant&rsquo;s <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I> ground was a factor in the actions of the
+respondent.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="18" data-lbh-p-anchor="par18" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=18"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="18" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="18" data-viibes-start="17" data-viibes-end="16">[<A class="reflex-paragAnchor" name="par18">18</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>Despite being given the opportunity during the summary hearing to
+inform the Tribunal of evidence in his possession or that may be reasonably
+available at the merits hearing, the applicant could not point to any evidence to
+make the connection between the alleged lack of support and the loss of employment
+with the respondent and his <I>Code</I>-enumerated ground.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="19" data-lbh-p-anchor="par19" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=19"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="19" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="19" data-viibes-start="18" data-viibes-end="17">[<A class="reflex-paragAnchor" name="par19">19</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>The Tribunal&rdquo; does not have jurisdiction over general allegations of
+unfairness unrelated to the <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I>&rdquo;:<I> Hay v. Ontario (Human Rights
+Tribunal),</I> <A class="reflex3-caselaw" href="/en/on/onscdc/doc/2014/2014onsc2858/2014onsc2858.html">2014 ONSC 2858</A>: <I>Bello v. Toronto Transit Commission</I>, <A class="reflex3-caselaw" href="/en/on/onscdc/doc/2014/2014onsc5535/2014onsc5535.html">2014
+ONSC 5535</A>. To fall within the Tribunal&rsquo;s jurisdiction, &ldquo;an Application must
+provide some factual basis beyond a bald assertion which link&rsquo;s their ground(s)
+to the respondent&rsquo;s actions and explains why they think that these actions are
+discriminatory in nature &ldquo;: Hay, at para. <A class="reflex-parag" href="/en/on/onscdc/doc/2014/2014onsc2858/2014onsc2858.html#par8">8</A>.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="20" data-lbh-p-anchor="par20" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=20"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="20" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="20" data-viibes-start="19" data-viibes-end="18">[<A class="reflex-paragAnchor" name="par20">20</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>In<I> Mehedi v. Mondalez Bakery</I>,<A class="reflex3-caselaw" href="/en/on/onscdc/doc/2023/2023onsc1737/2023onsc1737.html">2023 ONSC 1737</A>, the Divisional
+Court decided the Tribunal&rsquo;s decision to dismiss the Application was reasonable
+and cited <I>Hay</I><I> and Xia v. Board of Governors of Lakehead University</I>, <A class="reflex3-caselaw" href="/en/on/onscdc/doc/2020/2020onsc6150/2020onsc6150.html">2020
+ONSC 6150</A> (Div. Ct.), which upheld the Tribunal&rsquo;s dismissal of an Application
+for lack of jurisdiction on the basis that the applicant failed to establish a
+basis &ldquo;beyond mere speculation and accusations&rdquo; that the respondent&rsquo;s conduct
+was discriminatorily linked to an enumerated ground.</P></div>
+
+<div class="paragWrapper" data-lbh-p-number="21" data-lbh-p-anchor="par21" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=21"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="21" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="21" data-viibes-start="20" data-viibes-end="19">[<A class="reflex-paragAnchor" name="par21">21</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>As noted above, for an Application to advance to a full hearing on
+the merits, an applicant must be able to point to some evidence beyond his own
+suspicions, that could make out a link to the <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I>. The Tribunal has
+repeatedly said that an applicant&rsquo;s belief, no matter how strongly held, is not
+evidence upon which the Tribunal might find that discrimination has occurred.
+See for example <I>Leong v. Ontario (Attorney General)</I>, <A class="reflex3-caselaw" href="/en/on/onhrt/doc/2014/2014hrto311/2014hrto311.html">2014 HRTO 311</A>. </P></div>
+
+<div class="paragWrapper" data-lbh-p-number="22" data-lbh-p-anchor="par22" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=22"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="22" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in" data-viibes-parag="22" data-viibes-start="21" data-viibes-end="20"><A name="_Hlk140824797">[</A><A class="reflex-paragAnchor" name="par22"><A name="_Hlk140824797">22</A></A><A name="_Hlk140824797">]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp; 
+</SPAN>The applicant has not pointed to any evidence
+that he has or has reasonably available to him that could establish a
+connection between the respondent&rsquo;s actions and his <I><A class="reflex2-link" concatenated-id="202-current-1" href="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html">Code</A></I> ground. &nbsp;These
+allegations have no reasonable prospect of success.</A></P></div>
+
+<P class="Heading1-HRTO" style="page-break-after:avoid">order</P>
+
+<div class="paragWrapper" data-lbh-p-number="23" data-lbh-p-anchor="par23" data-lbh-p-noteup-link="/en/#search/origin1=/en/on/onhrt/doc/2023/2023hrto1081/2023hrto1081.html&linkedNoteup=&section1=23"><div class="bootstrap unselectable viibes-marker-toolbox lbh-p-tools" data-with-parag="23" title="Paragraph tools"><div class="dropdown dropleft"><i data-toggle="dropdown" class="fa-thin fa-pen-to-square"></i><div class="dropdown-menu lbh-p-tools-menu"></div></div></div><P class="Parawquoteorlist" style="margin-top:0in;margin-right:0in;margin-bottom:
+.25in;margin-left:0in;text-indent:0in;page-break-after:avoid" data-viibes-parag="23" data-viibes-start="22" data-viibes-end="21">[<A class="reflex-paragAnchor" name="par23">23</A>]<SPAN style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; &nbsp;&nbsp;  </SPAN>For the above reasons, the Application is dismissed.</P></div>
+
+<P class="Para-HRTO" style="margin-bottom:5.0pt;line-height:normal;page-break-after:
+avoid">Dated at Toronto this 21<SUP>st</SUP> day of July, 2023.</P>
+
+<P class="Unformatted" style="page-break-after:avoid"><IMG width="170" height="54" src="image002.jpg" alt="A close-up of a handwritten text
+
+Description automatically generated"></P>
+
+<P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt;page-break-after:
+avoid">__________________________________</P>
+
+<P class="Unformatted" style="margin-bottom:0in;margin-bottom:.0001pt;page-break-after:
+avoid">Joseph Tascona</P>
+
+<P class="MsoNormal" align="left" style="text-align:left"><SPAN style="font-weight:normal">Member </SPAN></P>
+
+</DIV>
+
+
+</DIV>
+<DIV ID="judgmentLinks" STYLE="display: none;">
+<UL>
+<LI data-path="/en/on/onhrt/doc/2011/2011hrto1389/2011hrto1389.html">
+<LI data-path="/en/on/onhrt/doc/2014/2014hrto311/2014hrto311.html">
+<LI data-path="/en/on/onscdc/doc/2014/2014onsc2858/2014onsc2858.html">
+<LI data-path="/en/on/onscdc/doc/2014/2014onsc5535/2014onsc5535.html">
+<LI data-path="/en/on/onscdc/doc/2020/2020onsc6150/2020onsc6150.html">
+<LI data-path="/en/on/onscdc/doc/2023/2023onsc1737/2023onsc1737.html">
+</UL>
+</DIV>
+
+<DIV ID="legislationLinks" STYLE="display: none;">
+<UL>
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Human Rights Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text=",
+R.S.O. 1990 c. H. 19">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+<LI data-path="/en/on/laws/stat/rso-1990-c-h19/latest/rso-1990-c-h19.html" data-text="Code">
+</UL>
+</DIV>
+								
+								</div> <!-- /originalDocument -->
+								<!-- /content -->
+	
+							</div>
+						</div>
+						
+						<div class="tab-pane fade" id="related2" role="tabpanel" aria-labelledby="related-tab"></div>
+						<div class="tab-pane fade" id="cited2" role="tabpanel" aria-labelledby="cited-tab"></div>
+						<div class="tab-pane fade" id="treatment2" role="tabpanel" aria-labelledby="treatment-tab"></div>
+						<div class="tab-pane fade" id="external2" role="tabpanel" aria-labelledby="external-tab"></div>
+					</div>
+				</div>
+				
+				<div class="scroll-marker"></div>
+				
+				<script>
+getMostRecentCriticalTreatmentContent();
+getHistoryTabContent();
+getCitedTabContent();
+getExternalTabContent();
+addFootnotesTooltips();
+
+// load noteup counts only when the tab is selected
+var loadedCitedBy = false;
+$('a#cited-tab').on('shown.bs.tab', function (e) {
+	if (loadedCitedBy == false) {
+		setReflexRecordNoteupCountText("en", "Cited by", "document", "documents");
+		loadedCitedBy = true;
 	}
-</script>
-	        			</div>
-	            	</div>
-	    		</div>
+});
+
+CanliiAnalytics.initDocumentEvents();
+
+function getExternalTabContent() {
+	let url = "/judgmentTabs/external/?judgmentId=37999480&lang=en";
+
+	$.get(url, function(data) {
+		$("#externalContent").html(data.content);
+		$("#external-spinner").hide("fast");
+		$("#external-count").html("(" + data.count + ")");
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#externalContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#external-spinner").hide("fast");
+	});
+}
+
+function getHistoryTabContent() {
+	let url = "/judgmentTabs/history/?judgmentId=37999480&lang=en";
+
+	$.get(url, function(data) {
+		$("#relatedContent").html(data.content);
+		$("#history-spinner").hide("fast");
+		$("#history-count").html("(" + data.count + ")");
+		if (data.count == 0) {
+			$("#related-tab").addClass("disabled");
+		}
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#relatedContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#history-spinner").hide("fast");
+	});
+}
+
+function getCitedTabContent() {
+	let judgmentLinks = [];
+	$("#judgmentLinks").find("li").each(function() {
+		judgmentLinks.push($(this).data("path"));
+	});
+	
+	let legislationLinks = [];
+	$("#legislationLinks").find("li").each(function() {
+		legislationLinks.push({path: $(this).data("path"), text: $(this).data("text")});
+	});
+	
+	let doctrineLinks = [];
+	$("#doctrineLinks").find("li").each(function() {
+		doctrineLinks.push({href: $(this).data("path"), concatenatedId: $(this).data("text")});
+	});
+	
+	let url = "/judgmentTabs/cited/?judgmentId=37999480&lang=en";
+	
+	$.ajax({
+	    type: "POST",
+	    url: url,
+	    contentType: "application/json",
+	    dataType: "json",
+	    data: JSON.stringify({ judgmentLinks: judgmentLinks, legislationLinks: legislationLinks, doctrineLinks: doctrineLinks })
+	})
+	.done(function(data) {
+		$("#citedContent").html(data.content);
+		$("#cited-spinner").hide("fast");
+		$("#cited-count").html("(" + data.count + ")");
+		if (data.count == 0) {
+			$("#cited-tab").addClass("disabled");
+		}
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#citedContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#cited-spinner").hide("fast");
+	});
+}
+
+function getMostRecentCriticalTreatmentContent() {
+	let url = "/judgmentTabs/document/recentTreatment/?judgmentId=37999480&lang=en";
+
+	$.get(url, function(data) {
+		$("#recentTreatmentContent").html(data.content);
+		let pepperHtml = "";
+		if(data.isCriticized) {
+			pepperHtml = "&nbsp;<i class=\"fas fa-pepper-hot warning\" title=\"At least one document unfavourably mentions this decision\"></i>";
+		}
+		else if(data.isDiscussed) {
+			pepperHtml = "&nbsp;<i class=\"fas fa-pepper-hot\" title=\"At least one document discusses this decision\"></i>";
+		}
+
+		$("#treatment-peppers").html(pepperHtml);
+		$("#treatment-peppers .fa-pepper-hot").tooltip({
+			placement : 'bottom',
+			trigger : 'hover',
+			html: true,
+			container: $("#treatment-peppers").closest('.bootstrap')
+		});
+
+		if (data.citedByCount == 0) {
+			$("#treatment-tab").addClass("disabled");
+		}
+
+		$("#cited-by-item").show();
+
+		$("#citedBy-count").html("(" + data.citedByCount + ")");
+		$("#treatment-count").html("(" + data.citedByCount + ")");
+
+		$("#cited-by-item").tooltip({
+			placement : 'bottom',
+			trigger : 'hover',
+			html: true,
+			title: 'Documents that cite this decision',
+			container: $("#cited-by-item").closest('.bootstrap')
+		});
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+	})
+	.always(function() {
+		$("#treatment-spinner").hide("fast");
+		$("#recent-treatment-meta-label").tooltip({
+			placement : 'bottom',
+			trigger : 'hover',
+			html: true,
+			title: 'Most recent document that contains unfavourable mentions of this decision',
+			container: $("#recent-treatment-meta-label").closest('.bootstrap')
+		});
+	});
+}
+
+function getTreatmentTypesCounts() {
+	let url = "/judgmentTabs/counts/?judgmentId=37999480&lang=en";
+
+	$.get(url, function(data) {
+		if(data.criticizedBy != 0) {
+			$("#criticizedBy-count").html("(" + data.criticizedBy + ")");
+			$("#criticized-by-item").show();
+			$("#criticized-by-item").tooltip({
+				placement : 'bottom',
+				trigger : 'hover',
+				html: true,
+				title: 'Documents that contain unfavourable mentions of this decision',
+				container: $("#criticized-by-item").closest('.bootstrap')
+			});
+		}
+		if(data.discussedBy != 0) {
+			$("#discussedBy-count").html("(" + data.discussedBy + ")");
+			$("#discussed-by-item").show();
+			$("#discussed-by-item").tooltip({
+				placement : 'bottom',
+				trigger : 'hover',
+				html: true,
+				title: 'Documents that discuss this decision',
+				container: $("#discussed-by-item").closest('.bootstrap')
+			});
+		}
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+	});
+}
+
+function getCitedByTabContent(tab) {
+	let url = "/judgmentTabs/citedBy/?judgmentId=37999480&lang=en";
+	$("#treatment-tab-content").addClass("TreatmentSearchResultsLoading");
+
+	$.get(url, function(data) {
+		$("#citingContent").html(data.content);
+
+		if (data.count == 0) {
+			$("#treatment-tab").addClass("disabled");
+		}
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#citingContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#treatment-tab-content").removeClass("TreatmentSearchResultsLoading");
+		tab.show();
+		tab.siblings().hide();
+		enableTreatmentTabTooltips();
+	});
+}
+
+function getDiscussedByTabContent(tab) {
+	let url = "/judgmentTabs/discussedBy/?judgmentId=37999480&lang=en";
+	$("#treatment-tab-content").addClass("TreatmentSearchResultsLoading");
+
+	$.get(url, function(data) {
+		$("#discussingContent").html(data.content);
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#discussingContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#treatment-tab-content").removeClass("TreatmentSearchResultsLoading");
+		tab.show();
+		tab.siblings().hide();
+		enableTreatmentTabTooltips();
+	});
+}
+
+function getCriticizedByTabContent(tab) {
+	let url = "/judgmentTabs/criticizedBy/?judgmentId=37999480&lang=en";
+	$("#treatment-tab-content").addClass("TreatmentSearchResultsLoading");
+
+	$.get(url, function(data) {
+		$("#criticizingContent").html(data.content);
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#criticizingContent").html("<p>An error occured while loading this tab.</p>");
+	})
+	.always(function() {
+		$("#treatment-tab-content").removeClass("TreatmentSearchResultsLoading");
+		tab.show();
+		tab.siblings().hide();
+		enableTreatmentTabTooltips();
+	});
+}
+
+function getNegatedByTabContent(tab) {
+	let url = "/judgmentTabs/negatedBy/?judgmentId=37999480&lang=en";
+	$("#treatment-tab-content").addClass("TreatmentSearchResultsLoading");
+
+	$.get(url, function(data) {
+		$("#negatingContent").html(data.content);
+	})
+	.fail(function(jqXHR) {
+		console.error(jqXHR);
+		$("#negatingContent").html("<p>An error occured while loading this tab.</p>");
+
+	})
+	.always(function() {
+		$("#treatment-tab-content").removeClass("TreatmentSearchResultsLoading");
+		tab.show();
+		tab.siblings().hide();
+		enableTreatmentTabTooltips();
+	});
+}
+
+function enableTreatmentTabTooltips() {
+	$("#treatment-tab-content .fa-pepper-hot").tooltip({
+		placement : 'bottom',
+		trigger : 'hover',
+		html: true,
+		container: $("#treatment-tab-content").closest('.bootstrap')
+	});
+
+	$(".topics span.name").tooltip({
+		placement : 'bottom',
+		trigger : 'hover',
+		html: true,
+		container: $("li.result").closest('.bootstrap')
+	});
+	
+	$(".ai-icon").tooltip({
+		placement : 'top',
+		trigger : 'hover',
+		html: true,
+		container: $("li.result").closest('.bootstrap'),
+		title: "AI experiment"
+	});
+
+	$(".keyword").hover(
+		function() {
+			$(this).find(".ai-icon").css("opacity", "1");
+		},
+		function() {
+	    	$(this).find(".ai-icon").css("opacity", "0");
+		}
+	);
+}				</script>
+        	</div>
+		</div>
+		
 <div class="bootstrap" role="navigation" aria-labelledby="backToTop">
 	<button id="backToTop" type="button" class="btn btn-sm btn-secondary d-print-none" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast'); return false;" aria-label="Back to top">Back to top</button>
 </div>
@@ -550,10 +2713,46 @@ Page Content:
 	</div><!-- /footerContent -->
 
 <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://piwik.canlii.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://piwik.canlii.org/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 <!-- End Matomo Code -->	
 </footer> <!-- /footer -->
-		</body>
-	</html>
+	</body>
+	
+	
+		<script>
+$(document).ready(function() {
+    $.initHighlightNavigationBar(
+        $('.solexHlZone'), 
+        {
+            "terms":[],
+            "allTermsByTermIndex":[],
+            "pathToResources":"/solex/",
+            "queryHasSyntaxError":false,
+            "queryIsTooLong":false,
+            "navBar":canliiCustomNavBar,
+            "scrollWindow":parent,
+            "hasHeader":true,
+            "pdfMode":false,
+            "pdfFirstPage":1,
+            "pdfTotalPages":0}
+    );
+});
+</script>
+
+</html>
 
 
 Metadata:

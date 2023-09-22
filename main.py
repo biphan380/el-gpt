@@ -118,7 +118,7 @@ from llama_index.node_parser.extractors import (
 )
 from llama_index.llms import OpenAI
 
-llm = OpenAI(model="gpt-4.0")
+llm = OpenAI(model="gpt-4")
 
 metadata_extractor = MetadataExtractor(
     extractors=[
@@ -170,20 +170,28 @@ index = VectorStoreIndex.from_vector_store(vector_store)
 # field_info_result = {f.name: f.type for f in fields(VectorStoreQueryResult)}
 # print(field_info_result)
 
-test_node = TextNode(id_="id1", text="hello world")
-test_node2 = TextNode(id_="id2", text="foo bar")
-test_nodes = [test_node, test_node2]
+from vector_store_3b import VectorStore3B
+vector_store = VectorStore3B()
+# load nodes created from the two cases into the vector stores
+vector_store.add(nodes)
 
-from vector_store_2 import VectorStore2
+query_str = '''Please give me a summary of the case before the Human Rights 
+Tribunal of Ontario between Christopher Hunter and
+the King represented by the Ministry of the Attorney General. Include the factual background, the hearing proceedings, and 
+the findings
 
-vector_store = VectorStore2()
+'''
+query_embedding = embed_model.get_query_embedding(query_str)
 
-vector_store.add(test_nodes)
+# query the vector store with dense search.
 
-node0 = vector_store.get("id1")
-node1 = vector_store.get("id2")
+query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=2)
 
-print(str(node0))
-print(str(node1))
-
-
+query_result = vector_store.query(query_obj)
+for similarity, node in zip(query_result.similarities, query_result.nodes):
+    print(
+        "\n----------------\n"
+        f"[Node ID {node.node_id}] Similarity: {similarity}\n\n"
+        f"{node.get_content(metadata_mode='all')}"
+        "\n----------------\n\n"
+    )
