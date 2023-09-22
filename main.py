@@ -174,7 +174,7 @@ test_node = TextNode(id_="id1", text="hello world")
 test_node2 = TextNode(id_="id2", text="foo bar")
 test_nodes = [test_node, test_node2]
 
-from vector_store import VectorStore2
+from vector_store_2 import VectorStore2
 
 vector_store = VectorStore2()
 
