@@ -155,25 +155,27 @@ vector_store = VectorStore3B()
 # load nodes created from the two cases into the vector stores
 vector_store.add(nodes)
 
-query_str = "Give me a summary of the human rights tribunal of ontario case between Ronald Phipps and the Toronto Police Services Board"
+query_str = '''
+
+Give me a summary of a human rights tribunal of ontario case that deals with employment discrimination on the basis of family status. Give the background and the findings. '''
 query_embedding = embed_model.get_query_embedding(query_str)
 
 # query the vector store with dense search.
 
-query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=12)
+query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5)
 
 query_result = vector_store.query(query_obj)
 # for similarity, node in zip(query_result.similarities, query_result.nodes):
-#     print(
-#         "\n----------------\n"
-#         f"[Node ID {node.node_id}] Similarity: {similarity}\n\n"
-#         f"{node.get_content(metadata_mode='all')}"
-#         "\n----------------\n\n"
-#     )
+#     # print(
+#     #     "\n----------------\n"
+#     #     f"[Node ID {node.node_id}] Similarity: {similarity}\n\n"
+#     #     f"{node.get_content(metadata_mode='all')}"
+#     #     "\n----------------\n\n"
+#     # )
 
 from llama_index import VectorStoreIndex
 index = VectorStoreIndex.from_vector_store(vector_store)
 query_engine = index.as_query_engine()
-query_str = "Give me a summary of the human rights tribunal of ontario case between Ronald Phipps and the Toronto Police Services Board"
+query_str = '''Give me a summary of a human rights tribunal of ontario case that deals with employment discrimination on the basis of family status. Give the background and the findings. '''
 response = query_engine.query(query_str)
 print(str(response))
