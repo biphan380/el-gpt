@@ -26,3 +26,56 @@ def write_documents_to_file(documents: List[Document], filename: str = 'document
 # Example usage:
 # documents = [Document(...), Document(...), ...]  # Assuming you have a list of Document objects
 # write_documents_to_file(documents)
+
+from llama_index.schema import TextNode
+
+def write_nodes_to_file(nodes: List[TextNode], filename: str = 'nodes.txt'):
+    """
+    Write the text and metadata of a list of TextNode objects to a file.
+
+    :param nodes: List of TextNode objects to be written to file
+    :param filename: Name of the file to which the nodes will be written
+    """
+    separator = "\n" + "separator_starts" + "@" * 34 + "separator_ends" + "\n\n"
+    
+    with open(filename, 'w') as file:
+        for node in nodes:
+            # Write node text
+            file.write("Node Text:\n")
+            file.write(node.text)
+            file.write("\n\n")
+
+            # Write node metadata
+            file.write("Metadata:\n")
+            for key, value in node.metadata.items():
+                file.write(f"{key}: {value}\n")
+
+            # Add a separator between nodes
+            file.write(separator)
+
+# Usage:
+# Assuming you have created a list of TextNode objects in the 'nodes' variable
+# write_nodes_to_file(nodes, 'output_nodes.txt')
+
+def write_text_chunks_to_file(text_chunks: List[str], filename: str = 'text_chunks.txt'):
+    """
+    Write a list of text chunks to a file with a separator between each chunk.
+
+    :param text_chunks: List of text chunks to be written to file
+    :param filename: Name of the file to which the text chunks will be written
+    """
+    separator = "\n" + "separator_starts" + "@" * 34 + "separator_ends" * 50 + "\n"
+    
+    with open(filename, 'w') as file:
+        for chunk in text_chunks:
+            # Write text chunk
+            file.write(chunk)
+            
+            # Add a separator between text chunks
+            file.write(separator)
+    
+    print(f"Number of text chunks written: {len(text_chunks)}")
+
+# Usage:
+# Assuming you have created a list of text chunks in the 'text_chunks' variable
+# write_text_chunks_to_file(text_chunks, 'output_text_chunks.txt')

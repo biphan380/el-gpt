@@ -5,7 +5,7 @@ from llama_index import SimpleDirectoryReader
 from utils.new_reader import CustomDirectoryReader
 
 reader = CustomDirectoryReader(
-    input_dir="cases"
+    input_dir="cases/"
 )
 
 documents = reader.load_data()
@@ -27,28 +27,15 @@ text_chunks = []
 
 # maintain relationship with source doc index, to help inject doc metadata in the next step below
 
-# doc_idxs = []
-# for doc_idx, doc in enumerate(documents):
-#     print(f"currently at doc_idx number: {doc_idx}")
-#     cur_text_chunks = text_splitter.split_text(doc.text)
-#     text_chunks.extend(cur_text_chunks)
-#     doc_idxs.extend([doc_idx] * len(cur_text_chunks))
-
 doc_indexes = []
 for doc_index, doc in enumerate(documents):
     cur_text_chunks = text_splitter.split_text(doc.text)
     text_chunks.extend(cur_text_chunks)
     doc_indexes.extend([doc_index] * len(cur_text_chunks))
 
+from utils.to_file import write_text_chunks_to_file
 
-
-# Write text_chunks to a file
-with open('text_chunks.txt', 'w') as chunk_file:
-    for chunk in text_chunks:
-        chunk_file.write(chunk)
-        chunk_file.write("\n" + "seperator_starts@@@@@@@@@@@@@@@@@@@@@@seperator_ends"*50 + "\n")  # Separator between chunks for better readability
-
-print(len(text_chunks))
+write_text_chunks_to_file(text_chunks)
 
 
 '''
@@ -62,28 +49,25 @@ This essentially replicates logic in our SimpleNodePraser
 from llama_index.schema import TextNode
 
 nodes = [] 
-
-for idx, text_chunk in enumerate(text_chunks):
+# used 'i' to mean 'index' because in a lot of languages, the index position that the iterator returns (e.g enumerate) is declared as 'i'
+for i, text_chunk in enumerate(text_chunks):
     node = TextNode(
         text=text_chunk,
     )
-    src_doc = documents[doc_indexes[idx]] # We can see why doc_idxs is structured the way it is, to ensure
+    src_doc = documents[doc_indexes[i]] # We can see why doc_idxs is structured the way it is, to ensure
     node.metadata = src_doc.metadata   # That the node will always find which src_doc it came from.  
     nodes.append(node)                 # Only thing is, I don't think the src_doc has any metadata right now
                                        # Look at documents.txt and you will see the Metadata output is blank 
 
-# print a sample node
-with open('sample_node.txt', 'w') as node_file:
-    for node in nodes:
-        node_file.write(str(node))
-        node_file.write("seperator_starts@@@@@@@@@@@@@@@@@@@@@@@@seperator_ends")
+from utils.to_file import write_nodes_to_file
+write_nodes_to_file(nodes)
 
-print(len(nodes))
 
-# WARNING for Kent. At this point, I've deleted all the .txt files and re run the program many times, so 
-# the txt files you're seeing may be different than what's shown in the previous commit 
 
-# Let's extract metadata from the body of each node and attach it as metadata
+
+
+
+# Not sure if our metadata extractor works at this point
 
 from llama_index.node_parser.extractors import (
     MetadataExtractor,
@@ -92,15 +76,15 @@ from llama_index.node_parser.extractors import (
 )
 from llama_index.llms import OpenAI
 
-llm = OpenAI(model="gpt-4")
+# llm = OpenAI(model="gpt-4")
 
-metadata_extractor = MetadataExtractor(
-    extractors=[
-        TitleExtractor(nodes=5, llm=llm),
-        QuestionsAnsweredExtractor(questions=3, llm=llm),
-    ],
-    in_place=False,
-)
+# metadata_extractor = MetadataExtractor(
+#     extractors=[
+#         TitleExtractor(nodes=5, llm=llm),
+#         QuestionsAnsweredExtractor(questions=3, llm=llm),
+#     ],
+#     in_place=False,
+# )
 
 # # nodes = metadata_extractor.process_nodes(nodes)
 
@@ -113,34 +97,6 @@ for node in nodes:
         node.get_content(metadata_mode="all")
     )
     node.embedding = node_embedding
-
-# Create ChromaVectorStore
-
-from llama_index.vector_stores import ChromaVectorStore, VectorStoreQuery, VectorStoreQueryResult
-import chromadb
-
-# create client and a new collection
-
-import chromadb
-db = chromadb.PersistentClient(path="./chroma_db")
-
-collection = db.get_or_create_collection(name="my_collection")
-
-vector_store = ChromaVectorStore(chroma_collection=collection)
-vector_store.add(nodes=nodes)
-
-# Query Data
-# query_engine = index.as_query_engine()
-# response = query_engine.query("Give me a summary of the Human Rights Tribunal Case between Ronald Phipps and the Toronto Police Services Board")
-# print(response)
-
-# from dataclasses import fields
-
-# field_info = {f.name: f.type for f in fields(VectorStoreQuery)}
-# print(field_info)
-
-# field_info_result = {f.name: f.type for f in fields(VectorStoreQueryResult)}
-# print(field_info_result)
 
 from vector_store.vector_store_3b import VectorStore3B
 vector_store = VectorStore3B()
@@ -155,6 +111,8 @@ query_embedding = embed_model.get_query_embedding(query_str)
 
 # query the vector store with dense search.
 
+from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
+
 query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=1)
 
 query_result = vector_store.query(query_obj)
@@ -166,11 +124,11 @@ query_result = vector_store.query(query_obj)
 #         "\n----------------\n\n"
 #     )
 
-# from llama_index import VectorStoreIndex
-# index = VectorStoreIndex.from_vector_store(vector_store)
-# query_engine = index.as_query_engine()
-# query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. Give me the titles of all the cases that are in your
-# training data. Also, explain key differences between the cases.
-#                 '''
-# response = query_engine.query(query_str)
-# print(str(response))
+from llama_index import VectorStoreIndex
+index = VectorStoreIndex.from_vector_store(vector_store)
+query_engine = index.as_query_engine()
+query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. Give me the titles of all the cases that are in your
+training data. Also, explain key differences between the cases.
+                '''
+response = query_engine.query(query_str)
+print(str(response))

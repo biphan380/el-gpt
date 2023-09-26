@@ -1,3 +1,4 @@
+Node Text:
 HUMAN RIGHTS TRIBUNAL OF ONTARIO 
  
 ______________________________________________________________________ 
@@ -95,7 +96,12 @@ include accepting the applicant’s assumptions about why he was treated unfairl
 purpose of the summary hearing is to determine whether the applicant can point to any 
 information which tends to support his belief that he has experienced discrimination under 
 the Code.
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_ends
+
+Metadata:
+
+separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
+
+Node Text:
 [6] The test that is applied at the summary hearing stage is whether an Application 
 has no reasonable prospect of success. At this stage, the Tribunal is not determining 
 whether the applicant is telling the truth or assessing the impact of the treatment he 
@@ -148,7 +154,12 @@ the respondent and the alleged unfair treatment and a Code ground.
 [17] The applicant believes he had been unfairly treated and for the applicant this was 
 an issue. However, there is no evidence the applicant has or can point to that the 
 applicant’sCode ground was a factor in the actions of the respondent.
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_ends
+
+Metadata:
+
+separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
+
+Node Text:
 [15]  The applicant’s position is essentially that the respondent’s conductevinced an 
 intention to use constructive dismissal as a way to get him to accept the scheduling 
 changes or leave their employment which occurred on March 29, 2018. 
@@ -194,7 +205,12 @@ Dated at Toronto this 21st day of July, 2023.
 __________________________________ 
 Joseph Tascona 
 Member  2023 HRTO 1081 (CanLII)
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_ends
+
+Metadata:
+
+separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
+
+Node Text:
 HUMAN RIGHTS TRIBUNAL OF ONTARIO 
  
  
@@ -264,7 +280,12 @@ assignment details were that phone lines had been cut in the area by suspects
 described as Male, White and East European, who were using a vehicle.     
 [9] Constable Shaw decided to patrol the identified area that morning, in accordance 
 with the Directed Patrol Assignment.
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_ends
+
+Metadata:
+
+separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
+
+Node Text:
 He did not stop at every house as there was no mail for some houses 
 and other houses had a “no flyer” notation.   
 [8] That day, Michael Shaw, a police constable who had served in the area for 
@@ -315,7 +336,12 @@ White workers and asked them if any of them had been stopped by the police.  Non
 them had been.  This is not disputed by the respondents.  The applicant also met up 
 with Mr. Finlay that morning and learned that the police had questioned him (Finlay) 
 about the letter carriers in the area.
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_ends
+
+Metadata:
+
+separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
+
+Node Text:
 [14] The applicant subsequently hailed the police officers to inquire why they had 
 stopped him.  A conversation ensued, the contents of which are disputed. 
 [15] The applicant believed that the police officers’ decision to stop and question him 
@@ -373,7 +399,12 @@ Nassiah v. Peel (Regional Municipality) Services Board,2007 HRTO 14 (CanLII).
 and have indicated their willingness to scrutinize seemingly “neutral” police behaviour to 
 assess whether it falls within the phenomenon of racial profiling.  In R. v. Brown (2003) 
 64 O.R. (3) 161 (Ont. CA) at para.
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_ends
+
+Metadata:
+
+separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
+
+Node Text:
 [18] In determining whether the inference of racial discrimination is more probable 
 than the explanations offered by the respondent officer, I also need to be mindful of the 
 nature of racial discrimination as it is understood today and that it will often be the 
@@ -423,7 +454,12 @@ the area.
 Avenue, Constable Shaw pointed out the applicant as a person of note.  It is not likely 
 that Constable Shaw had already noticed the applicant’s alleged crossing back and 
 forth across the street in an unusual manner as soon as they turned the corner.
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_ends
+
+Metadata:
+
+separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
+
+Node Text:
 [24] First, the fact that the applicant was not the usual letter White male letter carrier
 is surely not a suspicious circumstance.  Letter carriers take vacation, retire, and/or 
 switch routes, so the fact that another letter carrier was delivering the mail on that 
@@ -473,7 +509,12 @@ Nonetheless, Constable Shaw found this to be suspicious behaviour and asked
 Constable Noto to ask the resident what the applicant had been doing.  Constable Noto 
 testified Ms. Katz advised her that the applicant said he had misdelivered something.  
 [30] Ms. Katz testified that she could barely recall the events of that day.
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_ends
+
+Metadata:
+
+separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
+
+Node Text:
 2009 HRTO 877 (CanLII) 8 [29] Having decided to scrutinize the applicant, Constable Shaw found it suspicious
 that the applicant knocked on a resident’s door and spoke to a woman but did not 
 deliver any mail or flyers.  Mr. Finlay testified that it was not unusual to misdeliver mail 
@@ -526,7 +567,12 @@ delivering mail and the police car followed him while he was doing so.
 [36] This is denied by the officers.  They testified that they stopped on the curb and 
 did not pull into the driveway because of rules against entering unnecessarily upon 
 private property.
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_ends
+
+Metadata:
+
+separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
+
+Node Text:
 I
 find that it is necessary to make some findings on these matters as they may affect the 
 remedial aspect of the case.  The applicant asserted that the officers drove abruptly into 
@@ -562,4 +608,8 @@ Dated at Toronto, this 18thday of June, 2009.
 __________________________________ 
 Kaye Joachim 
 Alternate Chair 2009 HRTO 877 (CanLII)
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_endsseparator_ends
+
+Metadata:
+
+separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
+
