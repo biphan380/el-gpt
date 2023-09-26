@@ -20,6 +20,13 @@ class CustomDirectoryReader(SimpleDirectoryReader):
             if self.file_metadata is not None:
                 metadata = self.file_metadata(str(input_file))
 
+            # Add the title of the file to the metadata
+            title = input_file.stem  # This gives the file name without the extension
+            if metadata is None:
+                metadata = {'title': title}
+            else:
+                metadata.update({'title': title})
+
             file_suffix = input_file.suffix.lower()
             if (file_suffix in self.supported_suffix or file_suffix in self.file_extractor):
                 # use file readers

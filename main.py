@@ -63,10 +63,6 @@ from utils.to_file import write_nodes_to_file
 write_nodes_to_file(nodes)
 
 
-
-
-
-
 # Not sure if our metadata extractor works at this point
 
 from llama_index.node_parser.extractors import (
@@ -124,21 +120,21 @@ vector_store.add(nodes)
 #         "\n----------------\n\n"
 #     )
 
-from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
+# from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
 
 
-from llama_index import VectorStoreIndex
-index = VectorStoreIndex.from_vector_store(vector_store)
+# from llama_index import VectorStoreIndex
+# index = VectorStoreIndex.from_vector_store(vector_store)
 
-from llama_index.storage import StorageContext
-index.storage_context.persist(persist_dir="storage")
+# from llama_index.storage import StorageContext
+# index.storage_context.persist(persist_dir="storage")
 
 
 
-query_engine = index.as_query_engine()
-query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I think I was recently discriminated 
-for a job promotion because I was too old and they gave the job to a younger candidate. Has there ever been a case before
-the tribunal that's similar to my scenario? Give me the name of the case.
-                '''
-response = query_engine.query(query_str)
-print(str(response))
+# query_engine = index.as_query_engine()
+# query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I think I was recently discriminated 
+# for a job promotion because I was too old and they gave the job to a younger candidate. Has there ever been a case before
+# the tribunal that's similar to my scenario? Give me the name of the case.
+#                 '''
+# response = query_engine.query(query_str)
+# print(str(response))

@@ -349,6 +349,7 @@ Vice-chair
 2016 HRTO 107 (CanLII)
 
 Metadata:
+title: George
 
 --------------------------------------------------
 
@@ -528,6 +529,7 @@ Joseph Tascona
 Member  2023 HRTO 1081 (CanLII)
 
 Metadata:
+title: Hunter
 
 --------------------------------------------------
 
@@ -836,6 +838,7 @@ Kaye Joachim
 Alternate Chair 2009 HRTO 877 (CanLII)
 
 Metadata:
+title: Phipps
 
 --------------------------------------------------
 
