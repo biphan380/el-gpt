@@ -72,32 +72,34 @@ from llama_index.node_parser.extractors import (
 )
 from llama_index.llms import OpenAI
 
-# llm = OpenAI(model="gpt-4")
+llm = OpenAI(model="gpt-4")
 
-# metadata_extractor = MetadataExtractor(
-#     extractors=[
-#         TitleExtractor(nodes=5, llm=llm),
-#         QuestionsAnsweredExtractor(questions=3, llm=llm),
-#     ],
-#     in_place=False,
-# )
+metadata_extractor = MetadataExtractor(
+    extractors=[
+        TitleExtractor(nodes=5, llm=llm),
+        QuestionsAnsweredExtractor(questions=3, llm=llm),
+    ],
+    in_place=False,
+)
 
-# # nodes = metadata_extractor.process_nodes(nodes)
+nodes = metadata_extractor.process_nodes(nodes)
+# print out the nodes with their new metadata 
+write_nodes_to_file(nodes)
 
-from llama_index.embeddings import OpenAIEmbedding
+# from llama_index.embeddings import OpenAIEmbedding
 
-embed_model = OpenAIEmbedding()
+# embed_model = OpenAIEmbedding()
 
-for node in nodes:
-    node_embedding = embed_model.get_text_embedding(
-        node.get_content(metadata_mode="all")
-    )
-    node.embedding = node_embedding
+# for node in nodes:
+#     node_embedding = embed_model.get_text_embedding(
+#         node.get_content(metadata_mode="all")
+#     )
+#     node.embedding = node_embedding
 
-from vector_store.vector_store_3b import VectorStore3B
-vector_store = VectorStore3B()
-# load nodes created from the two cases into the vector stores
-vector_store.add(nodes)
+# from vector_store.vector_store_3b import VectorStore3B
+# vector_store = VectorStore3B()
+# # load nodes created from the two cases into the vector stores
+# vector_store.add(nodes)
 
 # The code below doesn't seem to be affecting the results that the index is returning below, 
 # but are useful for inspecting which top k most relevant doc nodes are returned from a query
