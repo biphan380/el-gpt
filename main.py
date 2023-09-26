@@ -103,19 +103,19 @@ vector_store = VectorStore3B()
 # load nodes created from the two cases into the vector stores
 vector_store.add(nodes)
 
-query_str = '''
+# The code below doesn't seem to be affecting the results that the index is returning below, 
+# but are useful for inspecting which top k most relevant doc nodes are returned from a query
+# query_str = '''
 
-You are an expert on human rights cases brought before the human rights tribunal of ontario. Find a case that deals with family status and 
-                give me the name of the case.'''
-query_embedding = embed_model.get_query_embedding(query_str)
+# You are an expert on human rights cases brought before the human rights tribunal of ontario. Find a case that deals with family status and 
+#                 give me the name of the case.'''
+# query_embedding = embed_model.get_query_embedding(query_str)
 
 # query the vector store with dense search.
 
-from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
+# query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=1)
 
-query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=1)
-
-query_result = vector_store.query(query_obj)
+# query_result = vector_store.query(query_obj)
 # for similarity, node in zip(query_result.similarities, query_result.nodes):
 #     print(
 #         "\n----------------\n"
@@ -124,8 +124,17 @@ query_result = vector_store.query(query_obj)
 #         "\n----------------\n\n"
 #     )
 
+from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
+
+
 from llama_index import VectorStoreIndex
 index = VectorStoreIndex.from_vector_store(vector_store)
+
+from llama_index.storage import StorageContext
+index.storage_context.persist(persist_dir="storage")
+
+
+
 query_engine = index.as_query_engine()
 query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. Give me the titles of all the cases that are in your
 training data. Also, explain key differences between the cases.
