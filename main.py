@@ -136,8 +136,9 @@ index.storage_context.persist(persist_dir="storage")
 
 
 query_engine = index.as_query_engine()
-query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. Give me the titles of all the cases that are in your
-training data. Also, explain key differences between the cases.
+query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I think I was recently discriminated 
+for a job promotion because I was too old and they gave the job to a younger candidate. Has there ever been a case before
+the tribunal that's similar to my scenario? Give me the name of the case.
                 '''
 response = query_engine.query(query_str)
 print(str(response))
