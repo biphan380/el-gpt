@@ -86,41 +86,34 @@ nodes = metadata_extractor.process_nodes(nodes)
 # print out the nodes with their new metadata 
 write_nodes_to_file(nodes)
 
-# from llama_index.embeddings import OpenAIEmbedding
+from llama_index.embeddings import OpenAIEmbedding
 
-# embed_model = OpenAIEmbedding()
+embed_model = OpenAIEmbedding()
 
-# for node in nodes:
-#     node_embedding = embed_model.get_text_embedding(
-#         node.get_content(metadata_mode="all")
-#     )
-#     node.embedding = node_embedding
+for node in nodes:
+    node_embedding = embed_model.get_text_embedding(
+        node.get_content(metadata_mode="all")
+    )
+    node.embedding = node_embedding
 
-# from vector_store.vector_store_3b import VectorStore3B
-# vector_store = VectorStore3B()
-# # load nodes created from the two cases into the vector stores
-# vector_store.add(nodes)
+from vector_store.vector_store_3b import VectorStore3B
+vector_store = VectorStore3B()
+# load nodes created from the cases into the vector stores
+vector_store.add(nodes)
 
 # The code below doesn't seem to be affecting the results that the index is returning below, 
 # but are useful for inspecting which top k most relevant doc nodes are returned from a query
-# query_str = '''
-
-# You are an expert on human rights cases brought before the human rights tribunal of ontario. Find a case that deals with family status and 
-#                 give me the name of the case.'''
-# query_embedding = embed_model.get_query_embedding(query_str)
+query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. How many cases are in your training data?'''
+query_embedding = embed_model.get_query_embedding(query_str)
 
 # query the vector store with dense search.
+from llama_index.vector_stores.types import (
+VectorStoreQuery,
+)
+query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=1)
 
-# query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=1)
-
-# query_result = vector_store.query(query_obj)
-# for similarity, node in zip(query_result.similarities, query_result.nodes):
-#     print(
-#         "\n----------------\n"
-#         f"[Node ID {node.node_id}] Similarity: {similarity}\n\n"
-#         f"{node.get_content(metadata_mode='all')}"
-#         "\n----------------\n\n"
-#     )
+from utils.to_file import write_query_results_to_file
+write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
 
 # from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
 

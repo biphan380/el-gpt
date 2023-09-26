@@ -1,0 +1,87 @@
+
+----------------
+[Node ID acc4ba0b-2b88-49d8-87fb-58ebbe2d6a68] Similarity: 0.7876476716264663
+
+[Excerpt from document]
+title: Phipps
+document_title: Analysis of Alleged Racial Profiling by Toronto Police Services Board: The Case of Ronald Phipps, a Canada Post Mail Carrier
+questions_this_excerpt_can_answer: 1. What was the initial complaint filed by Ronald Phipps against the Toronto Police Services Board, Michael Shaw, and William Blair about?
+2. What was the decision of the Human Rights Tribunal of Ontario regarding the case of Ronald Phipps against Michael Shaw?
+3. What was the Directed Patrol Assignment given to Constable Michael Shaw and Diane Noto on the day Ronald Phipps was delivering mail?
+
+Context Summary: 
+The document is a case resolution conference decision from the Human Rights Tribunal of Ontario regarding a complaint filed by Ronald Phipps, a Canada Post mail carrier, against the Toronto Police Services Board, Michael Shaw, and William Blair. Phipps, who identifies as African Canadian, alleges that he was discriminated against on the basis of race and color when he was stopped and questioned by Constable Shaw on March 9, 2005. The tribunal found that Shaw did discriminate against Phipps in the provision of police services. The issue of remedy and the liability of the Toronto Police Services Board and William Blair will be heard on the next day of hearing.
+Excerpt:
+-----
+HUMAN RIGHTS TRIBUNAL OF ONTARIO 
+ 
+ 
+______________________________________________________________________ 
+B E T W E E N:
+ 
+Ronald Phipps 
+Applicant 
+-and-
+ 
+Toronto Police Services Board, 
+Michael Shaw and William Blair 
+Respondents 
+______________________________________________________________________ 
+CASE RESOLUTION CONFERENCE DECISION
+______________________________________________________________________ 
+Adjudicator:Kaye Joachim
+Date: June 18, 2009 
+File Number:T-0475-08
+Citation: 2009 HRTO 877 
+Indexed as:  Phipps v. Toronto Police Services Board 
+______________________________________________________________________ 
+ 
+ 2009 HRTO 877 (CanLII)  APPEARANCES BY 
+)
+Ronald Phipps, Applicant     ) On his own behalf 
+        )  
+       )  
+Toronto Police Services Board, Respondent  ) Andrea Denovan, Counsel 
+       )  
+       )  
+Michael Shaw and William Blair, Respondents ) Naomi E. Calla, Counsel 
+)2009 HRTO 877 (CanLII) INTRODUCTION 
+[1] This is the Decision with respect to an Application filed under s. 53(3) of the 
+Human Rights Code, R.S.O. 1990, c.H-19, as amended (the “Code”).  The complaint 
+which underlies the current Application was filed with the Ontario Human Rights 
+Commission on July 11, 2005 and abandoned upon the filing of the present Application 
+with the Tribunal on November 13, 2008. 
+[2] A Case Resolution Conference (“CRC”) was held on June 4, 2009 in accordance 
+with the expectation, expressed in theCodeand the Tribunal’s Rules, that section 53(3)
+applications proceed in a highly expeditious manner.  I heard from the applicant, the 
+respondent Michael Shaw, and the respondents’ witnesses Diane Noto, Bruce Finlay 
+and Hanna Katz (by telephone). 
+[3] The applicant, who self-identifies as African Canadian, alleges that the
+respondent Michael Shaw, a police constable, discriminated against him on the basis of 
+race and colour when he stopped and questioned the applicant on March 9, 2005.  The 
+other named respondents are the Toronto Police Services Board (“TPSB”) and William 
+Blair, Chief of Police. 
+[4] I find that Michael Shaw did discriminate against the applicant on March 9, 2005 
+in the provision of police services on the basis of colour, contrary to section 1 and 9 of 
+the Code.  
+[5] The parties agreed to bifurcate this proceeding. The issue of remedy and the
+liability of the TPSB and William Blair will be heard on the next day of hearing. 
+Chronology of Events 
+[6] The following events are not in dispute, except where I specifically note, by using 
+words such as alleged, or asserted, or otherwise indicate a contested point. 
+[7] On March 9, 2005, the applicant in his capacity of a relief letter carrier employed by 2009 HRTO 877 (CanLII) 2 Canada Post was delivering mail in the area of the Bridle Path, which is a well known
+affluent neighbourhood in Toronto.  It was his second day delivering mail on that route. 
+He was wearing the Canada Post coat, carrying a mail satchel, and delivering regular 
+mail and flyers.  He did not stop at every house as there was no mail for some houses 
+and other houses had a “no flyer” notation.   
+[8] That day, Michael Shaw, a police constable who had served in the area for 
+several years was training a new police constable, Diane Noto.  At the start of their shift 
+they were given a Directed Patrol Assignment, recommending that they patrol the area 
+where the applicant was delivering mail between 12 p.m. and 4.00 p.m.  The 
+assignment details were that phone lines had been cut in the area by suspects 
+described as Male, White and East European, who were using a vehicle.     
+[9] Constable Shaw decided to patrol the identified area that morning, in accordance 
+with the Directed Patrol Assignment.
+-----
+----------------
+
