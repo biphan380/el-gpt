@@ -82,7 +82,31 @@ metadata_extractor = MetadataExtractor(
     in_place=False,
 )
 
-nodes = metadata_extractor.process_nodes(nodes)
+import os
+import pickle
+
+'''
+The code below with the cache_file is for caching the nodes that have already been processed so 
+we don't need to re-process them every single time we run the program. This doesn't account for 
+when we add another case to our /cases directory. 
+
+We will develop a better caching mechanism, but that might involve caching the actual index/vector store that's created from the nodes, and not the nodes themselves.
+For now, just delete the processed_nodes.pk1 file everytime we add more cases.
+'''
+# Define the path to the cache file 
+cache_file = 'processed_nodes.pk1'
+
+if os.path.exists(cache_file):
+    # If cache file exists, load the processed nodes from the file 
+    with open(cache_file, 'rb') as f:
+        nodes = pickle.load(f)
+else:
+    # If cache file does not exist, process the nodes and save the result to the file
+    nodes = nodes
+    nodes = metadata_extractor.process_nodes(nodes)
+    with open(cache_file, 'wb') as f:
+        pickle.dump(nodes, f)
+
 # print out the nodes with their new metadata 
 write_nodes_to_file(nodes)
 
@@ -103,33 +127,33 @@ vector_store.add(nodes)
 
 # The code below doesn't seem to be affecting the results that the index is returning below, 
 # but are useful for inspecting which top k most relevant doc nodes are returned from a query
-query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. How many cases are in your training data?'''
-query_embedding = embed_model.get_query_embedding(query_str)
+# can comment out once we see which top k nodes are returned
 
-# query the vector store with dense search.
-from llama_index.vector_stores.types import (
-VectorStoreQuery,
-)
-query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=1)
+# query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. How many cases are in your training data?'''
+# query_embedding = embed_model.get_query_embedding(query_str)
 
-from utils.to_file import write_query_results_to_file
-write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
+# # query the vector store with dense search.
+# from llama_index.vector_stores.types import (
+# VectorStoreQuery,
+# )
+# query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5)
 
-# from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
+# from utils.to_file import write_query_results_to_file
+# write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
 
-
-# from llama_index import VectorStoreIndex
-# index = VectorStoreIndex.from_vector_store(vector_store)
-
-# from llama_index.storage import StorageContext
-# index.storage_context.persist(persist_dir="storage")
+from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
 
 
+from llama_index import VectorStoreIndex
+index = VectorStoreIndex.from_vector_store(vector_store)
 
-# query_engine = index.as_query_engine()
-# query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I think I was recently discriminated 
-# for a job promotion because I was too old and they gave the job to a younger candidate. Has there ever been a case before
-# the tribunal that's similar to my scenario? Give me the name of the case.
-#                 '''
-# response = query_engine.query(query_str)
-# print(str(response))
+from llama_index.storage import StorageContext
+index.storage_context.persist(persist_dir="storage")
+
+
+
+query_engine = index.as_query_engine()
+query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I work as a post man and I deliver mail.
+I was recently stopped and frisked by the police because I'm black. What is the name of the case brought before the tribunal that's similar to my situation? Summarize the case for me'''
+response = query_engine.query(query_str)
+print(str(response))
