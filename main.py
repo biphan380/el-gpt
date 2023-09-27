@@ -129,31 +129,36 @@ vector_store.add(nodes)
 # but are useful for inspecting which top k most relevant doc nodes are returned from a query
 # can comment out once we see which top k nodes are returned
 
-# query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. How many cases are in your training data?'''
-# query_embedding = embed_model.get_query_embedding(query_str)
-
-# # query the vector store with dense search.
-# from llama_index.vector_stores.types import (
-# VectorStoreQuery,
-# )
-# query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5)
-
-# from utils.to_file import write_query_results_to_file
-# write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
-
-from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
-
-
-from llama_index import VectorStoreIndex
-index = VectorStoreIndex.from_vector_store(vector_store)
-
-from llama_index.storage import StorageContext
-index.storage_context.persist(persist_dir="storage")
-
-
-
-query_engine = index.as_query_engine()
 query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I work as a post man and I deliver mail.
 I was recently stopped and frisked by the police because I'm black. What is the name of the case brought before the tribunal that's similar to my situation? Summarize the case for me'''
-response = query_engine.query(query_str)
-print(str(response))
+query_embedding = embed_model.get_query_embedding(query_str)
+
+# query the vector store with dense search.
+from llama_index.vector_stores.types import (
+VectorStoreQuery,
+)
+
+from llama_index.vector_stores.types import MetadataFilters
+filters = MetadataFilters.from_dict({"source": "24"})
+
+query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5, filters=filters)
+
+from utils.to_file import write_query_results_to_file
+write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
+
+# from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
+
+
+# from llama_index import VectorStoreIndex
+# index = VectorStoreIndex.from_vector_store(vector_store)
+
+# from llama_index.storage import StorageContext
+# index.storage_context.persist(persist_dir="storage")
+
+
+
+# query_engine = index.as_query_engine()
+# query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I work as a post man and I deliver mail.
+# I was recently stopped and frisked by the police because I'm black. What is the name of the case brought before the tribunal that's similar to my situation? Summarize the case for me'''
+# response = query_engine.query(query_str)
+# print(str(response))
