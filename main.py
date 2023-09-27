@@ -72,11 +72,11 @@ from llama_index.node_parser.extractors import (
 )
 from llama_index.llms import OpenAI
 
-llm = OpenAI(model="gpt-4")
+llm = OpenAI(model="gpt-3.5-turbo")
 
 metadata_extractor = MetadataExtractor(
     extractors=[
-        TitleExtractor(nodes=5, llm=llm),
+        # TitleExtractor(nodes=5, llm=llm),
         QuestionsAnsweredExtractor(questions=3, llm=llm),
     ],
     in_place=False,

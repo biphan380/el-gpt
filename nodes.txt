@@ -86,10 +86,9 @@ disability.
 
 Metadata:
 title: George
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. Who were the applicant and respondent in the George v. AccertaClaim Servicorp Inc. case heard by the Human Rights Tribunal of Ontario?
-2. What were the specific grounds of discrimination alleged by the applicant in the George v. AccertaClaim Servicorp Inc. case?
-3. What was the final decision of the Human Rights Tribunal of Ontario in the George v. AccertaClaim Servicorp Inc. case?
+questions_this_excerpt_can_answer: 1. What specific grounds of discrimination are being alleged in this case and how do they relate to the Human Rights Code?
+2. What is the main argument made by the applicant regarding the denial of a job opportunity and how does it relate to systemic discrimination?
+3. What is the respondent's defense against the discrimination allegations and why do they argue that placing the applicant in the job in question would have amounted to a demotion?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -154,16 +153,9 @@ more than $10.000.00 to $57,500.0 0, and she went from salary grade 7 to 10.
 
 Metadata:
 title: George
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What are the relevant sections of the Code that were considered in the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case?
-2. What is the professional background and personal identity of the applicant in the George v. AccertaClaim Servicorp Inc. case?
-3. How did the applicant's employment status and salary change during her time at the respondent company in the George v. AccertaClaim Servicorp Inc. case? 
-
-Summary: The context provides detailed information about an employment discrimination case in the Human Rights Tribunal of Ontario, specifically George v. AccertaClaim Servicorp Inc. It outlines the relevant sections of the Code that pertain to discrimination and harassment in the workplace, and provides a comprehensive background of the applicant, including her personal identity, educational background, and employment history. The context also details the applicant's employment progression and salary changes at the respondent company. 
-
-1. Based on the Code sections outlined in the context, what are the grounds on which discrimination and harassment in the workplace are prohibited in Ontario?
-2. What qualifications and experiences did the applicant in the George v. AccertaClaim Servicorp Inc. case have in the field of healthcare administration and insurance claims management?
-3. How did the respondent company support the applicant's professional development during her employment, as evidenced in the George v. AccertaClaim Servicorp Inc. case?
+questions_this_excerpt_can_answer: 1. How did the applicant's salary and job level change during her employment with the respondent company?
+2. What qualifications and courses did the applicant complete while employed by the respondent company?
+3. How did the applicant's previous work experience contribute to her employment with the respondent company?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -222,18 +214,9 @@ the business  known , she had not been  given any opportunities to do so.
 
 Metadata:
 title: George
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What was the applicant's initial salary when she started working for the respondent company and how did it change over time?
-2. What was the racial composition of the workplace according to the applicant and the respondent?
-3. What were the two main lines of business of the respondent company and on which side did the applicant work?
-
-Summary: The context discusses an employment discrimination case involving a company and an employee who had a successful career progression within the company. The company had two main lines of business, public and private, and the employee worked on the private side. The context also discusses the racial composition of the company's workforce. 
-
-Using the summary, here are three more questions:
-
-1. What were the issues faced by the private side of the business where the applicant worked?
-2. What was the CEO's stance on the future investment in the private side of the business?
-3. Despite her interest and request, why was the applicant not given opportunities to work on the public side of the business?
+questions_this_excerpt_can_answer: 1. How did the applicant's salary and job responsibilities change over time at the respondent company?
+2. What evidence was presented regarding the racial composition of the workplace and the diversity within the management structure?
+3. Why was the applicant interested in working on the public side of the business and what opportunities did she seek in order to do so?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -293,15 +276,9 @@ surprised when the applicant raised the issue of discrimination.
 
 Metadata:
 title: George
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What was the applicant's reaction to the CEO's decision to focus on the public side of the business in the George v. AccertaClaim Servicorp Inc. case?
-2. How did the applicant respond to the transfer of "CQ" to a newly created position on the public side of the business in the George v. AccertaClaim Servicorp Inc. case?
-3. What were the applicant's concerns about the process by which the job was created and filled in the George v. AccertaClaim Servicorp Inc. case? 
-
-Higher-level summaries:
-1. The applicant in the George v. AccertaClaim Servicorp Inc. case was interested in moving to the public side of the business but was not given any opportunities to do so. She was surprised when a member of her team was moved to a newly created position on the public side of the business.
-2. The applicant believed that the process by which the job was created and filled was irregular and that other older and racialized employees had been overlooked. She raised the issue of discrimination with the respondent for the first time during her exit interview.
-3. The CEO's version of the events differed from the applicant's. He was surprised when the applicant raised the issue of discrimination.
+questions_this_excerpt_can_answer: 1. What were the reasons given by the CEO for not investing in the private side of the business and focusing on the public side instead?
+2. Why did the applicant believe that the newly created position on the public side of the business was being groomed for a senior or executive management role?
+3. What were the qualifications and experience of CQ that made her a good fit for the newly created position, according to the respondent?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -361,22 +338,9 @@ v. Kapp , 2008 SCC 41, and Withler v. Canada (Attorney General) , 2011 SCC 12.
 
 Metadata:
 title: George
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What was Doug Cooper's initial assumption when the applicant resigned from her position at AccertaClaim Servicorp Inc.?
-2. What was the company's future plan for the applicant, as stated by Doug Cooper, and why had it not been communicated to her yet?
-3. According to Doug Cooper, why was the new position created and who was it intended to assist? 
-
-Summary: The context discusses the testimony of Doug Cooper in the George v. AccertaClaim Servicorp Inc. case. Cooper explains his surprise at the applicant's resignation and her claims of discrimination. He also discusses the company's plans for the applicant and the reasons behind the creation of a new position within the company. The context then goes on to explain the legal definitions and requirements for proving discrimination. 
-
-1. How did Doug Cooper react to the applicant's claims of discrimination during the George v. AccertaClaim Servicorp Inc. case?
-2. What was the intended role of the applicant in the company's restructuring activities, according to Doug Cooper's testimony?
-3. What legal precedents are cited in the context to define discrimination in the George v. AccertaClaim Servicorp Inc. case? 
-
-Summary: The context provides details about the George v. AccertaClaim Servicorp Inc. case, specifically focusing on Doug Cooper's testimony. Cooper discusses his interactions with the applicant, the company's plans for her, and the reasons behind certain company decisions. The context also delves into the legal aspects of the case, explaining the definition of discrimination and citing relevant legal precedents. 
-
-1. How does Doug Cooper's testimony in the George v. AccertaClaim Servicorp Inc. case contradict the applicant's claims of discrimination?
-2. What were the company's uncommunicated plans for the applicant, as revealed by Doug Cooper during the case?
-3. What legal standards are used to determine if discrimination has occurred, as outlined in the context of the George v. AccertaClaim Servicorp Inc. case?
+questions_this_excerpt_can_answer: 1. What evidence does Doug Cooper provide regarding the applicant's resignation and the issue of discrimination raised during the meeting?
+2. What were the company's plans for the applicant and why was she placed in an administrative role instead of being promoted to manager of operations?
+3. How does the Supreme Court of Canada define discrimination under the Code and the Charter, and what criteria must be met to establish a case of discrimination?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -436,15 +400,9 @@ job and the appointment of CQ to that job by the executive managem ent group.
 
 Metadata:
 title: George
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What is the applicant's argument regarding the nature of discrimination in her case?
-2. How does the respondent company refute the applicant's claims of racial discrimination within its management team?
-3. What was the event that escalated the situation for the applicant according to the document? 
-
-Higher-level summaries:
-- The document discusses a case of alleged employment discrimination brought before the Human Rights Tribunal of Ontario. The applicant claims systemic discrimination, arguing that the respondent company's management is exclusively Caucasian and that jobs involving administrative and support functions are filled by racialized persons. 
-- The respondent company refutes these claims, arguing that the applicant herself was a member of the management team before she resigned. The company also argues that its decision to create and fill a new position without an open competition was not in contravention of its own policies. 
-- The situation escalated for the applicant when a job was created and filled by the executive management group without competition.
+questions_this_excerpt_can_answer: 1. How does the Supreme Court of Canada define discrimination under both the Code and the Charter, and what criteria must be met to establish discrimination?
+2. What is the applicant's argument regarding the respondent company's alleged systemic discrimination, and how does she support her claim?
+3. What is the respondent's defense against the applicant's allegations of discrimination, and what reasons do they provide for their actions in creating and filling a new position without competition?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -504,12 +462,9 @@ Dated at Toronto, this 22nd day of January, 2016 .
 
 Metadata:
 title: George
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What was the event that brought matters to a head for the applicant in the George v. AccertaClaim Servicorp Inc. case?
-2. What was the tribunal's conclusion regarding the relevance of the racial composition of the executive management group within the respondent company to the issues at hand in the George v. AccertaClaim Servicorp Inc. case?
-3. What was the tribunal's reasoning for dismissing the application in the George v. AccertaClaim Servicorp Inc. case? 
-
-Surrounding context: The tribunal in the George v. AccertaClaim Servicorp Inc. case found that the racial composition of the executive management group was not relevant to the issues at hand. The applicant, a racialized person, had not raised any issues regarding being overlooked for promotion and advancement prior to the appointment of CQ to a new job. The tribunal concluded that even if the new position was improperly filled, it would not have disadvantaged the applicant as it was a lower salary grade. The tribunal dismissed the application, finding that the applicant had not established that her right to equal treatment in respect of employment had been infringed.
+questions_this_excerpt_can_answer: 1. What was the specific event that caused the applicant to raise concerns about being overlooked for promotion and advancement within the respondent company?
+2. Was there any discernable disadvantage to the applicant resulting from the hiring or promotion of CQ to a new position within the company?
+3. Did the respondent company provide a non-discriminatory explanation for not considering the applicant for the job that CQ was placed into?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -529,244 +484,9 @@ Vice-chair
 
 Metadata:
 title: George
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What was the final decision of the Human Rights Tribunal of Ontario in the George v. AccertaClaim Servicorp Inc. employment discrimination case?
-2. Who was the Vice-chair that signed off on the decision in the George v. AccertaClaim Servicorp Inc. case?
-3. On what date was the decision in the George v. AccertaClaim Servicorp Inc. case made by the Human Rights Tribunal of Ontario?
-
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
-
-Node Text:
-HUMAN RIGHTS TRIBUNAL OF ONTARIO 
- 
-______________________________________________________________________ 
-B E T W E E N: 
-Christopher Hunter 
- 
-Applicant 
--and- 
- 
- 
-His Majesty the King in right of Ontario as represented by the Ministry of the 
-Attorney General 
- 
-Respondent 
- 
-______________________________________________________________________ 
- 
-DECISION  
-______________________________________________________________________ 
- 
-Adjudicator:  Joseph Tascona  
- 
-Date: July 21, 2023  
- 
-File Number: 2018-32179-I  
-    
-Citation: 2023 HRTO 1081 
-  
-Indexed as:  Hunter v. HMKRO (Ministry of the Attorney General) 
-______________________________________________________________________ 
-  2023 HRTO 1081 (CanLII)  
- 2     
-    
-APPEARANCES  
- 
- 
- 
- )   
-Christopher Hunter, Applicant ) )   Self-represented 
- )   
-    
-    
- )   
-His Majesty the King in right of Ontario as 
-represented by the Ministry of the Attorney 
-General, Respondent ) 
-) 
-)  Katherine Ayers, Counsel 
- )   
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  2023 HRTO 1081 (CanLII)  
- 3 INTRODUCTION 
-[1] On April 19, 2018, the applicant filed an Application alleging the respondent 
-discriminated against him with respect to employment on the basis of family status 
-contrary to the Human Rights Code, R.S.O. 1990 c. H. 19, as amended (the “Code”).  
-[2]  By Case Assessment Direction (“CAD”) dated March 8, 2023, the Tribunal 
-directed that a summary hearing be held to address whether the Application should be 
-dismissed on the basis that there is no reasonable prospect that it will succeed pursuant 
-to Rule 19A of the Tribunal’s Rules of Procedure.  
-[3] As explained more fully below, I find that the Application must be dismissed on the 
-basis that it has no reasonable prospect of success under the Code. Even if I accept all 
-the facts alleged by the applicant as true, the applicant has not been able to point to any 
-evidence beyond his own suspicions that the respondent was treating him differently 
-based on Code grounds. 
-SUMMARY HEARING PROCESS 
-[4] The summary hearing process is described in Rule 19A of the Tribunal’s Rules of 
-Procedure (‘Rules”) as well as the Tribunal’s Practice Direction on Summary Hearing
-Requests. The purpose of a summary hearing is to consider whether an Application 
-should be dismissed in whole or in part because there is no reasonable prospect that the 
-Application will succeed. 
-[5]  The Tribunal cannot address allegations of unfairness that are unrelated to the 
-Code. The Tribunal’s jurisdiction is limited to claims of discrimination that are linked to the 
-protections set out in the Code. 
-[6] The test that is applied at the summary hearing stage is whether an Application 
-has no reasonable prospect of success. At this stage, the Tribunal is not determining 
-whether the applicant is telling the truth or assessing the impact of the treatment he 
-experienced. The test of no reasonable prospect of success is determined by assuming 2023 HRTO 1081 (CanLII)  
- 4 the applicant’s version of events is true unless there is some clear evidenceto the 
-contrary or the evidence is not disputed by the applicant. 
-[7] However, and significantly, accepting the facts alleged by the applicant does not 
-include accepting the applicant’s assumptions about why he was treated unfairly. The 
-purpose of the summary hearing is to determine whether the applicant can point to any 
-information which tends to support his belief that he has experienced discrimination under 
-the Code.
-
-Metadata:
-title: Hunter
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What is the basis of the discrimination alleged by Christopher Hunter in his application to the Human Rights Tribunal of Ontario?
-2. What is the purpose of a summary hearing as described in Rule 19A of the Tribunal’s Rules of Procedure?
-3. What was the adjudicator's decision regarding the application filed by Christopher Hunter against His Majesty the King in right of Ontario as represented by the Ministry of the Attorney General?
-
-Context Summary: This context is about an employment discrimination case filed by Christopher Hunter against His Majesty the King in right of Ontario as represented by the Ministry of the Attorney General. The case was heard by the Human Rights Tribunal of Ontario, with Joseph Tascona as the adjudicator. The applicant alleged discrimination based on family status. The Tribunal held a summary hearing to determine whether the application had any reasonable prospect of success. The adjudicator dismissed the application, stating that even if all the facts alleged by the applicant were accepted as true, there was no evidence beyond his own suspicions that he was being treated differently based on Code grounds.
-
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
-
-Node Text:
-[6] The test that is applied at the summary hearing stage is whether an Application 
-has no reasonable prospect of success. At this stage, the Tribunal is not determining 
-whether the applicant is telling the truth or assessing the impact of the treatment he 
-experienced. The test of no reasonable prospect of success is determined by assuming 2023 HRTO 1081 (CanLII)  
- 4 the applicant’s version of events is true unless there is some clear evidenceto the 
-contrary or the evidence is not disputed by the applicant. 
-[7] However, and significantly, accepting the facts alleged by the applicant does not 
-include accepting the applicant’s assumptions about why he was treated unfairly. The 
-purpose of the summary hearing is to determine whether the applicant can point to any 
-information which tends to support his belief that he has experienced discrimination under 
-the Code. The question that the Tribunal must decide at a summary hearing is whether 
-there is likely to be any evidence, or any evidence that may be reasonably available to 
-the applicant to connect the unfair treatment allegedly experienced by the applicant with 
-theCode’s protections. 
-[8] As the Tribunal indicated in Forde v. Elementary Teachers’ Federation of Ontario, 
-2011 HRTO 1389 (“Forde”), for an Application to continue in the Tribunal’s process 
-following a summary hearing, there must be a basis beyond mere speculation and 
-accusations to believe that an applicant could show a breach of the Code. 
-[9] Having set out the basic framework for determining whether an Application should 
-be dismissed because it has no reasonable prospect of success, I now turn to the facts 
-of this particular case. 
-FACTUAL BACKGROUND 
-[10] The applicant worked as a court reporter with the Ministry of the Attorney General 
-at the Brampton Courthouse located at 7755 Hurontario Street in Brampton, Ontario. 
-There are 52 courtrooms each with a court reporter who are required to come into the 
-courtroom 30 minutes before the start of the scheduled proceeding to ensure the 
-equipment is properly set up.  
-[11] The standard practice of scheduling court reporters at the Brampton courthouse 
-begins at 8.30 a.m., 9.00 a.m. or 9.30 a.m. for court proceedings which start 30 minutes 
-later respectively. 2023 HRTO 1081 (CanLII)  
- 5 [12] The applicant states he needed to drop off his children at school for 9.20 a.m. and 
-had an informal arrangement for the 2016-2017 school year to start work at 9.30 a.m. for 
-a 10 a.m. court proceeding.  
-[13] In September/October 2017, the applicant alleges he was asked questions about 
-this arrangement by management and directed to submit a formal request for 
-accommodation. The applicant’s requestfor accommodation was denied in February 
-2018, following a meeting with management and scheduled for shifts beginning at 9.30 
-a.m. for four weeks in order to make alternative arrangements but thereafter no guarantee 
-was given that every shift would start at 9.30 a.m. for a court starting time of 10.00 a.m... 
-[14] The applicant alleges that he was scheduled for 9.00 a m on March 14,2018 but 
-did not report to work and on March 29,2018, reported late and did not work that day. 
-[15]  The applicant’s position is essentially that the respondent’s conductevinced an 
-intention to use constructive dismissal as a way to get him to accept the scheduling 
-changes or leave their employment which occurred on March 29, 2018. 
-FINDINGS   
-[16] The applicant clearly disagrees with the treatment by the respondent involving the 
-allegations about the level of support given and the loss of his employment by constructive 
-dismissal. However, the applicant has not pointed to any evidence of any link between 
-the respondent and the alleged unfair treatment and a Code ground. 
-[17] The applicant believes he had been unfairly treated and for the applicant this was 
-an issue. However, there is no evidence the applicant has or can point to that the 
-applicant’sCode ground was a factor in the actions of the respondent.
-
-Metadata:
-title: Hunter
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What is the test applied at the summary hearing stage in the Human Rights Tribunal of Ontario, as described in the George v. AccertaClaim Servicorp Inc. case?
-2. What was the applicant's work arrangement and how did it change in the George v. AccertaClaim Servicorp Inc. case?
-3. What was the Tribunal's finding regarding the link between the respondent's alleged unfair treatment and a Code ground in the George v. AccertaClaim Servicorp Inc. case?
-
-Surrounding context:
-The context discusses the legal framework for summary hearings in the Human Rights Tribunal of Ontario, as applied in the George v. AccertaClaim Servicorp Inc. case. It explains that the Tribunal must determine whether the applicant's claim has a reasonable prospect of success, assuming the applicant's version of events is true unless there is clear evidence to the contrary. The Tribunal does not accept the applicant's assumptions about why they were treated unfairly, but rather looks for evidence supporting the applicant's belief of experiencing discrimination under the Code. The context also provides details about the applicant's work arrangement and the changes that led to the alleged unfair treatment. The Tribunal found no evidence linking the respondent's alleged unfair treatment to a Code ground.
-
-separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
-
-Node Text:
-[15]  The applicant’s position is essentially that the respondent’s conductevinced an 
-intention to use constructive dismissal as a way to get him to accept the scheduling 
-changes or leave their employment which occurred on March 29, 2018. 
-FINDINGS   
-[16] The applicant clearly disagrees with the treatment by the respondent involving the 
-allegations about the level of support given and the loss of his employment by constructive 
-dismissal. However, the applicant has not pointed to any evidence of any link between 
-the respondent and the alleged unfair treatment and a Code ground. 
-[17] The applicant believes he had been unfairly treated and for the applicant this was 
-an issue. However, there is no evidence the applicant has or can point to that the 
-applicant’sCode ground was a factor in the actions of the respondent. 
-[18] Despite being given the opportunity during the summary hearing to inform the 
-Tribunal of evidence in his possession or that may be reasonably available at the merits 
-hearing, the applicant could not point to any evidence to make the connection between 2023 HRTO 1081 (CanLII)  
- 6 the alleged lack of support and the loss of employment with the respondent and hisCode-
-enumerated ground. 
-[19] The Tribunal” does not have jurisdiction over general allegations of unfairness 
-unrelated to the Code”: Hay v. Ontario (Human Rights Tribunal), 2014 ONSC 2858: Bello 
-v. Toronto Transit Commission, 2014 ONSC 5535. To fall within the Tribunal’s jurisdiction, 
-“an Application must provide some factual basis beyond a bald assertion which link’s their
-ground(s) to the respondent’s actions and explains why they think that these actions are 
-discriminatory in nature “: Hay, at para. 8. 
-[20] In Mehedi v. Mondalez Bakery,2023 ONSC 1737, the Divisional Court decided the 
-Tribunal’s decision to dismiss the Application was reasonable and citedHay and Xia v. 
-Board of Governors of Lakehead University, 2020 ONSC 6150 (Div. Ct.), which upheld 
-the Tribunal’s dismissal of anApplication for lack of jurisdiction on the basis that the 
-applicant failed to establisha basis “beyond mere speculation and accusations” that the
-respondent’s conduct was discriminatorily linked to an enumerated ground. 
-[21] As noted above, for an Application to advance to a full hearing on the merits, an 
-applicant must be able to point to some evidence beyond his own suspicions, that could 
-make out a link to theCode. The Tribunal has repeatedly said that an applicant’sbelief, 
-no matter how strongly held, is not evidence upon which the Tribunal might find that 
-discrimination has occurred. See for example Leong v. Ontario (Attorney General), 2014 
-HRTO 311.  
-[22] The applicant has not pointed to any evidence that he has or has reasonably 
-available to him that could establish a connection between the respondent’s actions and 
-his Code ground.  These allegations have no reasonable prospect of success. 2023 HRTO 1081 (CanLII)  
- 7 
-ORDER 
-[23] For the above reasons, the Application is dismissed. 
-Dated at Toronto this 21st day of July, 2023. 
- 
-__________________________________ 
-Joseph Tascona 
-Member  2023 HRTO 1081 (CanLII)
-
-Metadata:
-title: Hunter
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What was the applicant's position in the George v. AccertaClaim Servicorp Inc. case before the Human Rights Tribunal of Ontario?
-2. What was the Tribunal's decision in the George v. AccertaClaim Servicorp Inc. case and what were the reasons given for this decision?
-3. What precedent cases were cited in the Tribunal's decision in the George v. AccertaClaim Servicorp Inc. case? 
-
-Surrounding context: The context discusses a case before the Human Rights Tribunal of Ontario where the applicant alleges employment discrimination by AccertaClaim Servicorp Inc. The applicant believes he was constructively dismissed as a way to force him to accept scheduling changes or leave his employment. However, the Tribunal found that the applicant failed to provide any evidence linking the alleged unfair treatment to a Code ground, which is necessary for the Tribunal to have jurisdiction over the case. The Tribunal cited several precedent cases to support their decision to dismiss the application.
+questions_this_excerpt_can_answer: 1. What was the outcome of the applicant's claim regarding equal treatment in employment under the Code?
+2. Who signed the document dismissing the application?
+3. On what date was the application dismissed?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -843,12 +563,9 @@ with the Directed Patrol Assignment.
 
 Metadata:
 title: Phipps
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What is the racial identity of the applicant, Ronald Phipps, in the case against the Toronto Police Services Board?
-2. On what grounds did Ronald Phipps allege that the respondent, Michael Shaw, discriminated against him?
-3. What was the final decision of the adjudicator, Kaye Joachim, regarding the alleged discrimination by Michael Shaw against Ronald Phipps on March 9, 2005?
-
-Context Summary: The context is about a case of alleged racial discrimination brought before the Human Rights Tribunal of Ontario by Ronald Phipps against the Toronto Police Services Board, Michael Shaw, and William Blair. Phipps, who identifies as African Canadian, alleges that Shaw, a police constable, discriminated against him on the basis of race and colour when he stopped and questioned him while he was working as a relief letter carrier for Canada Post in an affluent neighbourhood in Toronto. The adjudicator, Kaye Joachim, found that Shaw did discriminate against Phipps on the basis of colour.
+questions_this_excerpt_can_answer: 1. What were the specific allegations made by Ronald Phipps against Michael Shaw and the Toronto Police Services Board?
+2. What evidence was presented during the Case Resolution Conference that led to the finding of discrimination against Ronald Phipps?
+3. What was the recommended patrol assignment given to Michael Shaw and Diane Noto on the day of the incident involving Ronald Phipps?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -906,19 +623,9 @@ about the letter carriers in the area.
 
 Metadata:
 title: Phipps
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What was the Directed Patrol Assignment given to Constable Shaw and Diane Noto on the day they encountered the applicant?
-2. What was the unusual activity that Constable Shaw noticed about the applicant's behavior while delivering mail?
-3. What was the applicant's reaction and subsequent actions after he was stopped and questioned by the police officers? 
-
-Higher-level summaries:
-- The context describes an incident where a mail carrier, referred to as the applicant, was stopped and questioned by two police officers, Constable Shaw and Diane Noto, while he was on his delivery route. The officers were on a Directed Patrol Assignment due to reports of phone lines being cut in the area by suspects described as Male, White, and East European. The applicant, an African Canadian male, was deemed suspicious by the officers due to his behavior while delivering mail and was subsequently stopped and questioned.
-- Following the encounter, the applicant believed he was stopped due to his skin color and noted that a White male delivering water in the area was not questioned. He also asked White workers at three construction sites if they had been stopped by the police, to which they all responded negatively. The applicant also learned that the police had questioned another letter carrier, Bruce Finlay, about the letter carriers in the area.
-
-Additional questions based on the summaries:
-1. What were the descriptions of the suspects involved in the phone line cutting incidents that led to the Directed Patrol Assignment?
-2. How did the applicant's behavior while delivering mail differ from the usual, according to Constable Shaw?
-3. What actions did the applicant take to investigate if his encounter with the police was racially motivated?
+questions_this_excerpt_can_answer: 1. How did the police officers determine that the applicant was engaged in potentially unusual activity?
+2. Why did the police officers decide to stop and question the applicant?
+3. Did the police officers stop and question any other letter carriers in the area?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -983,10 +690,9 @@ assess whether it falls within the phenomenon of racial profiling.  In R. v. Bro
 
 Metadata:
 title: Phipps
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1) What are the principles that apply in cases where an allegation of racial discrimination has been raised according to the Human Rights Tribunal of Ontario?
-2) How does the Human Rights Tribunal of Ontario handle cases where there is no direct evidence of racial discrimination?
-3) What is the role of circumstantial evidence in cases of alleged racial discrimination according to the Human Rights Tribunal of Ontario?
+questions_this_excerpt_can_answer: 1. Did the applicant believe that the police officers stopped and questioned him because of his skin color?
+2. Did the applicant observe any instances where white individuals in the same area were not questioned by the police?
+3. What principles apply in cases where an allegation of racial discrimination has been raised?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1043,15 +749,9 @@ forth across the street in an unusual manner as soon as they turned the corner.
 
 Metadata:
 title: Phipps
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What were the unusual features that Constable Shaw testified influenced his actions towards the applicant in the George v. AccertaClaim Servicorp Inc. case?
-2. How did the court interpret Constable Shaw's reaction to the applicant not being the usual letter carrier in the George v. AccertaClaim Servicorp Inc. case?
-3. What was the conclusion of the Human Rights Tribunal of Ontario regarding the role of the applicant's skin color in Constable Shaw's actions in the George v. AccertaClaim Servicorp Inc. case?
-
-Contextual summaries:
-- The document discusses a case of alleged racial discrimination by a police officer, Constable Shaw, towards an African Canadian letter carrier. The officer's actions were scrutinized to determine if racial bias played a role.
-- Constable Shaw claimed that his actions were influenced by unusual features of the applicant's behavior, not his skin color. However, the court found that the applicant's skin color was likely a significant factor in the officer's actions.
-- The court also noted that racial profiling is a recognized issue in Canada, often operating on an unconscious level, and that seemingly neutral police behavior should be scrutinized for potential racial bias.
+questions_this_excerpt_can_answer: 1. How have Canadian courts acknowledged the existence of racial profiling by police and what factors do they consider when assessing whether police behavior falls within the phenomenon of racial profiling?
+2. What factors did Constable Shaw claim influenced his decision to surveil and question the applicant, and how does the chronology of events suggest that the applicant's skin color played a role in his actions?
+3. How does the testimony of Constables Shaw and Noto regarding the applicant's skin color and their actions align with the understanding of racial discrimination as a product of learned attitudes and biases that often operate on an unconscious level?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1108,15 +808,9 @@ testified Ms. Katz advised her that the applicant said he had misdelivered somet
 
 Metadata:
 title: Phipps
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What was the reason given by Constable Shaw for finding the applicant's behavior suspicious, and how did the tribunal respond to this reasoning?
-2. How did the tribunal interpret the applicant's behavior of not stopping at every house, and what evidence was used to support this interpretation?
-3. What was the tribunal's conclusion regarding the reason Constable Shaw decided to place the applicant under surveillance, and what factors reinforced this conclusion? 
-
-Contextual summaries:
-- The tribunal is analyzing the behavior of Constable Shaw towards an African Canadian male letter carrier, who Shaw found suspicious. The tribunal finds Shaw's reasoning, such as the carrier not stopping at every house or crossing the street, to be unconvincing.
-- The tribunal concludes that Shaw's decision to place the carrier under surveillance was not due to unusual behavior, but rather because he was an African Canadian male in an affluent neighborhood. This conclusion is reinforced by Shaw's continued actions and the fact that the Directed Patrol Assignment was for suspicious persons with entirely different characteristics. 
-- The tribunal also discusses an instance where the carrier knocked on a resident's door and spoke to a woman but did not deliver any mail or flyers, which Shaw found suspicious. However, the tribunal finds this behavior to be normal for a letter carrier who may have misdelivered mail.
+questions_this_excerpt_can_answer: 1. What specific factors led Constable Shaw to place the applicant under surveillance?
+2. How did Constable Shaw's actions and observations differ when encountering an unfamiliar white male delivering water in the area compared to the applicant?
+3. Why did Constable Shaw find it suspicious that the applicant knocked on a resident's door and spoke to a woman without delivering any mail or flyers?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1176,12 +870,9 @@ private property.
 
 Metadata:
 title: Phipps
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. According to the document, what was the reason Constable Shaw found the applicant's behavior suspicious and how did this lead to a conclusion of discrimination?
-2. What was the nature of the interaction between the applicant and the officers as described in the document, and how did this interaction contribute to the conclusion of discrimination?
-3. How did the testimony of Ms. Katz and Mr. Finlay contribute to the findings of the Human Rights Tribunal of Ontario in the George v. AccertaClaim Servicorp Inc. case? 
-
-Surrounding context: The document is an analysis of an employment discrimination case in the Human Rights Tribunal of Ontario. The case involves an applicant who was scrutinized by Constable Shaw for allegedly suspicious behavior while delivering mail. The document details the events leading up to the scrutiny, the interactions between the applicant and the officers, and the testimonies of other individuals involved. The document concludes that the applicant's color was a factor in the scrutiny and subsequent actions of Constable Shaw.
+questions_this_excerpt_can_answer: 1. How did Constable Shaw's suspicion of the applicant's behavior contribute to the breach of the applicant's right to equal treatment without discrimination on the basis of color?
+2. What were the specific actions taken by Constable Shaw that indicated his continued scrutiny of the applicant, despite having no evidence of wrongdoing?
+3. How did the manner and content of the conversations between the applicant and the officers contribute to the overall discriminatory treatment experienced by the applicant?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1224,17 +915,9 @@ Alternate Chair 2009 HRTO 877 (CanLII)
 
 Metadata:
 title: Phipps
-document_title: Analysis of the George v. AccertaClaim Servicorp Inc. Employment Discrimination Case in the Human Rights Tribunal of Ontario
-questions_this_excerpt_can_answer: 1. What was the applicant's claim about the manner in which the police officers approached him and asked for his identification?
-2. How did the police officers refute the applicant's claims about their behavior during the incident?
-3. What was the conclusion of the tribunal regarding the applicant's claims of being treated disrespectfully and intimidated by the police officers? 
-
-Surrounding context: This context is from a hearing in the Human Rights Tribunal of Ontario regarding an employment discrimination case, George v. AccertaClaim Servicorp Inc. The applicant alleges that he was treated disrespectfully and intimidated by two police officers, Constable Shaw and Constable Noto, during an incident where they stopped him while he was delivering mail. The officers deny the applicant's claims and provide their own account of the incident. The tribunal accepts that the applicant felt intimidated but is not convinced that the officers acted inappropriately. 
-
-Higher-level questions:
-1. How did the tribunal interpret the applicant's feelings of intimidation during his encounter with the police officers?
-2. What was the tribunal's assessment of Constable Shaw's behavior during the incident?
-3. Why did the tribunal find it unnecessary to make any findings about the second meeting between the applicant and the officers?
+questions_this_excerpt_can_answer: 1. How did the applicant perceive the behavior of the police officers during the encounter?
+2. What were the officers' reasons for stopping the applicant and requesting his identification?
+3. Did the officers follow the applicant in their police car while conducting the police check?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
