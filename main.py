@@ -43,7 +43,7 @@ We convert each chunk into a TextNode object, a low-level data abstraction in Ll
 that stores content but also allows defining metadata + relationships with other Nodes.
 
 We inject metadata from the document into each node.
-This essentially replicates logic in our SimpleNodePraser
+This essentially replicates logic in our SimpleNodeParser
 '''
 
 from llama_index.schema import TextNode
@@ -129,36 +129,71 @@ vector_store.add(nodes)
 # but are useful for inspecting which top k most relevant doc nodes are returned from a query
 # can comment out once we see which top k nodes are returned
 
-query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I work as a post man and I deliver mail.
-I was recently stopped and frisked by the police because I'm black. What is the name of the case brought before the tribunal that's similar to my situation? Summarize the case for me'''
-query_embedding = embed_model.get_query_embedding(query_str)
-
-# query the vector store with dense search.
-from llama_index.vector_stores.types import (
-VectorStoreQuery,
-)
-
-from llama_index.vector_stores.types import MetadataFilters
-filters = MetadataFilters.from_dict({"source": "24"})
-
-query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5, filters=filters)
-
-from utils.to_file import write_query_results_to_file
-write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
-
-# from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
-
-
-# from llama_index import VectorStoreIndex
-# index = VectorStoreIndex.from_vector_store(vector_store)
-
-# from llama_index.storage import StorageContext
-# index.storage_context.persist(persist_dir="storage")
-
-
-
-# query_engine = index.as_query_engine()
 # query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I work as a post man and I deliver mail.
 # I was recently stopped and frisked by the police because I'm black. What is the name of the case brought before the tribunal that's similar to my situation? Summarize the case for me'''
-# response = query_engine.query(query_str)
-# print(str(response))
+# query_embedding = embed_model.get_query_embedding(query_str)
+
+# # query the vector store with dense search.
+# from llama_index.vector_stores.types import (
+# VectorStoreQuery,
+# )
+
+# from llama_index.vector_stores.types import MetadataFilters
+# filters = MetadataFilters.from_dict({"source": "24"})
+
+# query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5, filters=filters)
+
+# from utils.to_file import write_query_results_to_file
+# write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
+
+from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
+
+
+from llama_index import VectorStoreIndex
+index = VectorStoreIndex.from_vector_store(vector_store)
+
+from llama_index.storage import StorageContext
+index.storage_context.persist(persist_dir="storage")
+
+retriever = index.as_retriever()
+
+
+
+from llama_index.llms import OpenAI
+from llama_index.prompts import PromptTemplate
+
+llm = OpenAI(model="text-davinci-003")
+
+qa_prompt = PromptTemplate(
+    """\
+Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: {query_str}
+Answer: \
+"""
+)
+
+query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I work as a post man and I deliver mail.
+I was recently stopped and frisked by the police because I'm black. What is the name of the case brought before the tribunal that's similar to my situation? Summarize the case for me'''
+
+retrieved_nodes = retriever.retrieve(query_str)
+
+# Open the file in write mode, or create it if it doesn't exist
+with open('retrieved_nodes.txt', 'w') as file:
+    # Convert the retrieved_nodes object to string and write it to the file
+    file.write(str(retrieved_nodes))
+
+def generate_response(retrieved_nodes, query_str, qa_prompt, llm):
+    context_str = "\n\n".join([r.get_content() for r in retrieved_nodes])
+    fmt_qa_prompt = qa_prompt.format(context_str=context_str, query_str=query_str)
+    response = llm.complete(fmt_qa_prompt)
+    return str(response), fmt_qa_prompt
+
+response, fmt_qa_prompt = generate_response(retrieved_nodes, query_str, qa_prompt, llm)
+
+print(f"*****Response******:\n{response}\n\n")
+
+# print(f"*****Formatted Prompt*****:\n{fmt_qa_prompt}\n\n")
