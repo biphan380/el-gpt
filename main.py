@@ -122,23 +122,25 @@ vector_store = VectorStore3B()
 # load nodes created from the cases into the vector stores
 vector_store.add(nodes)
 
+# TODO: Need to wrap below as a utility function for seeing which top_k nodes get retrieved. 
+
 # The code below doesn't seem to be affecting the results that the index is returning below, 
 # but are useful for inspecting which top k most relevant doc nodes are returned from a query
 # can comment out once we see which top k nodes are returned
 
-query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
-I'm a court reporter at the Brampton Courthouse who was wrongfully dismissed. has there been a case 
-brought before the tribunal that's similar to my scenario? If so, give me the name of the case and summarize the case for me.'''
-query_embedding = embed_model.get_query_embedding(query_str)
+# query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
+# I'm a court reporter at the Brampton Courthouse who was wrongfully dismissed. has there been a case 
+# brought before the tribunal that's similar to my scenario? If so, give me the name of the case and summarize the case for me.'''
+# query_embedding = embed_model.get_query_embedding(query_str)
 
-# query the vector store with dense search.
-from llama_index.vector_stores.types import (
-VectorStoreQuery,
-)
-query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5)
+# # query the vector store with dense search.
+# from llama_index.vector_stores.types import (
+# VectorStoreQuery,
+# )
+# query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5)
 
-from utils.to_file import write_query_results_to_file
-write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
+# from utils.to_file import write_query_results_to_file
+# write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
 
 from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
 
@@ -149,7 +151,8 @@ will not all be from the same case, i.e., the most relevant case. This means
 the llm's response might hallucinate and give the case name of node with the 2nd or 3rd highest
 top_k score, which could be the wrong case
 
-When we refine 
+When we use a qa_prompt and set the top_k to 1, i.e., only give the most relevant node
+as context for the query string, the results are quite good.
 '''
 
 
