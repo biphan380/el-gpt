@@ -1,7 +1,4 @@
-from llama_index import VectorStoreIndex, download_loader
-
-# SimpleWebPageReader = download_loader("SimpleWebPageReader")
-from llama_index import SimpleDirectoryReader
+from llama_index import VectorStoreIndex
 from utils.new_reader import CustomDirectoryReader
 
 reader = CustomDirectoryReader(
@@ -68,15 +65,15 @@ write_nodes_to_file(nodes)
 from llama_index.node_parser.extractors import (
     MetadataExtractor,
     QuestionsAnsweredExtractor,
-    TitleExtractor,
+    # TitleExtractor, NOTE: title extractor is currently broken
 )
 from llama_index.llms import OpenAI
 
-llm = OpenAI(model="gpt-3.5-turbo")
+llm = OpenAI(model="gpt-4")
 
 metadata_extractor = MetadataExtractor(
     extractors=[
-        # TitleExtractor(nodes=5, llm=llm),
+        # TitleExtractor(nodes=5, llm=llm), NOTE: title extractor is currently broken
         QuestionsAnsweredExtractor(questions=3, llm=llm),
     ],
     in_place=False,
@@ -129,40 +126,34 @@ vector_store.add(nodes)
 # but are useful for inspecting which top k most relevant doc nodes are returned from a query
 # can comment out once we see which top k nodes are returned
 
-# query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I work as a post man and I deliver mail.
-# I was recently stopped and frisked by the police because I'm black. What is the name of the case brought before the tribunal that's similar to my situation? Summarize the case for me'''
-# query_embedding = embed_model.get_query_embedding(query_str)
+query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
+I'm a court reporter at the Brampton Courthouse who was wrongfully dismissed. has there been a case 
+brought before the tribunal that's similar to my scenario? If so, give me the name of the case and summarize the case for me.'''
+query_embedding = embed_model.get_query_embedding(query_str)
 
-# # query the vector store with dense search.
-# from llama_index.vector_stores.types import (
-# VectorStoreQuery,
-# )
+# query the vector store with dense search.
+from llama_index.vector_stores.types import (
+VectorStoreQuery,
+)
+query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5)
 
-# from llama_index.vector_stores.types import MetadataFilters
-# filters = MetadataFilters.from_dict({"source": "24"})
-
-# query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5, filters=filters)
-
-# from utils.to_file import write_query_results_to_file
-# write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
+from utils.to_file import write_query_results_to_file
+write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
 
 from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
 
 
-from llama_index import VectorStoreIndex
-index = VectorStoreIndex.from_vector_store(vector_store)
+'''
+NOTE: if top_k is set to more than 1, there's a chance the retrieved doc nodes
+will not all be from the same case, i.e., the most relevant case. This means
+the llm's response might hallucinate and give the case name of node with the 2nd or 3rd highest
+top_k score, which could be the wrong case
 
-from llama_index.storage import StorageContext
-index.storage_context.persist(persist_dir="storage")
-
-retriever = index.as_retriever()
+When we refine 
+'''
 
 
-
-from llama_index.llms import OpenAI
 from llama_index.prompts import PromptTemplate
-
-llm = OpenAI(model="text-davinci-003")
 
 qa_prompt = PromptTemplate(
     """\
@@ -176,15 +167,14 @@ Answer: \
 """
 )
 
-query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. I work as a post man and I deliver mail.
-I was recently stopped and frisked by the police because I'm black. What is the name of the case brought before the tribunal that's similar to my situation? Summarize the case for me'''
+query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
+I'm a court reporter at the Brampton Courthouse who was wrongfully dismissed. has there been a case 
+brought before the tribunal that's similar to my scenario? If so, give me the name of the case and summarize the case for me.'''
 
+from llama_index import VectorStoreIndex
+index = VectorStoreIndex.from_vector_store(vector_store)
+retriever = index.as_retriever(similarity_top_k=1)
 retrieved_nodes = retriever.retrieve(query_str)
-
-# Open the file in write mode, or create it if it doesn't exist
-with open('retrieved_nodes.txt', 'w') as file:
-    # Convert the retrieved_nodes object to string and write it to the file
-    file.write(str(retrieved_nodes))
 
 def generate_response(retrieved_nodes, query_str, qa_prompt, llm):
     context_str = "\n\n".join([r.get_content() for r in retrieved_nodes])
@@ -193,7 +183,14 @@ def generate_response(retrieved_nodes, query_str, qa_prompt, llm):
     return str(response), fmt_qa_prompt
 
 response, fmt_qa_prompt = generate_response(retrieved_nodes, query_str, qa_prompt, llm)
+print(f"Response (k=1): {response}")
 
-print(f"*****Response******:\n{response}\n\n")
+from llama_index.storage import StorageContext
+index.storage_context.persist(persist_dir="storage")
 
-# print(f"*****Formatted Prompt*****:\n{fmt_qa_prompt}\n\n")
+
+
+# query_engine = index.as_query_engine()
+
+# response = query_engine.query(query_str)
+# print(str(response))

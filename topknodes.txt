@@ -1,0 +1,447 @@
+
+----------------
+[Node ID 7cbc23ce-c748-40f3-9113-838e3c5c889e] Similarity: 0.8345296810813778
+
+[Excerpt from document]
+title: Hunter
+questions_this_excerpt_can_answer: 1. What is the outcome of the summary hearing held on April 19, 2018, regarding the discrimination allegations made by Christopher Hunter against the Ministry of the Attorney General in Ontario?
+2. What is the basis for the dismissal of Christopher Hunter's Application alleging discrimination on the basis of family status in employment?
+3. How does the summary hearing process work in the Human Rights Tribunal of Ontario, and what factors are considered in determining whether an Application has a reasonable prospect of success?
+Excerpt:
+-----
+HUMAN RIGHTS TRIBUNAL OF ONTARIO 
+ 
+______________________________________________________________________ 
+B E T W E E N: 
+Christopher Hunter 
+ 
+Applicant 
+-and- 
+ 
+ 
+His Majesty the King in right of Ontario as represented by the Ministry of the 
+Attorney General 
+ 
+Respondent 
+ 
+______________________________________________________________________ 
+ 
+DECISION  
+______________________________________________________________________ 
+ 
+Adjudicator:  Joseph Tascona  
+ 
+Date: July 21, 2023  
+ 
+File Number: 2018-32179-I  
+    
+Citation: 2023 HRTO 1081 
+  
+Indexed as:  Hunter v. HMKRO (Ministry of the Attorney General) 
+______________________________________________________________________ 
+  2023 HRTO 1081 (CanLII)  
+ 2     
+    
+APPEARANCES  
+ 
+ 
+ 
+ )   
+Christopher Hunter, Applicant ) )   Self-represented 
+ )   
+    
+    
+ )   
+His Majesty the King in right of Ontario as 
+represented by the Ministry of the Attorney 
+General, Respondent ) 
+) 
+)  Katherine Ayers, Counsel 
+ )   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  2023 HRTO 1081 (CanLII)  
+ 3 INTRODUCTION 
+[1] On April 19, 2018, the applicant filed an Application alleging the respondent 
+discriminated against him with respect to employment on the basis of family status 
+contrary to the Human Rights Code, R.S.O. 1990 c. H. 19, as amended (the “Code”).  
+[2]  By Case Assessment Direction (“CAD”) dated March 8, 2023, the Tribunal 
+directed that a summary hearing be held to address whether the Application should be 
+dismissed on the basis that there is no reasonable prospect that it will succeed pursuant 
+to Rule 19A of the Tribunal’s Rules of Procedure.  
+[3] As explained more fully below, I find that the Application must be dismissed on the 
+basis that it has no reasonable prospect of success under the Code. Even if I accept all 
+the facts alleged by the applicant as true, the applicant has not been able to point to any 
+evidence beyond his own suspicions that the respondent was treating him differently 
+based on Code grounds. 
+SUMMARY HEARING PROCESS 
+[4] The summary hearing process is described in Rule 19A of the Tribunal’s Rules of 
+Procedure (‘Rules”) as well as the Tribunal’s Practice Direction on Summary Hearing
+Requests. The purpose of a summary hearing is to consider whether an Application 
+should be dismissed in whole or in part because there is no reasonable prospect that the 
+Application will succeed. 
+[5]  The Tribunal cannot address allegations of unfairness that are unrelated to the 
+Code. The Tribunal’s jurisdiction is limited to claims of discrimination that are linked to the 
+protections set out in the Code. 
+[6] The test that is applied at the summary hearing stage is whether an Application 
+has no reasonable prospect of success. At this stage, the Tribunal is not determining 
+whether the applicant is telling the truth or assessing the impact of the treatment he 
+experienced. The test of no reasonable prospect of success is determined by assuming 2023 HRTO 1081 (CanLII)  
+ 4 the applicant’s version of events is true unless there is some clear evidenceto the 
+contrary or the evidence is not disputed by the applicant. 
+[7] However, and significantly, accepting the facts alleged by the applicant does not 
+include accepting the applicant’s assumptions about why he was treated unfairly. The 
+purpose of the summary hearing is to determine whether the applicant can point to any 
+information which tends to support his belief that he has experienced discrimination under 
+the Code.
+-----
+----------------
+
+
+----------------
+[Node ID 102260cb-348d-4315-9495-a1a1c388d6a1] Similarity: 0.8218786616839276
+
+[Excerpt from document]
+title: Mohammed
+questions_this_excerpt_can_answer: 1. What specific allegations of discrimination does the applicant make against the respondent in this case?
+2. How does the respondent argue against the allegations of discrimination made by the applicant?
+3. What evidence was presented by both parties during the merit hearing to support their respective claims?
+Excerpt:
+-----
+HUMAN RIGHTS TRIBUNAL OF ONTARIO  
+ 
+______________________________________________________________________  
+B E T W E E N:  
+Riaz Moha mmed 
+Applicant  
+-and- 
+ 
+C. & E. Fein (Canada) Ltd. Operating as  
+Fein Canadian Power Tool Company  
+Respondent  
+______________________________________________________________________  
+ 
+DECISION  
+______________________________________________________________________  
+ 
+Adjudicator:   Marinus Lamers   
+ 
+Date:    March 17, 2023  
+ 
+File Number:  2018 -34153 -I  
+ 
+Citation:   2023 HRTO  376 
+ 
+Indexed as:  Mohammed v. C E Fein (Canada) Ltd  
+______________________________________________________________________  
+  
+2023 HRTO 376 (CanLII)  
+ 2 APPEARANCES  
+ 
+ 
+ 
+ )   
+Riaz Moham med, Applicant  ) 
+)  Daniel English , Paralegal  
+ )   
+    
+ )   
+C. E. Fein (Canada) Ltd. Operating as 
+Fein Canadian Power Tool Company , 
+Respondent  ) 
+) 
+)  Preston Tu , Counsel  
+ )   
+    
+ 
+  
+2023 HRTO 376 (CanLII)  
+ 3 INTRODUCTION  
+[1] This Application alleges discrimination with respect to employment because of 
+disability, family status and reprisal contrary to the Human Rights Code , R.S.O. 1990, c. 
+H.19, as amended (the “ Code ”). 
+[2] The applicant alleges that the respondent  failed to comply  with its duty to 
+accommodate the applicant’s disabilit y subsequent to  a motor vehicle accident which 
+occurred on November 27, 2017  and further that the respondent discriminated against 
+the applicant on the basis of disability, family status and reprisal  in relation to the 
+termination of the applicant’s employment on January 19, 2018.  
+[3] The respondent denies any discrimination in violation of the Code . 
+[4] For the reasons provided below and based on the evidence presented at the merit s 
+hearing and the written s ubmissions of the parties, I conclude that the applicant has not 
+proven, on a balance of probabilities, that the respondent’s conduct amounts to 
+discrimination in violation of the Code.  Accordingly,  the Application is dismissed.  
+PROCEDURAL BACKGROUN D 
+[5] In the Application , the applicant initially sought, among other things, a declaration 
+that the applicant’s employment with the respondent was wrongfully terminated, together 
+with damages for wrongful dismissal.   
+[6] At noted in the Case Assessment Direction dated September 8, 2022, i n the face 
+of the respondent’s  Form 10  Request for an Order During Proceeding s for a dismissal of 
+all claims based on the wrongful dismissal allegations , the applicant agreed to withdraw 
+those claims.  Accordingly,  and in accordance with the jurisdiction of this Tribunal, this 
+Application proceeded solely with regards to any breach of the Code  on the grounds of 
+disability, family status and reprisal in the social area of employme nt.  
+[7] A merit s hearing in this matter was held on December 15, 2022.  
+2023 HRTO 376 (CanLII)  
+ 4 [8] The applicant called two witnesses, namely  himself and Rachel Joanne Persad -
+Moham med, his spouse.   
+[9] The respondent called five witnesses, namely : Heino Cla essens, former CEO  
+(“Claessens ”): JF Bosse, former National Sales Manager and current General Manager : 
+Suzanne McGrattan, Controller  (“McGrattan ”); Richard Carbis, Service Manager ; and 
+Sharon Pateman, Order Desk Manager .  
+[10] An Agreed Statement of Facts and Joint Book of Documents  were filed by the 
+parties. Multiple  exhibits were filed by the parties, all on consent.
+-----
+----------------
+
+
+----------------
+[Node ID 023dc534-6016-41ac-906f-7f169eded309] Similarity: 0.8171202486883132
+
+[Excerpt from document]
+title: Hunter
+questions_this_excerpt_can_answer: 1. What evidence did the applicant fail to provide during the summary hearing that could establish a connection between the respondent's actions and the applicant's Code ground?
+2. Why did the Tribunal dismiss the application and conclude that the allegations had no reasonable prospect of success?
+3. How does the applicant's belief, no matter how strongly held, differ from actual evidence in determining whether discrimination has occurred in this case?
+Excerpt:
+-----
+[15]  The applicant’s position is essentially that the respondent’s conductevinced an 
+intention to use constructive dismissal as a way to get him to accept the scheduling 
+changes or leave their employment which occurred on March 29, 2018. 
+FINDINGS   
+[16] The applicant clearly disagrees with the treatment by the respondent involving the 
+allegations about the level of support given and the loss of his employment by constructive 
+dismissal. However, the applicant has not pointed to any evidence of any link between 
+the respondent and the alleged unfair treatment and a Code ground. 
+[17] The applicant believes he had been unfairly treated and for the applicant this was 
+an issue. However, there is no evidence the applicant has or can point to that the 
+applicant’sCode ground was a factor in the actions of the respondent. 
+[18] Despite being given the opportunity during the summary hearing to inform the 
+Tribunal of evidence in his possession or that may be reasonably available at the merits 
+hearing, the applicant could not point to any evidence to make the connection between 2023 HRTO 1081 (CanLII)  
+ 6 the alleged lack of support and the loss of employment with the respondent and hisCode-
+enumerated ground. 
+[19] The Tribunal” does not have jurisdiction over general allegations of unfairness 
+unrelated to the Code”: Hay v. Ontario (Human Rights Tribunal), 2014 ONSC 2858: Bello 
+v. Toronto Transit Commission, 2014 ONSC 5535. To fall within the Tribunal’s jurisdiction, 
+“an Application must provide some factual basis beyond a bald assertion which link’s their
+ground(s) to the respondent’s actions and explains why they think that these actions are 
+discriminatory in nature “: Hay, at para. 8. 
+[20] In Mehedi v. Mondalez Bakery,2023 ONSC 1737, the Divisional Court decided the 
+Tribunal’s decision to dismiss the Application was reasonable and citedHay and Xia v. 
+Board of Governors of Lakehead University, 2020 ONSC 6150 (Div. Ct.), which upheld 
+the Tribunal’s dismissal of anApplication for lack of jurisdiction on the basis that the 
+applicant failed to establisha basis “beyond mere speculation and accusations” that the
+respondent’s conduct was discriminatorily linked to an enumerated ground. 
+[21] As noted above, for an Application to advance to a full hearing on the merits, an 
+applicant must be able to point to some evidence beyond his own suspicions, that could 
+make out a link to theCode. The Tribunal has repeatedly said that an applicant’sbelief, 
+no matter how strongly held, is not evidence upon which the Tribunal might find that 
+discrimination has occurred. See for example Leong v. Ontario (Attorney General), 2014 
+HRTO 311.  
+[22] The applicant has not pointed to any evidence that he has or has reasonably 
+available to him that could establish a connection between the respondent’s actions and 
+his Code ground.  These allegations have no reasonable prospect of success. 2023 HRTO 1081 (CanLII)  
+ 7 
+ORDER 
+[23] For the above reasons, the Application is dismissed. 
+Dated at Toronto this 21st day of July, 2023. 
+ 
+__________________________________ 
+Joseph Tascona 
+Member  2023 HRTO 1081 (CanLII)
+-----
+----------------
+
+
+----------------
+[Node ID 43d9232b-4c88-4221-9121-50f116c3934f] Similarity: 0.8160867383500803
+
+[Excerpt from document]
+title: George
+questions_this_excerpt_can_answer: 1. What specific grounds of discrimination were alleged by Betty George in her application to the Human Rights Tribunal of Ontario?
+2. What reasons did the respondent, AccertaClaim Servicorp Inc., provide for denying Betty George the opportunity to compete for a certain position within the company?
+3. Why does the respondent argue that placing Betty George in the job in question would have amounted to a demotion for her?
+Excerpt:
+-----
+HUMAN RIGHTS TRIBUNAL OF ONTARIO  
+ 
+______________________________________________________________________  
+B E T W E E N:  
+Betty George  
+Applicant  
+-and- 
+ 
+AccertaClaim Servicorp Inc.  
+Respondent  
+______________________________________________________________________  
+ 
+DECISION  
+______________________________________________________________________  
+ 
+Adjudicator:   Jay Sengupta   
+ 
+Date:  January 2 2, 2016   
+ 
+File Number:  2012 -13211 -I  
+    
+Citation:  2016  HRTO  107 
+  
+Indexed as:   George  v. AccertaClaim Servicorp Inc.  
+______________________________________________________________________  
+  
+2016 HRTO 107 (CanLII)  
+ 2 APPEARANCES  
+ 
+ 
+ 
+ )   
+Betty George , Applicant  )  Beth Symes , Counsel  
+ )   
+    
+    
+ )   
+AccertaClaim Servi corp Inc. , Respondent  )   Natalie C. MacDonald , Counsel  
+ )   
+  
+2016 HRTO 107 (CanLII)  
+ 3 INTRODUCTION  
+[1] This Application alleges discrimination with respect to  employment  because of 
+race, colour, ancestry, place of origin, ethnic origin, family status, marital status and age 
+contrary to the Human Rights Code , R.S.O. 1990, c. H.19, as amended (the “ Code ”). 
+Although all of the grounds enumerated above were identified in the original Application, 
+at the hearing , the applicant, through counsel, focussed on race, colour, ethnic origin 
+and age.   
+[2] Specifically, t he applicant  asserts that she was not offered, or given the 
+opportunity to compete for, a position that was given to a person who was  one of her 
+direct reports , for reasons relating to the Code grounds identified. She asserts that she 
+was, instead , left in the part of the company’s business that was being phased out.   
+[3] The applicant  argues that this position was one that would have put her on a path 
+to senior management within the r espondent organization and she was denied that 
+opportunity because of Code  grounds . It was given, instead, to someone who was less 
+experienced because the other candidate was younger and not a member of a 
+racialized group . The applicant argues that this is a case of “systemic discrimination”.  
+[4] The respondent denies discrimination, asserts that the applicant was a valued 
+employee  who rose within the ranks of their organization rapidly and  argues that placing 
+the applicant in the job in question would have amounted to a demotion  for the 
+applicant , with a commensurate removal of management responsibilities and decreases 
+in salary grade, amount and benefits .  
+[5] The respondent  points out that the applicant did not approach any member of the 
+senior management group about the job in question or indicate that she believed she 
+had been discriminated against until her exit interview by which time she had already 
+voluntarily  resigned her employment . The respondent  seeks dismissal of the 
+Application.  
+2016 HRTO 107 (CanLII)  
+ 4 [6] This Application was heard over four days in February and May, 2014.  For the 
+reasons that follow, this Application is dismissed.  
+THE LAW  
+[7] The relevant sections of the Code  are as follows:  
+5(1) Every person has a right to equal treatment with respect to 
+employment without discrimination because of race, ancestry, place of 
+origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, 
+gender identity, gender expression, age, record of  offences, marital status, 
+family status or disability.  
+(2) Every person who is an employee has a right to freedom from 
+harassment in the workplace by the employer or agent of the employer or 
+by another employee because of race, ancestry, place of origin,  colour, 
+ethnic origin, citizenship, creed, sexual orientation, gender identity, gender 
+expression, age, record of offences, marital status, family status or 
+disability.  
+9.
+-----
+----------------
+
+
+----------------
+[Node ID 91cf97ae-18a1-4a6b-b739-b6980f6c5b72] Similarity: 0.8134501120603972
+
+[Excerpt from document]
+title: Phipps
+questions_this_excerpt_can_answer: 1. What were the specific allegations made by Ronald Phipps against Michael Shaw and the Toronto Police Services Board?
+2. What evidence was presented during the Case Resolution Conference that led to the finding of discrimination against Ronald Phipps?
+3. What were the circumstances surrounding the incident on March 9, 2005, that led to the discrimination complaint?
+Excerpt:
+-----
+HUMAN RIGHTS TRIBUNAL OF ONTARIO 
+ 
+ 
+______________________________________________________________________ 
+B E T W E E N:
+ 
+Ronald Phipps 
+Applicant 
+-and-
+ 
+Toronto Police Services Board, 
+Michael Shaw and William Blair 
+Respondents 
+______________________________________________________________________ 
+CASE RESOLUTION CONFERENCE DECISION
+______________________________________________________________________ 
+Adjudicator:Kaye Joachim
+Date: June 18, 2009 
+File Number:T-0475-08
+Citation: 2009 HRTO 877 
+Indexed as:  Phipps v. Toronto Police Services Board 
+______________________________________________________________________ 
+ 
+ 2009 HRTO 877 (CanLII)  APPEARANCES BY 
+)
+Ronald Phipps, Applicant     ) On his own behalf 
+        )  
+       )  
+Toronto Police Services Board, Respondent  ) Andrea Denovan, Counsel 
+       )  
+       )  
+Michael Shaw and William Blair, Respondents ) Naomi E. Calla, Counsel 
+)2009 HRTO 877 (CanLII) INTRODUCTION 
+[1] This is the Decision with respect to an Application filed under s. 53(3) of the 
+Human Rights Code, R.S.O. 1990, c.H-19, as amended (the “Code”).  The complaint 
+which underlies the current Application was filed with the Ontario Human Rights 
+Commission on July 11, 2005 and abandoned upon the filing of the present Application 
+with the Tribunal on November 13, 2008. 
+[2] A Case Resolution Conference (“CRC”) was held on June 4, 2009 in accordance 
+with the expectation, expressed in theCodeand the Tribunal’s Rules, that section 53(3)
+applications proceed in a highly expeditious manner.  I heard from the applicant, the 
+respondent Michael Shaw, and the respondents’ witnesses Diane Noto, Bruce Finlay 
+and Hanna Katz (by telephone). 
+[3] The applicant, who self-identifies as African Canadian, alleges that the
+respondent Michael Shaw, a police constable, discriminated against him on the basis of 
+race and colour when he stopped and questioned the applicant on March 9, 2005.  The 
+other named respondents are the Toronto Police Services Board (“TPSB”) and William 
+Blair, Chief of Police. 
+[4] I find that Michael Shaw did discriminate against the applicant on March 9, 2005 
+in the provision of police services on the basis of colour, contrary to section 1 and 9 of 
+the Code.  
+[5] The parties agreed to bifurcate this proceeding. The issue of remedy and the
+liability of the TPSB and William Blair will be heard on the next day of hearing. 
+Chronology of Events 
+[6] The following events are not in dispute, except where I specifically note, by using 
+words such as alleged, or asserted, or otherwise indicate a contested point. 
+[7] On March 9, 2005, the applicant in his capacity of a relief letter carrier employed by 2009 HRTO 877 (CanLII) 2 Canada Post was delivering mail in the area of the Bridle Path, which is a well known
+affluent neighbourhood in Toronto.  It was his second day delivering mail on that route. 
+He was wearing the Canada Post coat, carrying a mail satchel, and delivering regular 
+mail and flyers.  He did not stop at every house as there was no mail for some houses 
+and other houses had a “no flyer” notation.   
+[8] That day, Michael Shaw, a police constable who had served in the area for 
+several years was training a new police constable, Diane Noto.  At the start of their shift 
+they were given a Directed Patrol Assignment, recommending that they patrol the area 
+where the applicant was delivering mail between 12 p.m. and 4.00 p.m.  The 
+assignment details were that phone lines had been cut in the area by suspects 
+described as Male, White and East European, who were using a vehicle.     
+[9] Constable Shaw decided to patrol the identified area that morning, in accordance 
+with the Directed Patrol Assignment.
+-----
+----------------
+
