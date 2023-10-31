@@ -120,6 +120,96 @@ vector_store = VectorStore3B()
 # load nodes created from the cases into the vector stores
 vector_store.add(nodes)
 
+query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
+Provide a summary of the Betty George case.'''
+query_embedding = embed_model.get_query_embedding(query_str)
+
+from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
+from custom_retriever import CustomRetriever
+
+retriever = CustomRetriever(
+    vector_store, embed_model, query_mode = "default", similarity_top_k=2, query_str=query_str
+)
+
+retrieved_nodes = retriever.retrieve(query_str)
+
+from llama_index.response.pprint_utils import pprint_source_node 
+
+for node in retrieved_nodes:
+    pprint_source_node(node, source_length=1000)
+
+from llama_index.query_engine import RetrieverQueryEngine
+
+query_engine = RetrieverQueryEngine.from_args(retriever)
+
+response = query_engine.query(query_str)
+
+print(str(response))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
