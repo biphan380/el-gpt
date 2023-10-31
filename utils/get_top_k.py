@@ -48,3 +48,32 @@ def get_top_k_embeddings(
     result_similarities = [s for s, _ in sorted_tups]
     result_ids = [n for _, n in sorted_tups]
     return result_similarities, result_ids
+
+def query_vector_store(query_str):
+    """
+    Query the vector store with a given string, and write the results to a file.
+
+    Parameters:
+        query_str (str): The query string to be used in searching the vector store.
+
+    Returns:
+        None
+    """
+    # Assuming embed_model is defined and initialized elsewhere
+    # E.g., embed_model = YourEmbeddingModel()
+    
+    # Get the query embedding
+    query_embedding = embed_model.get_query_embedding(query_str)
+
+    # Import necessary modules and classes
+    from llama_index.vector_stores.types import VectorStoreQuery
+
+    # Create a query object
+    query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5)
+
+    # Assuming write_query_results_to_file is defined and initialized elsewhere
+    # E.g., from utils.to_file import write_query_results_to_file
+
+    # Write the results to a file
+    write_query_results_to_file(vector_store, query_obj, "topknodes.txt")
+

@@ -68,8 +68,23 @@ from llama_index.node_parser.extractors import (
     # TitleExtractor, NOTE: title extractor is currently broken
 )
 from llama_index.llms import OpenAI
+from llama_index.llms import LlamaCPP
 
-llm = OpenAI(model="gpt-4")
+from llama_index.llms import LlamaCPP
+from llama_index.llms.llama_utils import messages_to_prompt, completion_to_prompt
+
+llm = LlamaCPP(
+    model_url = None,
+    model_path="models/llama-2-13b-chat.Q4_0.gguf",
+    temperature=0.1,
+    max_new_tokens=256,
+    context_window=3900,
+    generate_kwargs={},
+    model_kwargs={"n_gpu_layers": 1},
+    messages_to_prompt=messages_to_prompt,
+    completion_to_prompt=completion_to_prompt,
+    verbose=True,
+)
 
 metadata_extractor = MetadataExtractor(
     extractors=[
@@ -93,19 +108,21 @@ For now, just delete the processed_nodes.pk1 file everytime we add more cases.
 # Define the path to the cache file 
 cache_file = 'processed_nodes.pk1'
 
-if os.path.exists(cache_file):
-    # If cache file exists, load the processed nodes from the file 
-    with open(cache_file, 'rb') as f:
-        nodes = pickle.load(f)
-else:
-    # If cache file does not exist, process the nodes and save the result to the file
-    nodes = nodes
-    nodes = metadata_extractor.process_nodes(nodes)
-    with open(cache_file, 'wb') as f:
-        pickle.dump(nodes, f)
+# if os.path.exists(cache_file):
+#     # If cache file exists, load the processed nodes from the file 
+#     with open(cache_file, 'rb') as f:
+#         nodes = pickle.load(f)
+# else:
+#     # If cache file does not exist, process the nodes and save the result to the file
+#     nodes = nodes
+#     nodes = metadata_extractor.process_nodes(nodes)
+#     with open(cache_file, 'wb') as f:
+#         pickle.dump(nodes, f)
 
-# print out the nodes with their new metadata 
-write_nodes_to_file(nodes)
+# # print out the nodes with their new metadata 
+# write_nodes_to_file(nodes)
+
+
 
 from llama_index.embeddings import OpenAIEmbedding
 
@@ -149,7 +166,7 @@ from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
 NOTE: if top_k is set to more than 1, there's a chance the retrieved doc nodes
 will not all be from the same case, i.e., the most relevant case. This means
 the llm's response might hallucinate and give the case name of node with the 2nd or 3rd highest
-top_k score, which could be the wrong case
+top_k score, which could be the wrong case.
 
 When we use a qa_prompt and set the top_k to 1, i.e., only give the most relevant node
 as context for the query string, the results are quite good.
@@ -167,11 +184,11 @@ Context information is below.
 Given the context information and not prior knowledge, answer the query.
 Query: {query_str}
 Answer: \
-"""
+""" 
 )
 
 query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
-I'm a court reporter at the Brampton Courthouse who was wrongfully dismissed. has there been a case 
+I'm a post man that was recently stopped and frisked by the police for being black. has there been a case 
 brought before the tribunal that's similar to my scenario? If so, give me the name of the case and summarize the case for me.'''
 
 from llama_index import VectorStoreIndex
