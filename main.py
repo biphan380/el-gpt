@@ -120,15 +120,37 @@ vector_store = VectorStore3B()
 # load nodes created from the cases into the vector stores
 vector_store.add(nodes)
 
+# When we use a qa_prompt and set the top_k to 1, i.e., only give the most relevant node
+# as context for the query string, the results are quite good.
+
+
+from llama_index.prompts import PromptTemplate
+
+qa_prompt = PromptTemplate(
+    """\
+Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: {query_str}
+Answer: \
+""" 
+)
+
 query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
-Provide a summary of the Betty George case.'''
+I'm a post man that was recently stopped and frisked by the police for being black. has there been a case 
+brought before the tribunal that's similar to my scenario? If so, give me the name of the case and summarize the case for me.'''
+
+
+
 query_embedding = embed_model.get_query_embedding(query_str)
 
 from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
 from custom_retriever import CustomRetriever
 
 retriever = CustomRetriever(
-    vector_store, embed_model, query_mode = "default", similarity_top_k=2, query_str=query_str
+    vector_store, embed_model, query_mode = "default", similarity_top_k=6, query_str=query_str
 )
 
 retrieved_nodes = retriever.retrieve(query_str)
@@ -140,6 +162,16 @@ for node in retrieved_nodes:
 
 from llama_index.query_engine import RetrieverQueryEngine
 
+def generate_response(retrieved_nodes, query_str, qa_prompt, llm):
+    context_str = "\n\n".join([r.get_content() for r in retrieved_nodes])
+    fmt_qa_prompt = qa_prompt.format(context_str=context_str, query_str=query_str)
+    response = llm.complete(fmt_qa_prompt)
+    return str(response), fmt_qa_prompt
+
+response, fmt_qa_prompt = generate_response(retrieved_nodes, query_str, qa_prompt, llm)
+print(f"Response (k=1): {response}")
+
+
 query_engine = RetrieverQueryEngine.from_args(retriever)
 
 response = query_engine.query(query_str)
@@ -147,125 +179,3 @@ response = query_engine.query(query_str)
 print(str(response))
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# '''
-# NOTE: if top_k is set to more than 1, there's a chance the retrieved doc nodes
-# will not all be from the same case, i.e., the most relevant case. This means
-# the llm's response might hallucinate and give the case name of node with the 2nd or 3rd highest
-# top_k score, which could be the wrong case.
-
-# When we use a qa_prompt and set the top_k to 1, i.e., only give the most relevant node
-# as context for the query string, the results are quite good.
-# '''
-
-# from llama_index.prompts import PromptTemplate
-
-# qa_prompt = PromptTemplate(
-#     """\
-# Context information is below.
-# ---------------------
-# {context_str}
-# ---------------------
-# Given the context information and not prior knowledge, answer the query.
-# Query: {query_str}
-# Answer: \
-# """ 
-# )
-
-# query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
-# I'm a post man that was recently stopped and frisked by the police for being black. has there been a case 
-# brought before the tribunal that's similar to my scenario? If so, give me the name of the case and summarize the case for me.'''
-
-# from llama_index import VectorStoreIndex
-# index = VectorStoreIndex.from_vector_store(vector_store)
-# retriever = index.as_retriever(similarity_top_k=1)
-# retrieved_nodes = retriever.retrieve(query_str)
-
-# def generate_response(retrieved_nodes, query_str, qa_prompt, llm):
-#     context_str = "\n\n".join([r.get_content() for r in retrieved_nodes])
-#     fmt_qa_prompt = qa_prompt.format(context_str=context_str, query_str=query_str)
-#     response = llm.complete(fmt_qa_prompt)
-#     return str(response), fmt_qa_prompt
-
-# response, fmt_qa_prompt = generate_response(retrieved_nodes, query_str, qa_prompt, llm)
-# print(f"Response (k=1): {response}")
-
-# from llama_index.storage import StorageContext
-# index.storage_context.persist(persist_dir="storage")
-
-# query_engine = index.as_query_engine()
-
-# response = query_engine.query(query_str)
-# print(str(response))
