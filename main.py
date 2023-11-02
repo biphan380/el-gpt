@@ -91,19 +91,19 @@ For now, just delete the processed_nodes.pk1 file everytime we add more cases.
 # Define the path to the cache file 
 cache_file = 'processed_nodes.pk1'
 
-if os.path.exists(cache_file):
-    # If cache file exists, load the processed nodes from the file 
-    with open(cache_file, 'rb') as f:
-        nodes = pickle.load(f)
-else:
-    # If cache file does not exist, process the nodes and save the result to the file
-    nodes = nodes
-    nodes = metadata_extractor.process_nodes(nodes)
-    with open(cache_file, 'wb') as f:
-        pickle.dump(nodes, f)
+# if os.path.exists(cache_file):
+#     # If cache file exists, load the processed nodes from the file 
+#     with open(cache_file, 'rb') as f:
+#         nodes = pickle.load(f)
+# else:
+#     # If cache file does not exist, process the nodes and save the result to the file
+#     nodes = nodes
+#     nodes = metadata_extractor.process_nodes(nodes)
+#     with open(cache_file, 'wb') as f:
+#         pickle.dump(nodes, f)
 
-# print out the nodes with their new metadata 
-write_nodes_to_file(nodes)
+# # print out the nodes with their new metadata 
+# write_nodes_to_file(nodes)
 
 from llama_index.embeddings import OpenAIEmbedding
 
@@ -126,16 +126,31 @@ vector_store.add(nodes)
 
 from llama_index.prompts import PromptTemplate
 
-qa_prompt = PromptTemplate(
+# qa_prompt = PromptTemplate(
+#     """\
+# Context information is below.
+# ---------------------
+# {context_str}
+# ---------------------
+# Given the context information and not prior knowledge, answer the query.
+# Query: {query_str}
+# Answer: \
+# """ 
+# )
+
+refine_prompt = PromptTemplate(
     """\
-Context information is below.
----------------------
+The original query is as follows: {query_str}
+We have provided an existing answer: {existing_answer}
+We have the opportunity to refine the existing answer \
+(only if needed) with some more context below.
+------------
 {context_str}
----------------------
-Given the context information and not prior knowledge, answer the query.
-Query: {query_str}
-Answer: \
-""" 
+------------
+Given the new context, refine the original answer to better answer the query. \
+If the context isn't useful, return the original answer.
+Refined Answer: \
+"""
 )
 
 query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
@@ -150,7 +165,7 @@ from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
 from custom_retriever import CustomRetriever
 
 retriever = CustomRetriever(
-    vector_store, embed_model, query_mode = "default", similarity_top_k=6, query_str=query_str
+    vector_store, embed_model, query_mode = "default", similarity_top_k=1, query_str=query_str
 )
 
 retrieved_nodes = retriever.retrieve(query_str)
@@ -162,13 +177,9 @@ for node in retrieved_nodes:
 
 from llama_index.query_engine import RetrieverQueryEngine
 
-def generate_response(retrieved_nodes, query_str, qa_prompt, llm):
-    context_str = "\n\n".join([r.get_content() for r in retrieved_nodes])
-    fmt_qa_prompt = qa_prompt.format(context_str=context_str, query_str=query_str)
-    response = llm.complete(fmt_qa_prompt)
-    return str(response), fmt_qa_prompt
+from prompt_types import generate_qa_prompt_response
 
-response, fmt_qa_prompt = generate_response(retrieved_nodes, query_str, qa_prompt, llm)
+response, fmt_qa_prompt = generate_qa_prompt_response(retrieved_nodes, query_str, qa_prompt, llm)
 print(f"Response (k=1): {response}")
 
 
