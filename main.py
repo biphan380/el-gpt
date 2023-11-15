@@ -105,6 +105,8 @@ else:
 # print out the nodes with their new metadata 
 write_nodes_to_file(nodes)
 
+
+
 from llama_index.embeddings import OpenAIEmbedding
 
 embed_model = OpenAIEmbedding()
