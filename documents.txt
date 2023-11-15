@@ -349,6 +349,10 @@ Vice-chair
 2016 HRTO 107 (CanLII)
 
 Metadata:
+file_path: cases/George.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-08
 title: George
 
 --------------------------------------------------
@@ -529,6 +533,10 @@ Joseph Tascona
 Member  2023 HRTO 1081 (CanLII)
 
 Metadata:
+file_path: cases/Hunter.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Hunter
 
 --------------------------------------------------
@@ -1028,6 +1036,10 @@ Member
 2023 HRTO 376 (CanLII)
 
 Metadata:
+file_path: cases/Mohammed.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Mohammed
 
 --------------------------------------------------
@@ -1337,6 +1349,10 @@ Kaye Joachim
 Alternate Chair 2009 HRTO 877 (CanLII)
 
 Metadata:
+file_path: cases/Phipps.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Phipps
 
 --------------------------------------------------
@@ -1785,6 +1801,10 @@ Vice-chair
 2021 HRTO 246 (CanLII)
 
 Metadata:
+file_path: cases/yang.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: yang
 
 --------------------------------------------------

@@ -108,19 +108,19 @@ For now, just delete the processed_nodes.pk1 file everytime we add more cases.
 # Define the path to the cache file 
 cache_file = 'processed_nodes.pk1'
 
-# if os.path.exists(cache_file):
-#     # If cache file exists, load the processed nodes from the file 
-#     with open(cache_file, 'rb') as f:
-#         nodes = pickle.load(f)
-# else:
-#     # If cache file does not exist, process the nodes and save the result to the file
-#     nodes = nodes
-#     nodes = metadata_extractor.process_nodes(nodes)
-#     with open(cache_file, 'wb') as f:
-#         pickle.dump(nodes, f)
+if os.path.exists(cache_file):
+    # If cache file exists, load the processed nodes from the file 
+    with open(cache_file, 'rb') as f:
+        nodes = pickle.load(f)
+else:
+    # If cache file does not exist, process the nodes and save the result to the file
+    nodes = nodes
+    nodes = metadata_extractor.process_nodes(nodes)
+    with open(cache_file, 'wb') as f:
+        pickle.dump(nodes, f)
 
-# # print out the nodes with their new metadata 
-# write_nodes_to_file(nodes)
+# print out the nodes with their new metadata 
+write_nodes_to_file(nodes)
 
 
 
@@ -188,8 +188,7 @@ Answer: \
 )
 
 query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
-I'm a post man that was recently stopped and frisked by the police for being black. has there been a case 
-brought before the tribunal that's similar to my scenario? If so, give me the name of the case and summarize the case for me.'''
+Give me a summary of the Yang case'''
 
 from llama_index import VectorStoreIndex
 index = VectorStoreIndex.from_vector_store(vector_store)

@@ -85,7 +85,24 @@ disability.
 9.
 
 Metadata:
+file_path: cases/George.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-08
 title: George
+questions_this_excerpt_can_answer:  Based on the given context, here are three questions that this context can specifically answer:
+
+1. What were the grounds of discrimination alleged by Betty George in her application to the Human Rights Tribunal of Ontario?
+
+Based on the context, it appears that Betty George alleged discrimination based on race, colour, ethnic origin, and age.
+
+2. Why did Betty George's employer, AccertaClaim Servicorp Inc., deny her allegations of discrimination?
+
+According to the context, AccertaClaim Servicorp Inc. denied Betty George's allegations of discrimination because they argued that she was a valued employee who rose rapidly within the ranks of their organization and that placing her in the job in question would have amounted to a demotion with a commensurate removal of management responsibilities and decreases in salary grade, amount, and benefits.
+
+3. What were the dates of the hearing for Betty George's application to the Human Rights Tribunal of Ontario?
+
+Based on the context, the hearing for Betty George's application took place over four days in February and May 2014.
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -149,7 +166,24 @@ She was considered to be part of salary grade 7. She received a performance bonu
 more than $10.000.00 to $57,500.0 0, and she went from salary grade 7 to 10.
 
 Metadata:
+file_path: cases/George.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-08
 title: George
+questions_this_excerpt_can_answer: . Based on the given context, here are three questions that this context can specifically answer:
+
+1. What is the relevant legal framework for addressing discrimination in employment in Ontario, Canada?
+
+Higher-level summary: The relevant legal framework for addressing discrimination in employment in Ontario, Canada is provided by the Human Rights Code, which sets out the rights and protections for individuals against discrimination based on various grounds, including race, ancestry, place of origin, and more.
+
+2. What are the specific allegations made by the applicant in this case regarding discrimination in employment?
+
+Higher-level summary: The applicant, a woman of South Asian descent, alleges that she was subjected to discrimination in employment based on her race, ancestry, and place of origin. Specifically, she claims that she was passed over for promotions despite being a good employee and receiving excellent performance reviews.
+
+3. What is the relevant factual background of the case, including the applicant's qualifications, work experience, and career progression within the respondent company?
+
+Higher-level summary: The applicant has a Bachelor'
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -207,7 +241,24 @@ company’s business.  Although she had made her interest in moving to the publi
 the business  known , she had not been  given any opportunities to do so.
 
 Metadata:
+file_path: cases/George.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-08
 title: George
+questions_this_excerpt_can_answer: ' Based on the given context, here are three questions that this context can provide specific answers to which are unlikely to be found elsewhere:
+
+1. What was the applicant's salary and job title when she started working for the respondent company in 2010?
+
+Higher-level summary: The context provides information about the applicant's employment history with the respondent company, including her starting salary and job title.
+
+2. What was the composition of the executive management group at the respondent company according to the parties' agreement?
+
+Higher-level summary: The context reveals that the parties agree on the racial composition of the executive management group at the respondent company.
+
+3. What were the main lines of business for the respondent company, and how did the private side of the business compare to the public side in terms of growth and revenue?
+
+Higher-level summary: The context provides information about the respondent company's two main lines of business and how the private side was struggling compared to the public side.
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -266,7 +317,12 @@ knew that the applicant was upset that CQ had been transferred out of her depart
 surprised when the applicant raised the issue of discrimination.
 
 Metadata:
+file_path: cases/George.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-08
 title: George
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -325,7 +381,12 @@ See: Law  v. Canada (Minister of Empl oyment and Immigration) , [1999] 1 S.C.R. 
 v. Kapp , 2008 SCC 41, and Withler v. Canada (Attorney General) , 2011 SCC 12.
 
 Metadata:
+file_path: cases/George.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-08
 title: George
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -384,7 +445,12 @@ result of the racial composition of the various job categories within the compan
 job and the appointment of CQ to that job by the executive managem ent group.
 
 Metadata:
+file_path: cases/George.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-08
 title: George
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -443,7 +509,12 @@ has been infringed.
 Dated at Toronto, this 22nd day of January, 2016 .
 
 Metadata:
+file_path: cases/George.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-08
 title: George
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -462,7 +533,12 @@ Vice-chair
 2016 HRTO 107 (CanLII)
 
 Metadata:
+file_path: cases/George.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-08
 title: George
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -566,7 +642,12 @@ information which tends to support his belief that he has experienced discrimina
 the Code.
 
 Metadata:
+file_path: cases/Hunter.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Hunter
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -625,7 +706,12 @@ an issue. However, there is no evidence the applicant has or can point to that t
 applicant’sCode ground was a factor in the actions of the respondent.
 
 Metadata:
+file_path: cases/Hunter.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Hunter
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -677,7 +763,12 @@ Joseph Tascona
 Member  2023 HRTO 1081 (CanLII)
 
 Metadata:
+file_path: cases/Hunter.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Hunter
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -766,7 +857,12 @@ Sharon Pateman, Order Desk Manager .
 parties. Multiple  exhibits were filed by the parties, all on consent.
 
 Metadata:
+file_path: cases/Mohammed.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Mohammed
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -828,7 +924,12 @@ Legal Framework
 5.
 
 Metadata:
+file_path: cases/Mohammed.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Mohammed
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -894,7 +995,12 @@ Tranchemontagne , 2010 ONCA 593  at paras.  112 and 119 .
 paras.
 
 Metadata:
+file_path: cases/Mohammed.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Mohammed
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -959,7 +1065,12 @@ evidence than the actual explanation offered by the respondent, rather than
 totality of the evidence presented.
 
 Metadata:
+file_path: cases/Mohammed.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Mohammed
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1026,7 +1137,12 @@ an action or threat wh ich was intended as a retaliation for claiming or enforce
 right under the Code .
 
 Metadata:
+file_path: cases/Mohammed.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Mohammed
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1089,7 +1205,12 @@ medical appointments which request was accommodated.  This was not disputed by t
 applicant.
 
 Metadata:
+file_path: cases/Mohammed.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Mohammed
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1150,7 +1271,12 @@ November 27, 2017. The applicant’s description to the respondent  suggested a 
 collision in a parking lot.
 
 Metadata:
+file_path: cases/Mohammed.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Mohammed
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1217,7 +1343,12 @@ Did the Respondent Discriminat e Against the Applicant with  Respect to
 Employment Because of Disability When it Terminated his Employment ?
 
 Metadata:
+file_path: cases/Mohammed.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Mohammed
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1279,7 +1410,12 @@ minimal.  Accommodations were provided for almost two months without any impact 
 the employment relationship.
 
 Metadata:
+file_path: cases/Mohammed.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Mohammed
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1331,7 +1467,12 @@ Member
 2023 HRTO 376 (CanLII)
 
 Metadata:
+file_path: cases/Mohammed.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Mohammed
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1407,7 +1548,12 @@ described as Male, White and East European, who were using a vehicle.
 with the Directed Patrol Assignment.
 
 Metadata:
+file_path: cases/Phipps.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Phipps
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1464,7 +1610,12 @@ with Mr. Finlay that morning and learned that the police had questioned him (Fin
 about the letter carriers in the area.
 
 Metadata:
+file_path: cases/Phipps.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Phipps
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1528,7 +1679,12 @@ assess whether it falls within the phenomenon of racial profiling.  In R. v. Bro
 64 O.R. (3) 161 (Ont. CA) at para.
 
 Metadata:
+file_path: cases/Phipps.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Phipps
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1584,7 +1740,12 @@ that Constable Shaw had already noticed the applicant’s alleged crossing back 
 forth across the street in an unusual manner as soon as they turned the corner.
 
 Metadata:
+file_path: cases/Phipps.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Phipps
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1640,7 +1801,12 @@ testified Ms. Katz advised her that the applicant said he had misdelivered somet
 [30] Ms. Katz testified that she could barely recall the events of that day.
 
 Metadata:
+file_path: cases/Phipps.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Phipps
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1699,7 +1865,12 @@ did not pull into the driveway because of rules against entering unnecessarily u
 private property.
 
 Metadata:
+file_path: cases/Phipps.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Phipps
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1741,7 +1912,12 @@ Kaye Joachim
 Alternate Chair 2009 HRTO 877 (CanLII)
 
 Metadata:
+file_path: cases/Phipps.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: Phipps
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1833,7 +2009,12 @@ that when she went back to work on February 12, 2018, she was told to leave the
 premises and not return to work until directed otherwise.
 
 Metadata:
+file_path: cases/yang.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: yang
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1897,7 +2078,12 @@ The Civil Claim
 claim.
 
 Metadata:
+file_path: cases/yang.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: yang
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -1958,7 +2144,12 @@ of reasonable notice of the termination of her employment of not less than
 12 months’ pay, or the sum of $68,000.00.
 
 Metadata:
+file_path: cases/yang.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: yang
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -2026,7 +2217,12 @@ The Parties’ Submissions
 34(11).
 
 Metadata:
+file_path: cases/yang.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: yang
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -2084,7 +2280,12 @@ examples of cases where dismissed employees in her position were allowed to brin
 civil action and an Application at the Tribunal for discrimination.
 
 Metadata:
+file_path: cases/yang.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: yang
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -2143,7 +2344,12 @@ has done is permitted.
 [41] She cites Beaver v Dr.
 
 Metadata:
+file_path: cases/yang.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: yang
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -2206,7 +2412,12 @@ solely on an infringement of a right under Part l.
 1449 , at paragrap h 6, the Tribunal described the operation of s.
 
 Metadata:
+file_path: cases/yang.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: yang
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -2270,7 +2481,12 @@ of having sought accommodation for her disability. In her expl anation for the f
 was seeking 12 months; pay in lieu of notice, she again harkens back to her disability.
 
 Metadata:
+file_path: cases/yang.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: yang
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -2325,7 +2541,12 @@ Vice-chair
 2021 HRTO 246 (CanLII)
 
 Metadata:
+file_path: cases/yang.pdf
+creation_date: 2023-11-08
+last_modified_date: 2023-11-08
+last_accessed_date: 2023-11-13
 title: yang
+questions_this_excerpt_can_answer: 
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
