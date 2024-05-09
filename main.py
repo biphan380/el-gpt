@@ -58,23 +58,23 @@ for i, text_chunk in enumerate(text_chunks):
 from utils.to_file import write_nodes_to_file
 write_nodes_to_file(nodes)
 
-from llama_index.core.node_parser.extractors import (
-    MetadataExtractor,
+from llama_index.core.extractors import (
     QuestionsAnsweredExtractor,
     # TitleExtractor, NOTE: title extractor is currently broken
 )
-from llama_index.core.llms import OpenAI
+from llama_index.llms.openai import OpenAI
 from llama_index.core.llms.llama_utils import messages_to_prompt, completion_to_prompt
 
 # re-inject llamaCPP 
 llm = OpenAI(model="gpt-3.5-turbo")
 
-metadata_extractor = MetadataExtractor(
-    extractors=[
-        # TitleExtractor(nodes=5, llm=llm), NOTE: title extractor is currently broken
-        QuestionsAnsweredExtractor(questions=3, llm=llm),
-    ],
-    in_place=False,
+qa_extractor = QuestionsAnsweredExtractor(questions=3)
+
+# assume documents are defined -> extract nodes
+from llama_index.core.ingestion import IngestionPipeline
+
+pipeline = IngestionPipeline(
+    transformations=[text_splitter, qa_extractor]
 )
 
 import os
