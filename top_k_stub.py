@@ -10,7 +10,7 @@
 # query_embedding = embed_model.get_query_embedding(query_str)
 
 # # query the vector store with dense search.
-# from llama_index.vector_stores.types import (
+# from llama_index.core.vector_stores.types import (
 # VectorStoreQuery,
 # )
 # query_obj = VectorStoreQuery(query_embedding=query_embedding, similarity_top_k=5)

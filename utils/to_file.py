@@ -1,4 +1,4 @@
-from llama_index.schema import Document
+from llama_index.core.schema import Document
 from typing import List
 
 def write_documents_to_file(documents: List[Document], filename: str = 'documents.txt'):
@@ -27,7 +27,7 @@ def write_documents_to_file(documents: List[Document], filename: str = 'document
 # documents = [Document(...), Document(...), ...]  # Assuming you have a list of Document objects
 # write_documents_to_file(documents)
 
-from llama_index.schema import TextNode
+from llama_index.core.schema import TextNode
 
 def write_nodes_to_file(nodes: List[TextNode], filename: str = 'nodes.txt'):
     """
@@ -81,7 +81,7 @@ def write_text_chunks_to_file(text_chunks: List[str], filename: str = 'text_chun
 # write_text_chunks_to_file(text_chunks, 'output_text_chunks.txt')
 
 from vector_store.vector_store_3b import VectorStore3B
-from llama_index.vector_stores.types import VectorStoreQuery
+from llama_index.core.vector_stores.types import VectorStoreQuery
 
 def write_query_results_to_file(VectorStore3B, VectorStoreQuery, filename='output.txt'):
     """

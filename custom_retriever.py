@@ -1,9 +1,9 @@
-from llama_index import QueryBundle
-from llama_index.retrievers import BaseRetriever
+from llama_index.core import QueryBundle
+from llama_index.core.retrievers import BaseRetriever
 from vector_store.vector_store_3b import VectorStore3B
-from llama_index.schema import NodeWithScore
-from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
-from llama_index.embeddings import OpenAIEmbedding
+from llama_index.core.schema import NodeWithScore
+from llama_index.core.vector_stores import VectorStoreQuery, VectorStoreQueryResult
+from llama_index.core.embeddings import OpenAIEmbedding
 
 from typing import Any, List, Optional
 

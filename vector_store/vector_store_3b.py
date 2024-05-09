@@ -3,12 +3,12 @@
 from utils.filter import filter_nodes
 
 from typing import List, Any, Dict, cast
-from llama_index.vector_stores.types import (
+from llama_index.core.vector_stores.types import (
     VectorStore,
     VectorStoreQuery,
     VectorStoreQueryResult,
 )
-from llama_index.schema import BaseNode
+from llama_index.core.schema import BaseNode
 from utils.get_top_k import get_top_k_embeddings
 from .vector_store_2 import VectorStore2
 

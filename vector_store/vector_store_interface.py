@@ -4,13 +4,13 @@ We’ll start off implementing embedding search, and add metadata filters.
 
 '''
 
-from llama_index.vector_stores.types import (
+from llama_index.core.vector_stores.types import (
     VectorStore,
     VectorStoreQuery,
     VectorStoreQueryResult,
 )
 from typing import List, Any, Optional, Dict
-from llama_index.schema import TextNode, BaseNode
+from llama_index.core.schema import TextNode, BaseNode
 import os
 
 class BaseVectorStore(VectorStore):

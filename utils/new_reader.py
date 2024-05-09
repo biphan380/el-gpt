@@ -1,7 +1,7 @@
-from llama_index import SimpleDirectoryReader
+from llama_index.core import SimpleDirectoryReader
 from typing import Callable, Dict, Generator, List, Optional, Type
-from llama_index.schema import Document
-from llama_index.readers.file.base import DEFAULT_FILE_READER_CLS
+from llama_index.core.schema import Document
+from llama_index.core.readers.file.base import DEFAULT_FILE_READER_CLS
 
 class CustomDirectoryReader(SimpleDirectoryReader):
     

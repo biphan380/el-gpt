@@ -1,5 +1,5 @@
 from vector_store_2 import VectorStore2
-from llama_index.vector_stores.types import (
+from llama_index.core.vector_stores.types import (
     VectorStore,
     VectorStoreQuery,
     VectorStoreQueryResult,

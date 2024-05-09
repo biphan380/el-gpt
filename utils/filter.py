@@ -5,8 +5,8 @@ and then perform semantic querying.
 
 For simplicity we use metadata filters for exact matching with an AND condition.'''
 
-from llama_index.vector_stores import MetadataFilters
-from llama_index.schema import BaseNode
+from llama_index.core.vector_stores import MetadataFilters
+from llama_index.core.schema import BaseNode
 from typing import cast, List
 
 def filter_nodes(nodes: List[BaseNode], filters: MetadataFilters):

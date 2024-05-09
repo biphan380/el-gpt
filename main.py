@@ -1,4 +1,3 @@
-from llama_index import VectorStoreIndex
 from utils.new_reader import CustomDirectoryReader
 
 reader = CustomDirectoryReader(
@@ -9,8 +8,8 @@ documents = reader.load_data()
 
 from utils.to_file import write_documents_to_file
 write_documents_to_file(documents)
-   
-from llama_index.text_splitter import SentenceSplitter
+
+from llama_index.core.node_parser import SentenceSplitter
 
 # Here we import our SentenceSplitter to split document texts into smaller chunks, while
 # preserving paragraphs/sentences as much as possible.
@@ -43,7 +42,7 @@ We inject metadata from the document into each node.
 This essentially replicates logic in our SimpleNodeParser
 '''
 
-from llama_index.schema import TextNode
+from llama_index.core.schema import TextNode
 
 nodes = [] 
 # used 'i' to mean 'index' because in a lot of languages, the index position that the iterator returns (e.g enumerate) is declared as 'i'
@@ -59,14 +58,15 @@ for i, text_chunk in enumerate(text_chunks):
 from utils.to_file import write_nodes_to_file
 write_nodes_to_file(nodes)
 
-from llama_index.node_parser.extractors import (
+from llama_index.core.node_parser.extractors import (
     MetadataExtractor,
     QuestionsAnsweredExtractor,
     # TitleExtractor, NOTE: title extractor is currently broken
 )
-from llama_index.llms import OpenAI
-from llama_index.llms.llama_utils import messages_to_prompt, completion_to_prompt
+from llama_index.core.llms import OpenAI
+from llama_index.core.llms.llama_utils import messages_to_prompt, completion_to_prompt
 
+# re-inject llamaCPP 
 llm = OpenAI(model="gpt-3.5-turbo")
 
 metadata_extractor = MetadataExtractor(
@@ -107,7 +107,7 @@ write_nodes_to_file(nodes)
 
 
 
-from llama_index.embeddings import OpenAIEmbedding
+from llama_index.core.embeddings import OpenAIEmbedding
 
 embed_model = OpenAIEmbedding()
 
@@ -126,7 +126,7 @@ query_str = '''You are an expert on human rights cases brought before the human 
 Provide a summary of the Betty George case.'''
 query_embedding = embed_model.get_query_embedding(query_str)
 
-from llama_index.vector_stores import VectorStoreQuery, VectorStoreQueryResult
+from llama_index.core.vector_stores import VectorStoreQuery, VectorStoreQueryResult
 from custom_retriever import CustomRetriever
 
 retriever = CustomRetriever(
@@ -135,80 +135,18 @@ retriever = CustomRetriever(
 
 retrieved_nodes = retriever.retrieve(query_str)
 
-from llama_index.response.pprint_utils import pprint_source_node 
+from llama_index.core.response.pprint_utils import pprint_source_node 
 
 for node in retrieved_nodes:
     pprint_source_node(node, source_length=1000)
 
-from llama_index.query_engine import RetrieverQueryEngine
+from llama_index.core.query_engine import RetrieverQueryEngine
 
 query_engine = RetrieverQueryEngine.from_args(retriever)
 
 response = query_engine.query(query_str)
 
 print(str(response))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -232,7 +170,7 @@ print(str(response))
 # as context for the query string, the results are quite good.
 # '''
 
-# from llama_index.prompts import PromptTemplate
+# from llama_index.core.prompts import PromptTemplate
 
 # qa_prompt = PromptTemplate(
 #     """\
@@ -250,7 +188,7 @@ print(str(response))
 # I'm a post man that was recently stopped and frisked by the police for being black. has there been a case 
 # brought before the tribunal that's similar to my scenario? If so, give me the name of the case and summarize the case for me.'''
 
-# from llama_index import VectorStoreIndex
+# from llama_index.core import VectorStoreIndex
 # index = VectorStoreIndex.from_vector_store(vector_store)
 # retriever = index.as_retriever(similarity_top_k=1)
 # retrieved_nodes = retriever.retrieve(query_str)
@@ -264,7 +202,7 @@ print(str(response))
 # response, fmt_qa_prompt = generate_response(retrieved_nodes, query_str, qa_prompt, llm)
 # print(f"Response (k=1): {response}")
 
-# from llama_index.storage import StorageContext
+# from llama_index.core.storage import StorageContext
 # index.storage_context.persist(persist_dir="storage")
 
 # query_engine = index.as_query_engine()

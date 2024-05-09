@@ -1,6 +1,6 @@
 from typing import List, Any, Dict
 from .vector_store_interface import BaseVectorStore
-from llama_index.schema import BaseNode
+from llama_index.core.schema import BaseNode
 
 # Not sure why docs decided to call this VectorStore2, could've just called it VectorStore
 class VectorStore2(BaseVectorStore):
