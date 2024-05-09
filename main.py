@@ -1,10 +1,13 @@
 from utils.new_reader import CustomDirectoryReader
+from llama_index.core import SimpleDirectoryReader
 
-reader = CustomDirectoryReader(
+reader = SimpleDirectoryReader(
     input_dir="cases/"
 )
 
 documents = reader.load_data()
+
+print(len(documents))
 
 from utils.to_file import write_documents_to_file
 write_documents_to_file(documents)
