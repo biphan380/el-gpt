@@ -98,7 +98,12 @@ if os.path.exists(cache_file):
 else:
     # If cache file does not exist, process the nodes and save the result to the file
     nodes = nodes
-    nodes = metadata_extractor.process_nodes(nodes)
+    nodes = pipeline.run(
+        documents=documents,
+        in_place=True,
+        show_progress=True,
+    )
+
     with open(cache_file, 'wb') as f:
         pickle.dump(nodes, f)
 
@@ -107,46 +112,47 @@ write_nodes_to_file(nodes)
 
 
 
-from llama_index.core.embeddings import OpenAIEmbedding
 
-embed_model = OpenAIEmbedding()
+# from llama_index.core.embeddings import OpenAIEmbedding
 
-for node in nodes:
-    node_embedding = embed_model.get_text_embedding(
-        node.get_content(metadata_mode="all")
-    )
-    node.embedding = node_embedding
+# embed_model = OpenAIEmbedding()
 
-from vector_store.vector_store_3b import VectorStore3B
-vector_store = VectorStore3B()
-# load nodes created from the cases into the vector stores
-vector_store.add(nodes)
+# for node in nodes:
+#     node_embedding = embed_model.get_text_embedding(
+#         node.get_content(metadata_mode="all")
+#     )
+#     node.embedding = node_embedding
 
-query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
-Provide a summary of the Betty George case.'''
-query_embedding = embed_model.get_query_embedding(query_str)
+# from vector_store.vector_store_3b import VectorStore3B
+# vector_store = VectorStore3B()
+# # load nodes created from the cases into the vector stores
+# vector_store.add(nodes)
 
-from llama_index.core.vector_stores import VectorStoreQuery, VectorStoreQueryResult
-from custom_retriever import CustomRetriever
+# query_str = '''You are an expert on human rights cases brought before the human rights tribunal of ontario. 
+# Provide a summary of the Betty George case.'''
+# query_embedding = embed_model.get_query_embedding(query_str)
 
-retriever = CustomRetriever(
-    vector_store, embed_model, query_mode = "default", similarity_top_k=2, query_str=query_str
-)
+# from llama_index.core.vector_stores import VectorStoreQuery, VectorStoreQueryResult
+# from custom_retriever import CustomRetriever
 
-retrieved_nodes = retriever.retrieve(query_str)
+# retriever = CustomRetriever(
+#     vector_store, embed_model, query_mode = "default", similarity_top_k=2, query_str=query_str
+# )
 
-from llama_index.core.response.pprint_utils import pprint_source_node 
+# retrieved_nodes = retriever.retrieve(query_str)
 
-for node in retrieved_nodes:
-    pprint_source_node(node, source_length=1000)
+# from llama_index.core.response.pprint_utils import pprint_source_node 
 
-from llama_index.core.query_engine import RetrieverQueryEngine
+# for node in retrieved_nodes:
+#     pprint_source_node(node, source_length=1000)
 
-query_engine = RetrieverQueryEngine.from_args(retriever)
+# from llama_index.core.query_engine import RetrieverQueryEngine
 
-response = query_engine.query(query_str)
+# query_engine = RetrieverQueryEngine.from_args(retriever)
 
-print(str(response))
+# response = query_engine.query(query_str)
+
+# print(str(response))
 
 
 
